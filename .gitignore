@@ -5,4 +5,5 @@ output/
 bin/
 include/
 lib/
+share/
 pyvenv.cfg
