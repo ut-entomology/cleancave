@@ -1,0 +1,164 @@
+# Jars Ready for Labeling-1 November 2021 (received November 10th)
+
+# none = no state (S.J. Cave)
+Arthropoda | Arachnida | Acari | - | - | - | - | - | -- [states: none, Arkansas, California, Georgia, Indiana, Missouri, Montana, New Mexico, Oklahoma]
+Arthropoda | Arachnida | - | Acari | Opilioacarida| - | - | - | -- 
+Arthropoda | Chilopoda | - | Geophilomorpha (troglobite) | - | - | - | - | --
+Arthropoda | Chilopoda | - | Geophilomorpha | - | - | - | - | -- [state: TEXAS]
+Arthropoda | Chilopoda | - | Geophilomorpha | - | - | - | - | -- [states: ARKANSAS, CALIFORNIA, NEW MEXICO]
+Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Arctogeophilus sp.
+Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Arenophilus sp.
+Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Arenophilus n. sp.
+Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Geophilus sp.
+Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Taiyuma (?)  sp.
+
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Ethopolidae | - | Bothropolys multidentatus
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | - | -- [state: Texas]
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | - | -- [states: Alabama, Arkansas, New Mexico, Tennessee]
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | Arenobiinae | --
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | - | Eulithobius sp.
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | Arenobiinae | Gosibius (Abatobius) sp.
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | - | Nadabius sp.
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | - | Oabius patonius
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | - | Texobius sp.
+
+Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae (troglobite) | - | --
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | - | - | --
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopendridae | - | --
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Cryptopidae | - | --
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Cryptopidae | - | Cryptops sp.
+
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Cryptopidae | - | Cryptops equeus
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Cryptopidae | - | Cryptops hyalinus
+
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Cryptopidae | - | Cryptops leucopodus
+
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Plutoniumidae | - | Theatops phanus
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopendridae | - | Hemiscolopendra marginata
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopendridae | - | Hemiscolopendra punctiventris
+
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopendridae | - | Scolopendra sumichrasti
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Thalkethops grallatrix
+Arthropoda | Chilopoda | - | Scutigeromorpha | - | - | Scutigeridae | - | -- [state: TEXAS]
+Arthropoda | Diplopoda | - | Callipodida | - | - | - | - | --
+Arthropoda | Diplopoda | - | Callipodida | - | - | Abacionidae | - | Abacion texense
+Arthropoda | Diplopoda | - | Callipodida | - | - | Andrognathidae | - | Brachybe producta
+Arthropoda | Diplopoda | - | Callipodida | - | - | Casiopetalidae | - | Tetracion jones
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Caseyidae | - | --
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Caseyidae | - | Caseya sp.
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Caseyidae | - | Opiona sp.
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Caseyidae | - | Opiona n.sp.
+
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Cleidogonidae | - | Cleidogona sp.
+
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Cleidogonidae | - | Cleidogona bacillipus
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Cleidogonidae | - | Cleidogona baroqua
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Cleidogonidae | - | Cleidogona crucis
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Cleidogonidae | - | Cleidogona pecki
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Cleidogonidae | - | Cleidogona pochteca
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Cleidogonidae | - | Cleidogona totonaca
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Cleidogonidae | - | Cleidogona yerbabuena
+
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Conotylidae | - | Austrotyla sp.
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Conotylidae | - | Taiyutla sp.
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Striariidae | - | Amplaria sp.
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Striariidae | - | Amplaria shastae
+
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Trichopetalidae | - | Mexiterpes sp.
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Trichopetalidae | - | Mexiterpes calenturas
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Trichopetalidae | - | Mexiterpes fishi
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Trichopetalidae | - | Mexiterpes metallica
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Trichopetalidae | - | Mexiterpes sangregorio
+
+Arthropoda | Diplopoda | - | Chordeumatida | - | - | Trichopetalidae | - | Scoterpes sp.
+Arthropoda | Diplopoda | - | Glomerida | - | - | - | 
+Arthropoda | Diplopoda | - | Glomerida | - | - | Glomeridae | - | Glomeroides sp.
+Arthropoda | Diplopoda | - | Glomerida | - | - | Glomeridae | - | Glomeroides caecus
+Arthropoda | Diplopoda | - | Glomerida | - | - | Glomeridae | - | Glomeroides grubbsi
+Arthropoda | Diplopoda | - | Glomerida | - | - | Glomeridae | - | Glomeroides patei
+
+Arthropoda | Diplopoda | - | Julida | - | - | Paeromopidae | - | Californiulus sp.
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus n. sp.
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus acuminatus
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus adelphus
+
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus austinensis
+
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus brazonus
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus camellus
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus craterus fili
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus dorophor
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus spinifer
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Aniulus (Hakiulus) amophor
+
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Bollmaniulus sp.
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Ethojulus n. sp.
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Gosiulus conformatus
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | Spathiulus tribolus
+
+Arthropoda | Diplopoda | - | Polyxenida | - | - | - | - | --
+Arthropoda | Diplopoda | - | Spirobolida | - | - | Typhlobolellidae | - | Undetermined genus and species
+Arthropoda | Diplopoda | - | Spirobolida | - | - | Typhlobolellidae | - | Ergene setosus
+Arthropoda | Diplopoda | - | Spirobolida | - | - | Typhlobolellidae | - | Reddellobus troglobius
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | - | - | -- [country: MEXICO]
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Bonetesmidae | - | Bonetesmus soileauae
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Bonetesmidae | - | Bonetesmus verus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Cryptodesmidae | - |
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Cryptodesmidae | - | Peridontodesmus punctatus
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Cryptodesmidae | - | Sierresmus n. sp.
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Eurymerodesmidae | - | Eurymerodesmus dactylocyphus
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Eurymerodesmidae | - | Eurymerodesmus digitatus
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Eurymerodesmidae | - | Eurymerodesmus sp.
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Eurymerodesmidae | - | Eurymerodesmus melacis
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Fuhrmannodesmidae | - | --
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Fuhrmannodesmidae | - | Caramba embecausius
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Fuhrmannodesmidae | - | Sumidero sp.
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Fuhrmannodesmidae | - | Sumidero pecki
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Fuhrmannodesmidae | - | Sumidero sumidero
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Fuhrmannodesmidae | - | Tylogoneus sp.
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Fuhrmannodesmidae | - | Tylogoneus oyamel
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Fuhrmannodesmidae | - | Tylogoneus rainesi
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Rhachodesmidae | - | --
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Rhachodesmidae | - | Mexidesmus harrisoni
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | --
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | Sphaeriodesmus cruzbelem
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | Sphaeriodesmus neglectus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | Desmonus pudicus
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | Desmonus sp.
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | Sphaeriodesmus cotsalostoc
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | Sphaeriodesmus robertsoni
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | Sphaeriodesmus sprousei
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Sphaeriodesmidae | - | Sphaeriodesmus tortus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Xystodesmidae | - | - |
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Xystodesmidae | - | Stenodesmus tuobitus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Xystodesmidae | - | Sigmocheir sp.
+Arthropoda | Diplopoda | - | Spirobolida | - | - | Spirobolidae | - | Narceus americanus
+Arthropoda | Diplopoda | - | Spirobolida | - | - | Spirobolidae | - | Tylobolus castaneus
+Arthropoda | Diplopoda | - | Spirobolida | - | - | Spirobolidae | - | Tylobolus uncigerus
+
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Cambalidae | - | --
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Cambalidae | - | Cambala sp.
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Cambalidae | - | Cambala reddelli inornatus
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Cambalidae | - | Cambala reddelli reddelli
+
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Spirostreptidae | - | Orthoporus ornatus
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Spirostreptidae | - | Orthoporus solicolens
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Spirostreptidae | - | Orthoporus texicolens
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Spirostreptidae | - | Orthoporus zizicolens
+Arthropoda | Diplopoda | - | Spirostreptida | - | - | Spirostreptidae | - | Orthoporus spelaeus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae-Agonini | - | --
+Arthropoda | Malacostraca | - | Isopoda | - | - | Trichonscidae | - | Miktoniscus sp.
+Arthropoda | Maxillopoda | Copepoda | - | - | - | - | - | --
+
+# Mods from James' 15 Nov response
+- (44752),(17372),(45211),(60452),(94896),(53199),(1594),(52514),95083,(95617),(44427)

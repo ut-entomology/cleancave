@@ -1,0 +1,159 @@
+# Jars Ready for Labeling-30 November 2021
+
+Arthropoda | Collembola | - | Entomobryomorpha | - | - | Entomobryidae | - | Pseudosinella violenta
+
+Arthropoda | Diplopoda | - | - | - | - | - | - | -- [state: TEXAS]
+
+Arthropoda | Diplopoda | - | - | - | - | - | - | -- [states: ALABAMA, GEORGIA, OKLAHOMA, VIRGINIA]
+
+Arthropoda | Diplura | - | Rhabdura | - | - | Campodeidae | - | -- [countries: BELIZE, GUATEMALA, MEXICO]
+
+Arthropoda | Insecta | - | Archaeognatha | - | - | - | - | --
+
+# To be replaced with Coleoptera Carabidae HONDURAS, MEXICO
+# Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [countries: HONDURAS, MEXICO]
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine infernalis ewersi
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine infernalis n. subsp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine tenebrosa
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine tenebrosa mckenziei
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine tenebrosa tenebrosa
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Meloidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Meloidae | - | Meloe sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Meloidae | - | Pyrota postica
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Micromalthidae | - | Micromalthus debilis
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Nitidulidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Nitidulidae | - | Stelidota sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Noteridae | - | Notomicrus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Passalidae | - | Odontaenius disjunctus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Phengodidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Phengodidae | - | Cenophengus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Phengodidae | - | Phengodes sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Psephenidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Ptiliidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Ptilodactylidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Ptilodactylidae | - | Ptilodactyla sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Ptilodactylidae-Anchytarsini | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Rhipiceridae | - | Callirhipis sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | Aphodiinae | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Ancognatha manca
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Aphodius sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Ataenius sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Ateuchus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Ateuchus texanus
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Canthon (Glaphyrocanthon) viridis
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Cotinis (Cotinis) sp. prob. mutabilis
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Diplotaxis sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Onthophagus hecate
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Onthophagus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Phyllophaga sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Rhyssemus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Stenothorax sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae | - | Xyloryctes sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Scraptiidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Silphidae | - | Nicrophorus marginatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Silphidae | - | Nicrophorus olidus
+Arthropoda | Insecta | - | Coleoptera | - | - | Silphidae | - | Oxelytrum discicolle
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Silvanidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | - | Philonthus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | - | Quedius sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | Pselaphinae | Batrisodes (Babnormodes) gravesi
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | Pselaphinae | Batrisodes (Excavodes) clypeonotus
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | Pselaphinae | Tmesiphorus costalis
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | Scaphidiinae | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | Scaphidiinae | Scaphisoma sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | Scydmaeninae | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | Scydmaeninae | Euconnus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Alobates pennsylvanica
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Alphitobius diaperinus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Alphitobius laevigatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Alphitobius sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Blapstinus fortis
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Blapstinus fuscus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Blapstinus sp. near viator
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Centronopus grandicollis
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Embaphion contusum
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Embaphion sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Mitys inflatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Nyctoporus sponsa
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Platydema micans
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Poecilocrypticus formicophilus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Tenebrio molitor
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | Alleculinae | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | Alleculinae | Androchirus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | Alleculinae | Hymenorus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Absolus mexicanus mexicanus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes sallei
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Blapylis) constrictum
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Blapylis) robinetti
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Caverneleodes) easterlai
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Eleodes) gracilis gracils
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Eleodes) hispilabris
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Eleodes) hispilabris nuptus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Eleodes) spinipes macrurus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Melaneleodes) tricostatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Metablapylis) nigrinus
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Promus) fusiformis
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Promus) goryi
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Eleodes (Promus) knullorum
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Tenebrionidae | - | Embaphion muricatum
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Trogidae | - | Omorgus inflatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Trogidae | - | Omorgus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Trogidae | - | Omorgus suberosus
+Arthropoda | Insecta | - | Coleoptera | - | - | Trogossitidae | - | --
+
+Arthropoda | Insecta | - | Embioptera | - | - | - | - | --
+
+Arthropoda | Insecta | - | Ephemeroptera | - | - | - | - | --
+Arthropoda | Insecta | - | Ephemeroptera | - | - | Baetidae | - | --
+Arthropoda | Insecta | - | Ephemeroptera | - | - | Baetidae | - | Callibaetis sp.
+Arthropoda | Insecta | - | Ephemeroptera | - | - | Baetidae | - | Plauditus sp.
+Arthropoda | Insecta | - | Ephemeroptera | - | - | Leptophlebiidae | - | Choroterpes (Neochoroterpes) mexicanus
+Arthropoda | Insecta | - | Ephemeroptera | - | - | Tricorythidae | - | Tricorythodes sp.
+
+Arthropoda | Insecta | - | Neuroptera | - | - | - | - | --
+
+Arthropoda | Insecta | - | Neuroptera | - | - | Chrysopidae | - | --
+Arthropoda | Insecta | - | Neuroptera | - | - | Coniopterygidae | - | --
+Arthropoda | Insecta | - | Neuroptera | - | - | Corydalidae | - | Corydalus sp.
+Arthropoda | Insecta | - | Neuroptera | - | - | Corydalidae | - | Neohermes sp. prob. californicus
+
+Arthropoda | Insecta | - | Neuroptera | - | - | Myrmeleontidae | - | --
+Arthropoda | Insecta | - | Neuroptera | - | - | Myrmeleontidae | - | Eremeleon longior
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Trichoniscidae | - | -- [country: MEXICO]
+
+# Exclusions per James' Dec 6 response to the problem report
+- (75469), 81094, 81867, (53832), (52057), (30446), 246634, 72615

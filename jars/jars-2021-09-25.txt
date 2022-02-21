@@ -1,0 +1,44 @@
+Annelida | Oligochaeta | - | Haplotaxida | - | - | Lumbricidae | - | Dendrobaena rubida
+Annelida | Oligochaeta | - | Haplotaxida | - | - | Lumbricidae | - | Octolasion tyrtaeum
+
+Arthropoda | Arachnida | - | Araneae | - | - | - | - | -- [state: Texas]
+
+Arthropoda | Diplura | - | Dicellurata | - | - | Iapygidae | - | Mixojapyx reddelli
+Arthropoda | Diplura | - | Dicellurata | - | - | Iapygidae | - | Mixojapyx sp.
+Arthropoda | Diplura | - | Dicellurata | - | - | Iapygidae | - | Mixojapyx sp. cf. reddelli
+
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Nelipophygus n. sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Nelipophygus sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Nesomylacris reddelli
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Parcoblatta fulvescens
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Parcoblatta sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Pseudomops interceptus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | -- [state: Texas]
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Mexisphodrus valverdensis
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Notiobia (Anisotarsus) maculicornis
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Notiobia (Anisotarsus) maculipennis
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Notiobia (Anisotarsus) purpurascens
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Notiobia (Anisotarsus) terminata
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Notiophilus novemstriatus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Paratachys sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Polyderis laeva
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Scaphinotus (Nomaretus) liebecki
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Selenophorus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Selenophorus (Selenophorus) gagatinus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Selenophorus (Selenophorus) sp. (pedicularius group)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Selenophorus (Selenophorus) sp. (planipennis group)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Selenophorus (Selenophorus) sp. (planipennus group)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Trichotichnus (Iridessus) fulgens
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine austinica
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine bullis
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 1
+
+# James's Oct 25 response
+- 5845,(46176),(53744),(93391),90711,(60989),90711,(61294),(93278),(6181)
+- (95567),(95582),(13820)

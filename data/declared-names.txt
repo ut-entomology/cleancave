@@ -1,0 +1,1643 @@
+# Oddball names not assigned to any collection, specified here so they parse properly.
+
+P.L.R. 26
+Riley (26)
+Yoder-Williams
+ /Yoder-Williams/1967
+ /Yoder-Williams/1970
+Wharton (28)
+
+# Known names and name corrections.
+
+Aalbu, Rolf!
+Abbruzzese, *, -
+  /Abbruruzzese, *
+  /Abgbruzzese, *
+Abbruzzese, Carlo!
+  /Abruzzese, Carlos
+  /Abbruzzese, Carlos
+Abernathy, Miles
+Abernethy, Frances
+- Abernethy, F.
+  /Abernathy, F.
+Abud, A.
+ACI Consulting
+Ackermann, Philippe
+  /Ackermann, Phillippe
+Adams, Leah J.
+  /Adams, J.
+Akers, Simon
+Albert, Richard O.!
+  /Albert
+Albert, Tom
+Alexander, Edward
+- Alexander, Ed!
+- Alexander, E.
+  /Alexander, C.
+Allen, Allen
+Allen, Bud
+Allen, Doug L.!!
+- Allen, D.
+Anderson, Robert S.
+- Anderson, R.
+Anderson, Warren
+Andrews, *, *
+  /Ancrews, *, *
+Andrews, Joanne
+Andrews, William M.!!
+  /Andrews
+- Andrews, W. M.
+- Andrews, B.
+Arburn, Don!
+  /Arburn, Dan
+Armstrong, Wyatt
+Arnold, James!
+Asanidze, Lasha
+  /Asanadize, *
+  /Ashanidze, *
+Assoc. Project No. ???
+  /Assoc. Project No.
+Associates Project No. 0195
+  /Assoc. No. 0195
+  /Assoc Project No. 0195
+  /Assoc. Project No. 0195
+  /Project No. 0195
+Atkinson, Gerald
+- Atkinson, Jerry!
+Aurora, Amanda!
+Austin, Dan
+Avila, Yazmin!
+  /Yazmin
+  /Avila, Yaxmin
+  /Avila, Yasmin
+- Avila, Yaz
+  /Avila, Yax
+Baert, Leon
+  /Baert, Leonf
+  /Baert, Leion 
+Baker, James K.!
+Balgeman, William
+- Balgeman, W.
+  /Balgemann, W.
+Ballesteros, *, *
+  /Bllesteros, *, *
+  /Bellesteros, *, *
+Ballesteros, Jesus
+  /Ballesteros
+- Ballesteros, J.
+  /Ballesteros, A.
+  /Ballasteros, A.
+Ballinger, Royce!
+  /Ballinger
+  /Bellinger
+Balsdon, Sheila!
+  /Balsdon, J.
+Banda, Javier
+  /Bandas, Javier
+Barlow, Rachel!
+  /Barlow, C.
+  /Barlow, J.
+Barr, Thomas C., Jr.!
+- Barr, T. C., Jr.
+  /Barr, T. C.
+  /Barr, T.
+Barrones, Oscar
+Barth, Nicholas
+Bartholomew, Roger!
+Bauer, Kim
+- Bauer, K.
+Bauer, William A.
+- Bauer, Wm.
+Baum, H. C.
+Bauman, Richard W.
+  /Bauman
+Bayer, Cutler
+Bayless, Todd!
+Bearll, M.!
+Bechtol, *, *
+  /Bechtal, *, *
+  /Beckhtol, *, *
+  /Bechtel, *, *
+Bechtol, Hub
+  /Bechtol, Hugh
+  /Bechtol, Dub
+Becker, Piper
+- Becker, P.!
+Beckmann, *, *
+  /Bckmann, *, *
+  /Beclmann, *, *
+Behnke, Maggie!
+Bell, William!
+- Bell, Bill!
+Bell, Leslie!
+Belski, Carol
+Bement, Lee!
+Benavente, Alex!
+Bendik, Nathan
+- Bendik, N.
+  /Bendik, M.
+Benfer, Bob!
+Berrones, Oscar!
+Beuskewitz, *, *
+  /Beuscewite, *, *
+  /Blusketitz, *, *
+  /Brusketitz, *, *
+  /Brukewitz, *, *
+  /Bruskerwite, *, *
+  /Bruskewite, *, *
+  /Bruskewith, *, *
+  /Bruskewitz, *, *
+  /Bruslewitz, *, *
+  /Busketite, *, *
+  /Busketwitz, *, *
+  /Buskewite, *, *
+  /Brusketwitz, *, *
+  /Bruskwitz, *, *
+Beveridge, Aimee!
+Bianculli, *, *
+  /Bianulli, *, *
+  /Blancuill, *, *
+Biegert, Carolyn!
+Bisset, Bob!
+Bittinger, Craig!
+Blair, Jenny!
+- Blair, J.
+  /Barr, J.
+  /Beer, J.
+  /Baer, J.
+Blair, Tony
+Blakely, Jeb
+- Blakely, J.
+  /Blakley, J.
+Clark, Barrett
+  /Blark, B.
+Blohner, *, *
+  /Blobner, *, *
+Boehm
+Bogart, James
+- Bogart, J.
+  /Bogert, J.
+Boice, Nancy
+Bolano, Danny
+- Bolano, D.
+  /Bolando, D.
+Bowles, David!
+Boyd, Eddie!
+- Boyd, E.
+  /Boyd, R.
+Borowsky, *, *
+  /Browowky, *, *
+  /Browosky, *, *
+Borowsky, Richard
+Bowman, Thomas E.
+Brady, James
+Brauer, Matt!
+Brinkley, Malcolm
+Brockman, Dennis
+Brooks, John
+  /B., J.
+Brossard, S.!
+  /Brossards, S.
+Broussard, Don
+- Broussard, D.
+  /Brossard, D.
+Brown, Harley P.
+Brown, James C.
+- Brown, J.
+- Brown, J. C.
+Brozozowski, M.!
+Bryant, Paul!
+- Bryant, P.
+  /Bryant, B.
+Buck, Marcus
+Bull, Eddie!
+Burrell, *, *
+  /Burrill, *, *
+Burrell, Mike!
+Burton, Brian
+  /B., B.
+Butterwick, *, -
+  /Buttwrwick, *
+Butterwick, Mary
+Byrd, Tom!
+Cady
+Calhoun, Sandi!
+  /Calhoun, Sanid
+Calvert, William
+Cambrian Environmental
+  /Cambridan Environmental
+Campbell, Cristina!
+Campbell, Glenn D.!!
+- Campbell, G.
+- Campbell, G. D.
+  /Campbell, C. D.
+Canny, Duane!
+Cantrell-Morton, Amy
+  /Morton, A. Cantrell
+Cantu, Amador
+- Cantu, A.
+Carothers, Steven
+  /Carothers
+- Carothers, Steve
+Carey, Vanessa
+Castillo, Victor, III!
+Cathey, Sara
+Causey, Nell B.
+Cavanaugh, Maureen!
+Cepeda, Joe
+Chagas, Amazonas, Jr.
+- Chagas, A., Jr.
+  /Chagas, A.
+Chamberlain, Dee Ann!
+Chandler, *, *
+  /Chjandler, *, *
+  /Chandfler, *, *
+Chandler, Donald S.
+- Chandler, D. S.
+  /Chandler, D. C.
+  /Chandler, D. G.
+Chapman, Brian!
+Chenoweth, John!
+Chenoweth, *, *
+  /Chernoweth, *, *
+Childs, Robert
+- Childs, R.
+  /Childa, R.
+Chippindale, Paul!
+  /Chjippendale, *
+Christiansen, Kenneth!
+- Christiansen, K.
+  /Christienson, K.
+Christenson, Keith
+  /Christiansen, Keith
+Cicherski, Michael!
+Cirmo, Amethyst!
+  /Cimo, Amethyst
+Clamons, Clover!
+Clarfield, Leslie
+- Clarfield, L.
+  /Clarfield, C.
+Clark, Allison!
+Clark, Travis!
+Clarke, Barrett!
+Class
+Clayton, Chris!
+Cobb, Allan!
+  /Cobb, Alan
+  /Cobb, Allen
+  /C., A.
+Cochrane, *, *
+  /Cocharane, *, *
+Cockerill, *, *
+  /Cockerilol, *, *
+  /Cvockerill, *, *
+Cohen, Adam!
+  /Cohen, A.
+Cohn, J. W.
+Cohn, Theodore J.
+Cokendolpher, James C.!
+- Cokendolpher, J. C.
+  /Cokendolpher, J. E.
+  /Cokendolpher             
+Cokendolpher, *, -
+  /Cokenolpher, *
+  /Cokendlolpher, *
+  /Cokendolpehr, *
+  /Cokendodolpher, *
+  /Cokendopher, *
+  /Cokendolphr, *
+  /Cokedolpher, *
+  /Cjokendolpher, *
+Cole
+Coleman, Eilliam!
+Collins, Chris!
+  /Collins, C.
+Collins, Robin
+Collins, Valerie!
+Colucci, Liza!
+- Colucci, L.
+  /Coluci
+  /Colluci
+  /Colucci, C.
+Colucci, *, *
+  /Colulcci, *, *
+Cooley, P.
+Cooney
+Cooke, Jerry!
+  /Cooke
+- Cooke, J.
+Cooke, John A. L.
+Coonty, Paul
+Cooper, David!
+Cooper, John E.
+Corbell, Rick!
+  /Corble, Rick
+Cossey, Marcia
+  /Cassey, Marcia
+  /Causey, Marcia
+  /Cosse, Marcia
+- Cossey, M.
+  /Cassey, M.
+  /Casey, M.
+  /Cosey, M.
+  /Cossy, M.
+  /Causey, M.
+  /C., M.
+Cotton, Adam!
+Cowan, Brian!
+Cowan, David
+- Cowan, D.
+  /Cowan, C.
+Cowell, Bob!
+Coyle
+Cradit, John!
+  /Cradit, Jon
+Crawford, Craig!
+- Crawford, C.
+  /Crawford, K.
+Cressler, *, *
+  /Crssler, *, *
+Croskrey, Andrea
+- Croskrey, A.
+  /Croskrey, S.
+Danz, *, *
+  /Dant, *, *
+Darilek, Glenn!
+Dawson, Glenda
+Davis, Brent
+Davis, Casey
+Davis, James C.!
+Davis, L.!
+Davlantes, Stephanie
+  /Davlantes, Stepohaie
+- Davlantes, Steph
+Dawson, G.
+de la Rosa Reyna, Xochitl
+  /de la Rosa, Xochitl
+de Leon, Francisco Garcia
+  /FGoL
+Delmatier, Charmain!
+Dendy, Hester
+Denson, Deborah
+Depouw
+Despain, Joel
+Despain, Katy
+Devitt, Thomas J.
+- Devitt, Tom!
+Devlantes, Stephanie!
+Devos, Fred
+Diaz, Peter!
+- Diaz, Pete
+- Diaz, P.
+  /Daz, P.
+Dickerson, Wendy!
+Dickey, Dewayne!
+Dillon, Tom!
+Dittmar, Kara!
+Doolin, Dave
+Dorsey, Shannon!
+Drukker, Nancye!
+Drukker, Saunders!
+  /Drukker
+  /Drukker, Sanders
+Drysdale, Doug!
+Dube
+Ducan, Paul
+- Ducan, P.
+  /Duncan, P.
+Dues, Heidi
+  /Deus, Heidi
+  /Heidi
+Duperre, Nadine
+Eaton, Beth
+Eaton, Gene
+Echternacht, *, *
+  /Echtemacht, *, *
+  /Echternach, *, *
+Eck, William
+- Eck, Wm.
+Ediger, Gil!
+  /Ediger, Gill
+Ediger, Jill
+- Ediger, J.
+Edwards, Angela!
+Elliott, Jim!
+Elliott, Vernelle!
+Elliott, William R.!
+- Elliott, Wm. R.
+  /Elliott, Wm. E.
+- Elliott, W. R.
+  /Elliot, T. W. R.
+- Elliott, Bill
+- Elliott, B.
+  /Elliott, D.
+- Elliott, William
+- Elliott, W.
+- Elliott, Wm.
+  /Elliott, Wml
+Elliott, Elliott
+Eling, Herbert H., Jr.
+  /Eling
+Endres, Frank
+- Endres, F.
+  /Ednres, F.
+Engelhard, Tannika!
+Erickson, Don!
+et al.
+- Associates
+  /associates
+  /Associatezs
+- Friends
+  /friends
+Evans, Andy!
+Evans, Jane!
+Evans, T. R.!
+Falgout, Galen!
+Fant, Enora
+  /Fant, Lenora
+Fant, Jerry!
+- Fant, J.
+  /Fant, A.
+  /Fant, C.
+  /Fant, Jl
+  /Rant, J.
+Faught, Reagan!
+Faulkenberry, Linda
+- Faulkenberry, L.
+  /Faulkner, L.
+Feller, Georges
+Fenolio, Dante B.!!
+Fenton, M. Brock
+Field Entomology Class
+  /Field Ent. Class
+Fieseler, Ronald G.!!
+- Fieseler, R.
+  /Fieseler, D.
+- Fieseler, Ronnie
+Fieseler, Susan!
+Fish, John
+  /Fish, Jon
+Fish, Meri!
+Fisk, Alan
+Fisk, Frank W.
+Flesher, Scott!
+Flint, Oliver S.
+Foote, Jennifer!
+  /Foot, Jennifer
+Forbes, Tyler!
+Forsythe, Preston
+Foster, Duncan!
+- Foster, D.
+Fowler, Suzanne
+Fralia, Butch!
+Francke, Christopher!
+  /Francke, Chrisopher
+  /Francke, Chrisophter
+- Francke, C.
+  /Francke, J.
+Francke, Oscar F.
+  /Francke
+Frank, Margaret!
+Frank, Ruben M.!!
+  /Frank, B.
+Froeschner, Richard C.
+- Froeschner, R. C.
+  /Foreschner, R. C. 
+Fryer, Shane
+Fuls, Carson
+Gagne, Raymond J.
+Galvan, Tony!
+Gamboa, Arsenio
+Ganter, John
+Garcia, Diana!
+Gardner, James Eugene
+Garrett, Keith
+  /Garret
+Garot, Anthony
+- Garot, Tone!
+  /Garot, Gone
+- Garot, Toni
+- Garot, T.
+Garrett, Keith!
+Gary, Marcus!
+- Gary, M.
+  /Gray, M.
+Garza, Ernie
+Gayle, Sarah
+- Gayle, S.
+  /Gaye, S.
+Gee, Mark!
+Geletzkie, Hendrie
+George, John E.
+Geisler, Steve!
+Germany, Julia!
+Gertsch, *, *
+  /Getsch, *, *
+Gertsch, Willis J.
+- Gertsch, W. J.
+  /Gertsch, W.
+Gibbs, Joan!
+Gibson, J. Randy!!
+- Gibson, J.
+  /Gibson, G.
+- Gibson, Randy
+Gilliland, *, *
+  /Gilliam, *, *
+  /Gillilian, *, *
+Gilliland, John!
+Gluesenkamp, Andrew G.
+- Gluesenkamp, A. G.
+  /Gluesenkamp, K. A.
+  /Gluesenkampf
+  /AGG
+  /Gluesenkamp
+- Gluesenkamp, A.
+  /Gluesenkamp, G.
+- Gluesenkamp, Andy
+  /Gluesenkamp, Andy!
+  /Gluesenkamp, Ancy
+Gluesenkamp, *, *
+  /Geluesenkamp, *, *
+  /Gluesnkamp, *, *
+Gomez, Antonio!
+Gonzalez, Edmundo
+  /Gonzalez
+Goodman, Meg!
+Goodnight, *, *
+  /Goodnights, *, *
+Goodnight, Clarence J.
+  /Goodnight
+Goodnight, Marie L.
+Gordon, Jessica!
+Gordon, Robert D.
+Goree, Silken
+  /Gore, Silken
+Goyette, Carmen!
+Graening, G. O.!
+  /Graening
+  /Graening, Geo
+Graham, Richard E.
+Grant, Cynthia!
+Graves, Gordon
+Graves, Lee Jay!
+Green, *, *
+  /Gsreen, *, *
+Green, Cecilia
+Green, Derek!
+- Green, D.
+Green, Robert!
+Grimes, Scott!
+Grimm, Eli!
+Grimm, Mike!
+Grobert, Devon!
+  /Grobert, Devin
+  /Grobert, David
+Grogan, William L.
+Grossman, Amy!
+Grubbs, Andy G.!!
+- Grubbs, A. G.
+  /Gibbs, A. G.
+  /Gubbs, A. G.
+  /Grubbs
+  /Grubbs, Al
+  /Grubs, A.
+Grubbs, Jubal
+Gunter, Jason
+Hall, Cherman!
+Banson, Bruce
+Hager, Kristina
+Hanson, Bruce
+Hanson, Greg
+- Hanson, G.
+  /Hanson, C.
+Harbuck, Ron
+Harden, Scott J.!!
+- Harden, S. J.
+- Harden, S.
+- Harden, Scott
+  /Harden, Scottl
+Harmon, Russ!
+Harr, Robert
+Harrison, Blake!
+Harvath, Mike!
+Haskamp, Dale
+- Haskamp, D.
+  /Hashamp, D.
+Hauwert, Nico!
+Havens, Robin
+Hays County
+Hector, Hector
+Hector, Dean P.!!
+Heinen, Erika!
+Hemperly, Robert!
+Hendrickson, Dean A.!!
+Hendrickson, Garrett!
+Hendrie, Piers E.!
+Henery, Dale!
+Herbez, Erin!
+- Herbez, E.
+  /Herbez, S.
+Herman, Lee H.
+Hernandez, Fernando!
+Hernandez, Lydia!
+  /Hernandez, Lyda
+Herschler, Robert!
+Herschler, *, *
+  /Hershler, *, *
+Heuss, Keith!
+Heyer, Devra!
+  /Heare, Devra
+  /Heyra, Devra
+  /Heyer, David
+  /Heyer, Deva
+Higgens, Laura!
+Hildreth-Werker, Val
+- Hildreth, V.
+Hill, Ryan!
+Hillis, David!
+Hirssig, *, *
+  /Hirsrig, *, *
+Hobbs, Horton H., Jr.
+Hoese, Geoff!
+  /Hoese, Jeff
+- Hoese, G.
+  /Hoese, J.
+  /Hose, G.
+Hoffman, Wendy
+Hogenauer, Dan!
+Hogenauer, *, *
+  /Hogenauef, *, *
+Holladay, Ed
+- Holladay, E.
+  /Holladay, F.
+Hollar, Thomas!
+Holmback, Eric
+- Holmback, E.
+  /Holmack, E.
+  /Holmack, M.
+  /Holmback, M.
+Honea, *, *
+  /Hoene, *, *
+Honea, David
+- Hoene, Dave
+  /Honea, Dave
+Holman, Del!
+Holsinger, John R.!!
+- Holsinger, J. R.
+  /H., J. R.  
+Holzgraph, Alan
+  /H., A.
+Hooper, Jocie
+Horizon Environmental
+  /Horizon
+Horner, Peggy!
+Horvath, Mike!
+Hose, Louise
+Howard, Howard
+Howard, Sarah
+Howarth, Frank G.!!
+Howden, Henry F.
+Howell, Fred
+Howeth, W.!
+Hubbard, Dave!
+Hubbell, Theodore H.
+Huebner, Cookie!
+Hunter, Joel!
+Hutchins, Benjamin
+- Hutchins, Ben!
+Hutchon, Kathryn
+  /Hutchton, Kathryn
+Ichthyology Class
+  /University of Texas Ichthyology Class
+Invertebrate Class
+Iskali, Goniela!
+- Iskali, Goni
+Ivy, Joe L.!!
+- Ivy, J.
+  /Ivy, G.
+Jagnow, David
+Jameson, Roy
+Jancewicz, *, *
+  /Jancecewicz, *, *
+Jancewicz, Jean
+- Jancewicz, J.
+  /Jancewicz, Jan
+Jauk, Phil!
+Jarl, James
+Noname, Jeanette
+Jenkins, Julie!
+- Jenkins, J.
+Jennings, Wayne!
+Jenson, Aubri
+Johns, David
+Johnson, *, *
+  /Jjohnson, *, *
+  /Jonson, *, *
+Jensen, Aubri
+  /Johnson, Aubri
+- Jensen, A.
+  /Jenson, A.
+  /Jensen, J.
+Johnson, Bruce!
+- Johnson, B.
+  /Johnson, J.
+Johnson, Homer!
+Johnson, Jerry!
+Johnson, Russ!
+Johnson, Shelia
+- Johnson, S.
+Johnston, Jennifer
+Johnston, Mark
+Jones, Marco A.!!
+Jones, Tim
+- Jones, T.
+Joost, Jeanette!
+- Joost, J.
+  /Joose, J.
+- Joost, Jet!
+Jordan, C.!
+Jordon, J.
+Jost, Lou!
+KAAD
+Kane, Jay!
+Karnei, Henry!
+Kastning, Ernst!
+  /Kastnsing, Ernst
+Kauth, Sara
+Kawakatsu, Masaharu
+Keeley, Brian!
+  /Kelley, Brian
+Keirans, James E.
+Kennedy, Cat!
+Kennedy, Jim!
+- Kennedy, J.
+  /Kenney, J.
+Kennedy, *, *
+  /Kennday, *
+  /Kennecy, *
+  /Kenendy, *
+Kern, Dottie!
+Keyser, Dave!
+Keys, Peter
+Kingsley, Ken
+- Kingsley, K.
+  /Kinsley, K.
+Kinsolver, John M.
+  /Kingsolver, J. M.
+Kiser, David W.
+Kohls, Glen M.!
+Killian, James!
+- Killian, Jim
+Kirkpatrick, Mark!
+Kiser, *, *
+  /Kizer, *, *
+Knapp, Justin Troy!
+Knoll, Philip!
+Knox, Orion!
+Koepke, H. Marvin!
+Kolb, Joe!
+Kramer, James P.
+Krejca, Jean K.!!
+- Krejca, J. K.
+  /Krejca
+Krejca, *, *
+  /Kejca, *, *
+  /Krecja, *, *
+  /Kreca, *, *
+  /Krjca, *, *
+  /Kerjca, *, *
+  /Krejjca, *, *
+Krupka, Nathan!
+Kunath, Carl E.!!
+Kweskin, Matthew!
+Ladd, Cliff!
+Lafferty, Chris!
+Lake, Nikki
+- Lake, N.
+  /Lake, Nl
+  /Lane, N.
+Larason, Sheri
+Larsen, Larsen
+Larsen, Jeanette!
+  /Larsen, Jeannette
+- Larsen, Jet!
+Larsen, William!
+- Larsen, Bill!
+Larson, David!
+Lasko, Susan!
+- Lasko, Susie
+- Lasko, S.
+  /Lasko, J.
+Laube
+Law, D.!
+Lawrence, John F.
+Lebouef, Crystal!
+- Lebouef, C.
+  /Lefouef, C.
+LeBrun, Edward
+- LeBrun, Ed.
+Lee, Cynthia!
+  /Cynthia
+- Lee, C.
+Lee, Jodie
+  /Jodie, Lee
+  /Lee, Joeie
+Lee, Mason!
+Leech
+Leonard, Liz
+Levy, Heather
+Lewis, Mike!
+Lewis, Jan
+- Lewis, J.
+Lewis, Julian J.
+  /Lewis, Jelrry
+- Lewis, J. J.
+Liebertz, B.
+  /Libertz, B.
+Lieberz, Joseph
+- Lieberz, J.
+  /Liebertz, J.
+  /Liebertz, Joseph
+León, Francisco García De!
+Limnology Class
+Lindblom, Claire F.!!
+Lingold, Bradley
+Lindsley, Pete!
+Lisawoski, Ed!
+  - Lisawoski, E. A.
+Locasio, Jim
+- Locasio, J.
+  /Locasio, D.
+Lode, *, *
+  /Lodl, *, *
+Loftin, James!
+- Loftin, J.
+  /Loftin, G.
+Loftin, Lacey!
+Loftin, Vivian!
+- Loftin, V.
+  /Loftin, A.
+Long, Melissa!
+Longley, Glenn!
+Loubie, Eric
+  /Lougie, Eric
+Louton, Jerry A.
+- Louton, J. A.
+  /Louston, J. A.
+Love, Dan!
+Lowery, Dino
+- Lowery, D.
+Luke, Luke
+Lynn, Pam!
+Mabe, Jeff!
+MacArthur, *, *
+  /MacMarathur, *, *
+MacMillan, Jimmy!
+Maggens, Kurt!
+- Maggens, K.
+  /Magens, K.
+Maguire, Bassett, Jr.!
+Mahann, Sheree
+Maikoetter, *, *
+  /Maitkoetter, *, *
+  /Malkoetter, *, *
+  /Maitkotter, *, *
+Maikoetter, Jeremy!
+Manire, Larry!
+Manning, Mary Kay!
+Manson, Scott!
+Mantooth, Jeremy!
+Markette, Karen
+  /Mazrkette, Karen
+Marin, *, *
+  /Maritn, *, *
+Marsh, Terry
+Martin, Barbara
+- Martin, B.
+  /Martin, Bl
+  /Martom. B.
+Martin, Benny!
+Martin, Robert F.!!
+Mathis, Wayne N.
+Matos, Jennifer A.
+Matthews, Raymond C., Jr.!
+Mauldin, Mark!
+Mauldin, *, *
+  /Mauldron, *, *
+Mayeaux, Mallory!
+Mazur, R.
+  /Mazuc, R.
+  /Mosur, R.
+McAllister, William H.!
+  /McAlister
+- McAllister, W.
+  /McAlister, W.
+- McAllister, W. H.
+  /McAlister, W. H.
+McAllister, C. T.!
+McArthur, Martha!
+McBee, David!
+McDaniel, Gary!
+McDermid, Krista!
+- McDermid, K.
+  /McDermid
+  /McDermid, J. K.
+McDonald, Zack!
+McDowell, John!
+McEachern, Mike
+- McEachern, M.
+  /McEachern, R.
+  /McMeachern, M.
+McGinnis, Shelley R.
+- McGinnis, Shelley
+  /McGinnis, Shelly
+McKee, Mike!
+McKenzie, *, *
+  /McKznzie, *
+  /McKEnzie, *
+McKenzie, *, *
+  /McKeznie, *, *
+  /Mckenzie, *, *
+McKenzie, David W.!!
+- McKenzie, D. W.
+  /McKenzie, J.
+  /McKenzie
+- McKenzie, David!
+  /McKenzie, Davdi
+McKenzie, Martha Helen!
+McKenzie, Suzanne Wiley
+McMillan, *, *
+  /Mcmillian, *, *
+McMillan, James
+McNatt, Logan!
+McVey, Steve!
+McWhirter, Mike!
+Meador, Tom!
+Meadows, Martin
+  /Meadcows, Martin
+Mecum, M.
+Menking, Kurt!
+  /Menkin, Kurt
+Meredith, David!
+Meyer, Cass!
+Middendorf, *, *
+  /Middendoef, *, *
+Miller, Amanda!
+Miller, Marvin!
+Miller, Tom
+Mills, Tom!
+Minton, Mark!
+Mitchell, Mitchell
+Mitchell, Joe!
+Mitchell, Robert W.!
+Mitchell, Robert W., Jr.
+Mitchell, Sharon A.
+Mitchell, Scott R.
+Mittelstadt, *, *
+  /Mittlestadt, *, *
+Mockford, Edward L.
+- Mockford, E. L.
+  /Mockford, D. L.
+Mohr, Charles!
+Mollhagen, Tony R.!!
+- Mollhagen, Tony
+Mollhagen, *, *
+  /Mollhgen, *, *
+Monahan, Katie!
+- Monahan, K.
+  /Monahans, K.
+Moni, Gerald
+Monjaras, Ryan!
+Montagne, Mike!
+Montgomery, Dick!
+Moody, J. V.
+Moore, Ann!
+Moore, Mike!
+Moreno, Jaime!
+Morton, Amy
+- Morton, A.
+Mosier, Gregg!
+Moss, Philip!
+Mothes, Patty
+- Jameson, Patty Mothes
+Muchmore, William B.
+Mullinex, Carolyn
+Mullinex-Tibbetts, Carolyn
+  /Tibbetts, C. Mullinex
+  /Tibbett, C. Mullinex
+Murphy, Stuart
+  /Murphy, Stuart.
+- Murphy, S.
+Murray, Chris!
+Murray, Murray
+Myers, David Allen
+Myers, Rob!
+  /Myers, Rob.
+  /Rob, Myers
+- Myers, R.
+Narf, Richard P.
+  /Narf, Rrichard P.
+Nash, Derek
+Nasvacil, Kelly!
+Nasvacil, *, *
+  /Navacil, *, *
+Nelson, C. Riley
+Newman, Oscar!
+Nickle, David A.
+Nipper, Stacey
+Nissen, Brad!
+NOH
+Norris, Chad
+Northup, Diana!
+Norton, K.!
+Norton, Russel M.
+Noss, Reed
+Oakley, Robert
+- Oakley, Bob!
+Oczkowski, Pam!
+O'Connor, Kathleen
+- O'Connor, K.
+  /O., K.
+O'Connor, *, *
+  /O'connor, *, *
+  /O'Coonor, *, *
+  /O''Connor, *, *
+  /Oconnor, *, *
+  /O'Cponnor, *, *
+O'Leary, Rachel
+Oberg, Erik
+- Oberg, E.
+  /Olberg, E.
+Ochel, David
+  /Ochtel, David
+- Ochel, D.
+  /Ochtel, D.
+Ohms
+Olmbeck, *, *
+  /Llmbeck, *, *
+Oost, Barry
+Orndorff, Will
+Owen, Jacob
+Owens
+Padgett, Mike
+Palacios-Vargas, Jose
+- Palacios-Vargas, J.
+  /Palacios, J.
+Palit, Linda K.!!
+Palit, *, *
+  /Palir, *, *
+Pape-Dawson Engineers
+  /Pape-Dawson
+Paquin, Pierre!
+- Paquin, A.
+  /Paquin, P.
+Parker, Joseph
+- Parker, Joe!
+Parker, Nathan!
+Pate, Dale L.!!
+  /Pate
+Patton
+Pawlowski, Meghan!
+Pearce, Philip!
+Pearson, David!
+Peck, James
+Peck, Stewart B.!!
+Peck, William B.
+Pecos, James E.
+- Pecos, J. E.
+  /Pecor, J.
+Pedin, Colin!
+Pekins, Charles L.!!
+Pendergast, Denise!
+Pendergast, *, *
+  /Pendergrast, *, *
+Persha, David
+Peters, William L.
+Peterson, Brian
+Peterson, Kandi
+Phillips, Catherine!
+Phillips, Tom
+- Phillips, T.
+- Phillips, Tommy!
+Pierce, Dessie!
+Pisarowicz, Jim
+  /Psarowicz, Jim
+Poole, Gary A.!!
+Porter, John!
+Potter, Kathy!
+Poulson, Tom!
+- Poulson, T.
+Posso, Kara
+Platnick, Norman I.
+Poer, Freddy
+Polowski, Meghan
+Polyak, Victor J.
+- Polyak, V. J.
+  /Polyak, V. P.
+Porter, John
+  /Porter
+Poulson, Thomas
+Prentice, John!
+Price, Rodney!
+Pursley, Justin
+  /Justin
+Pustka, Lucas
+- Pustka, L.
+  /Putska, L.
+Quast, William!
+Quigley, Ian!
+Quinn, Mike!
+Rachel?
+  /Rachel
+Raines, Terry!
+- Raines, T.
+  /Raines, L.
+Raines, *, *
+  /Raiens, *, *
+Ralph, Jack!
+Ralph, Ron!
+Ramberg, Kevin!
+Reaka, Marjorie!
+Reavely, Paul!
+Reddell, James R.!!
+  /Reddell, Jasmes
+  /Reddell, Jl
+  /Reddlel, J.
+  /Reddll, James
+  /Reddll, J.
+  /Redell, J.
+  /Reddell, J. C.
+  /Reddell, M.
+  /Reddell
+  /Reddell, J.
+  /Redddell, J.
+  /Reddell, Jamers
+Reddell, Jane!
+Reeder, William G.
+Reinhardt, Klaus!
+Remington, Erik E.!!
+- Remington, E.
+  /Remington, R.
+Resendiz, Homero
+Reyes, Marcelino!
+  /Reyes, Marcleino
+- Reyes, J.!
+  /Reyes, C.
+Reyes, *, *
+  /Reyez, *, *
+  /Reyex, *, *
+Rhoades Ecology Class
+Richards, Bob
+Richards, Christopher
+Rickman, George-Paul!
+Riechert, Susan E.
+- Riechert, S. E.
+  /Riechert, S. E. F.
+  /Riechert
+Riley, Edward G.
+Rivaldi, *, *
+  /Rvialdi, *, *
+Rivaldi, Chissa-Louise
+Robertson, Lori
+Robertson, Stephen
+  /Robertson, Sephen
+  /Robertson, Stephe
+  /Robertson, Stephen.
+  /Robertson, Steven
+- Robertson, Steve!
+  /Robertson, Seve
+- Robertson, S.
+  /Robertson, R.
+Robertson, Stirling!
+  /Robertson, Stirline
+Rodemaker, Jim!
+Rohr, Rich
+  /Rohrer, R.
+Rogers, Charlotte!
+Roland, Donny!
+Rojo, Roberto
+Rose, Frances
+  /Rose, Frances.
+- Rose, F.
+  /Rose, T.
+Ross, Christopher
+Rosson, Tom
+  /Rossen, Tom
+Roth, Steffen!
+- Roth, S.
+  /Roth, St.
+Roth, Vincent D.
+  /Roth
+  /Roth, Vicent
+Rudolph, *, *
+  /Rudlolph, *, *
+Rudolph, D. Craig!!
+- Rudolph, Craig
+Ruiz, R. G.!
+Rumer, Randy
+  /Riemer, Randy
+Russell, Carol!
+Russell, Wayne!
+Russell, William H.!!
+- Russell, Bill
+- Russell, B.
+  /Russell, D.
+- Russell, Wm.
+- Russell, W.
+- Russell, W. H.
+  /Russell, W. R.
+Russell, *, *
+  /Russelol, *, *
+Rutherford, Ron!
+  /Rutherford, Rod
+Ryckwalder, Philip!
+  /Rykwalder, Philip
+  /Rykwalkder, Philip
+  /Rylkwalder, Philip
+Saker, Rachel!
+  /Salcer, Rachel
+Sanders, George!
+Sanders, Mark!
+  /Sanders, Makr
+  /Sanders, Mak
+  /Sanders
+Sarkar, Sahotra
+Sas, Robert
+- Sas, Rob
+- Sas, Bob
+Sauer, William
+- Sauer, W.
+  /Saur, W.
+- Sauer, Wm.
+  /Saur, Wm.
+  /Saur, Wlm.
+Saususs, Francoise
+  /Saususs, Francois
+Savary, William
+Savvas, Charley!
+  /Savvas
+- Savvas, Charles
+- Savvas, Charlie
+- Savvas, C.
+  /Savvas, G.
+Savvas, *, *
+  /Savvasi, *, *
+Sawyer, Bill!
+Sayther, Terry!
+Scalise, Jonathan
+- Scalise, Jonny!
+  /Scalise, Jomy
+Scanlon, Kate!
+Scanlon, Kathy!
+- Scanlon, K.
+Scheiber, *, *
+  /Scheibner, *, *
+  /Schieber, *, *
+Schneider, L.!
+Schindel, Geary!
+Schmidt-Rhaesa, Andreas
+Schober
+Schroeder, Richard C.
+Schumann, Tim!
+Schwartz, Benjamin!
+Schwartz, Cori!
+Schwartz, Zachary!
+Scott, Amanda!
+Scott, Ann!
+- Scott, A.
+Scott, Travis!
+  /Scott, Scott
+Seafel, R.!
+Seale
+Sexton, Chuck!
+Seyforth
+Shackelford, Nancy!
+Shade, Beverley!
+  /Shade, Bev
+  /Shade, Bevn
+  /Shade, Ben
+- Shade, B.
+  /Shade, V.
+Shaw, Justin!
+Shawcross, Mike
+Shear, William A.
+  /Shear
+Shelley, Rowland M.
+Shelley, Shelley
+Shepperd, Rex
+Sherrod, Greg!
+- Sherrod, G.
+  /Sherrod, J.
+Sherrod, Lee!
+  /Sherrod
+Shimojana, Matsuei
+Shirk, Tina
+- Shirk, T.
+  /Thirk, T.
+Short, Eric!
+  /Short, Erik
+Shumate, Mark!
+- Shumate, M.
+  /Shumate, D.
+Siegel, Victoria
+- Siegel, Vickie
+Sigmond, Jennifer!
+Simmons, Ron
+Sissel, Blake
+Siva-Jothy, Mike!
+Skoruppa, Scott!
+Slater, Jane!
+Smart, William Robert
+- Smart, Wm. Robert
+Smith, A. Richard!
+Smith, D. R.
+- Smith, D.
+Smith, James H.
+- Smith, J.
+Smith, Marion O.
+Smith, Richard M.!!
+- Smith, R.
+Smith, Tolly!
+Snider, J.
+Snider, W.
+Snow, Abby
+Snow, Jay
+Soberanes, Jose Luis
+Solglad, *, *
+  /Soleglad, *, *
+Solglad, Michael E.
+Spangler, Paul J.
+Sparks, Kenneth
+- Sparks, K.
+Spealing, Lara
+Spence, Jon!
+Spinelli, Tony!
+Sprouse
+Sprouse, *, *
+  /Srouse, *, *
+  /Sprouae, *, *
+  /Sproue, *, *
+  /Sorouse, *, *
+  /Spouse, *, *
+Sprouse, Peter S.!!
+  /Sprouse
+Sprouse, Terri Treacy
+  /Sprouse, Terri Treacey
+- Sprouse, Treacy
+  /Sprouse, Treacey
+- Sprouse, T.
+Stabinsky, Kenny!
+Stamford, Ruth!
+Standifer, Mary!
+Standifer, *, *
+  /Stanidfer, *, *
+Stanford, Ruth
+  /Stamford, Ruth
+  /Stamford, R.
+Steadman, David
+Steed, David
+Steele, C. William
+- Steele, Bill!
+- Steele, C. W.
+  /Steele, W. C.
+  /Steele, W.
+Stemble, John
+Stephens, Matt!
+Stephenson, G. G.!
+Stidham, Noble
+Stock, Jan H.
+Stoetzel, Manya B.
+Stone, Fred D.
+Storm, Laura
+Strickland, *, *
+  /Stirckland, *, *
+  /Stsrickland, *, *
+  /Srickland, *, *
+Strickland, Colin!
+Strickland, Peter
+- Strickland, Pete!
+Stuart, Alan
+Stubbs, Lee
+Sturdevant, Ann
+Sucus, E.!
+Sullivan, Brother G. Nicholas
+- Sullivan, B. G. Nicholas
+  /Nicholas, B. C.
+Sumbera, Joe
+Summers, Shannon!
+Sunby, Paul!
+Swafford
+SWCA Environmental Consultants
+Sweet, Samuel S.!
+- Sweet, Sam
+  /Sam, Sweet
+- Sweet, Sam S.
+Syme, Ron
+Tandy, Mills!
+Tangestani, Moe!
+Taylor, Steven J.!
+- Taylor, Steve
+Terry, Jim
+Thibodaux, Chris!
+  /T., C.
+Thibodaux, *, *
+  /Thibeadaux, *, *
+  /Thibideaux, *, *
+  /Thibidoux, *, *
+  /Thibodeaux, *, *
+  /Thibodoux, *, *
+  /Chibodaux, *, *
+Thom, J.
+Thomas, George!
+Thomas, Meri
+Thompson, *, *
+  /Thompso, *, *
+Thompson, Drew
+- Thompson, D.
+Thompson, Sloan!
+Thornhill, D.!
+Thuesen, Kevin
+  /Truesen, Kevin
+Tipps, Bruce!
+Tipton, Virginia
+- Tipton, V.
+  /Tipton, G.
+  /Tipton, T.
+Tobin, Ben!
+Tomsett, Suzi!
+Town, Liam
+Trainey, Jody!
+- Trainey, J.
+  /Traienr, J.
+Treacy, Terri!
+- Treacy, T.
+  /Treacy, P.
+Treviño, *, *
+  /TreviÒo, *, *
+  /Trevino, *, *
+Treviño, Javier!
+Triplehorn, Charles A.
+Tucek, Heather!
+- Tucek, H.
+  /Hucek, H.
+Tucker, William
+- Tucker, Bill!
+Turner, Matt!
+Turpin, Solveig!
+  /Turpin
+Turpin, Leslie
+Tuttle, Merlin!
+Ubick, Darrell
+Ulmer, Mark!
+United States Fish
+  /U. S. Fish
+Valdez-Mondragon, *, *
+  /Valdez-Mongragon, *, *
+Valdez-Mondragon, Alejandro
+- Valdez-Mondragon, A.
+  /Valdez, A.
+van Engen, Bert
+- van Engen, B.
+  /Van Ingen, B.
+  /van Ingen, B.
+  /Van Engen, E.
+  /Van Ingen, E.
+  /van Ingen, E.
+  /vanIngen, B.
+Vanoye
+Vaughter, Brian
+Vauter, Brian!
+Velez, Christina
+Veni, George!
+- Veni, G.
+  /Vei, G.
+  /Veni, M.
+Veni, Karen
+Villa
+Vinson, Barbara!
+Vogel, Beatrice R.
+Vreeland, Chris!
+  /Vreeland, Christ
+Waddington, Andy
+Wade, Scott!
+Wahl, Rex!
+Wade, Gordon!
+- Wade, G.
+  /Waid, G.
+  /Waid, C.
+  /Waid, jG.
+Waide, R. B.
+  /Wade, R. B.
+Wake, David B.!
+Walker, Greg
+- Walker, G.
+Walker, Kate!
+- Walker, K.
+  /Walter, K.
+Walsh, John Mike
+- Walsh, Mike
+Walz, Jason
+- Walz, J.
+  /Watz, J.
+Wangberg, *, *
+  / Wangbert, *, *
+Warner
+Warton, Mike!
+  /Warton, Mark
+- Warton, M.
+  /Warton, Ml
+  /Wartoh, Mike
+Waters, Randy M.!!
+- Waters, R. M.
+  /R., W.
+  /W., R.
+Watkins, Faith!
+Watson, Bruce!
+Watson, Cyndee!
+Watson, Ellie!
+  /Watson, Elie
+  /Wathen, Ellie
+  /Waton, Ellie
+  /Watson, Eve
+  /Watson, Ewe
+Watson, Jeffrey
+Weaver, Nancy
+Webb, James P.
+Weissling, Blake
+Welborn, Brett!
+  /Welbourn, Brett
+- Welborn, B.
+  /Welbourn, B.
+Welbourn, W. Calvin
+- Welbourn, Cal
+  /Welborn, Cal
+- Welbourn, C.
+  /Welborn, C.
+Werner
+Westbrook, Cynthia!
+Westmoreland, Carol
+White, *, *
+  /Whtie, *, *
+White, James!
+White, Kemble!
+  /White, Kimble
+White, Richard E.
+Whitfield, Terri!
+  /Whitefield, Terri
+Whitehead, Donald R.
+Whitis, Duane
+Whitney, Cat
+Whitwell, Olivia
+Wilks
+Wildlife Service
+Wiley, Suzanne!
+  /Wiley, Sizamme
+Wiley, *, *
+  /Wileys, *, *
+Wilk, Lisa!
+- Wilk, L.
+  /Wilks, L.
+  /W., L.
+William
+Williams, Mike!
+Williams, *, *
+  /Willimas, *, *
+Williams, Jeanne
+- Williams, J.
+Wilson, Brad
+- Wilson, B.
+Winterath, *, *
+  /Winteath, *, *
+  /Wintrath, *, *
+Winterath, Steven A.
+  /Winterath, A.
+Wirth, Willis W.
+Wolf, Barbara!
+Wolff, Jim!
+- Wolff, J.
+  /Wollf, J.
+  /Wolf, J.
+Wollf, *, *
+  /Wollf, *, *
+Woods, Spencer!
+  /Woods, Spender
+Woolsey, Sharon!
+- Wiggins, Sharon!
+Yates, Charley!
+Young, Amanda!
+Young, Diane!
+Young, Katrina
+  /Katrina
+Zaldivar, Matt!
+Zappitello, Matt!
+Zappitello, Saj!
+Zappitello, *, *
+  /Zapitello, *, *
+  /Zappittello, *, *
+Zara Environmental
+  /Zara Enviironmental
+Zarria, Rich
+Zenker, Andy!
+  /Zenker, Andy.
+  /Z., Andy
+Zough, Lee Mai!

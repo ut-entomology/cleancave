@@ -1,0 +1,8 @@
+.DS_Store
+out.csv
+out.txt
+output/
+bin/
+include/
+lib/
+pyvenv.cfg

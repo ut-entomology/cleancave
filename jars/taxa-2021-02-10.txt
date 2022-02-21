@@ -1,0 +1,69 @@
+Annelida | - | - | - | - | - | - | - | --
+Annelida | Hirudinea | - | - | - | - | - | - | --
+Annelida | Hirudinea (blind) | - | - | - | - | - | - | --
+Annelida | Oligochaeta | - | - | - | - | - | - | --
+Arthropoda | Arachnida | - | Acari | - | - | - | - | -- [state: TEXAS]
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Garypidae | - | --
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Neobisiidae | - | Mexobisium n. sp.
+# Lithobiomorpha was not previously printed
+#Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | - | - | --
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Cryptopidae | - | Kethops utahensis
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopendridae | - | Scolopendra heros
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopendridae | - | Scolopendra polymorpha
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopendridae | - | Scolopendra viridis
+Arthropoda | Chilopoda | - | Scolopendrmorpha | - | - | Scolopocryptopidae | - | --
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Newportia atoyaca
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Newportia monticola
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Newportia morela
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Newportia sabina
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Newportia sp.
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Newportia troglobia
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Scolopocryptops ferrugineus
+Arthropoda | Chilopoda | - | Scolopendromorpha | - | - | Scolopocryptopidae | - | Scolopocryptops sexspinosa
+Arthropoda | Diplopoda | - | - | - | - | - | - | -- [state: TEXAS]
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speorthus reyesi
+# Coleoptera MEXICO was not previously printed
+#Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [country: MEXICO]
+Arthropoda | Insecta | - | Coleoptera | - | - | Aderidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Mexisphodrus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Mexisphodrus sp. (eyed)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Micratopus aenescens
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Paratrechus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Pasimachus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Pasimachus (Pasimachus) obsoletus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Platynus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Platynus (Platynus) tenuicollis
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Pterostichus (Abacidus) permundus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine ivyi
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine sp. (eyed)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Scaphinotus (Nomaretus) n. sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Somotrichus unifasciatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Zuphium sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | Eumolpinae | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | Clyteninae | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | Galerucinae | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | Asphaera lustrans
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | Chaetocnema sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | Heikertingerella sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | Labidomera clivicollis
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | Leptinotarsa decemlineata
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | Myochrous sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | Phyllotreta sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Chrysomelidae | - | Trichaltica scabricula
+Arthropoda | Insecta | - | Coleoptera | - | - | Haliplidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Hybosoridae | - | Hybosorus illigeri
+Arthropoda | Insecta | - | Coleoptera | - | - | Latridiidae | - | Horistonotus curiatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Nemadus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Micromalthidae | - | Micromalthus debilis
+Arthropoda | Insecta | - | Coleoptera | - | - | Scarabaeidae-Aphodiini | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Scirtidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Staphylinidae | Pselaphinae | Batrisodes (Babnormodes) uncicornis
+Arthropoda | Insecta | - | Coleoptera | - | - | Zopheridae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Zopheridae | - | Noserus emarginatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Zopheridae | - | Zopherus laevicollis
+Arthropoda | Insecta | - | Dermaptera | - | - | - | - | --
+Mollusca | Gastropoda | - | Sigmurethra | - | - | Succineidae | - | --
+Nemata | - | - | - | - | - | - | - | --
+Nemata | Enoplea | - | Mermithida | - | Mermithidae | - | --

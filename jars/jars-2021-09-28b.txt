@@ -1,0 +1,172 @@
+# Taxa ready for labels as of 9/25, with Carabidae removed
+
+Annelida | Oligochaeta | - | Haplotaxida | - | - | Lumbricidae | - | Dendrobaena rubida
+Annelida | Oligochaeta | - | Haplotaxida | - | - | Lumbricidae | - | Octolasion tyrtaeum
+
+Arthropoda | Arachnida | - | Araneae | - | - | - | - | -- [Texas only]
+
+Arthropoda | Diplura | - | Dicellurata | - | - | Iapygidae | - | Mixojapyx reddelli
+Arthropoda | Diplura | - | Dicellurata | - | - | Iapygidae | - | Mixojapyx sp.
+Arthropoda | Diplura | - | Dicellurata | - | - | Iapygidae | - | Mixojapyx sp. cf. reddelli
+
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Nelipophygus n. sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Nelipophygus sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Nesomylacris reddelli
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Parcoblatta fulvescens
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Parcoblatta sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Blattellidae | - | Pseudomops interceptus
+
+# Taxa ready for labels as of 9/28
+
+Nematomorpha | Gordioidea | - | Gordioida | - | - | - | - | --
+
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Chordodidae | - | Pseudochordodes bulbareolatus
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Chordodidae | - | Pseudochordodes texanus
+
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Chordodidae | - | Chordodes morgani
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Chordodidae | - | Neochordodes occidentalis
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Chordodidae | - | Paragordius varius
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Chordodidae | - | Pseudochordodes griffini
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Chordodidae | - | Pseudochordodes manteri
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Chordodidae | - | Pseudochordodes meridionalis
+
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Gordiidae | - | Gordius robustus
+Nematomorpha | Gordioidea | - | Gordioida | - | - | Gordiidae | - | Gordius sp.
+
+Annelida | Hirudinea | - | Arynchobdellida | - | - | Erpobdellidae | - | Erpobdella lineata
+
+Annelida | Oligochaeta | - | Haplotaxida | - | - | - | - | --
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Porcellionidae | - | --
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | - | - | --
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Atemnidae | - | Paratemnoides sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Bochicidae | - | Paravachonium sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Cheliferidae | - | --
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Sternophoridae | - | Garyops sp.
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chernetidae | - | --
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chernetidae | - | "Neoallochernes" sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chernetidae | - | "Parazaona" cavicola
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chernetidae | - | Americhernes or Incachernes sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chernetidae | - | Dinocheirus sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chernetidae | - | Hesperochernes sp.
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chernetidae | - | Neoallochernes sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chernetidae | - | Neoallochernes stercoreus
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | --
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Aphrastochthonius n. sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Chthonius (Ephippiochthonius) tetrachelatus
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Chthonius (Ephippiochthonius) sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Lechytia hoffi
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Lechytia n. sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Lechytia sini
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Lechytia sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Mundochthonius sp.
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Tyrannochthonius sp.
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Chthoniidae | - | Tyrannochthonius texanus
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Neobisiidae | - | --
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Neobisiidae | - | Microbisium parvulum
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Neobisiidae | - | Microbisium sp.
+
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Neobisiidae | - | Tartarocreagris hoodensis
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Neobisiidae | - | Tartarocreagris infernalis
+Arthropoda | Arachnida | - | Pseudoscorpionida | - | - | Neobisiidae | - | Tartarocreagris sp.
+
+Arthropoda | Arachnida | - | Scorpiones | - | - | Buthidae | - | Centruroides vittatus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speorthus tuganbius
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Anobiidae | - | Lasioderma serricorne
+Arthropoda | Insecta | - | Coleoptera | - | - | Artemopidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Brentidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Byrrhidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Cantharidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Cantharidae | - | Cantharis sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Cantharidae | - | Discodon sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Agonum (Olisares) punctiforme
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Bembidion (Furacampa) impotens
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Bembidion (Peryphanes) texanum
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Acupalpus (Tachinistodes) sp. prob. testaceus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Agonoleptus rotundatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Agonum (Olisares) extensicolle
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Agonum (Olisares) rufipes
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Agonum (Olisares) striatopunctatum
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Agonum (Olisares) texanum
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Amara (Amara) sp. (cupreolata group)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Amara (Amara) sp. (puncticollis group)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Amara (Amara) sp. prob. littoralis
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Anisodactylus (Gynandrotarsus) rusticus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Apenes sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Atranus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Atranus pubescens
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Aztecarpalus schaefferi
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Badister sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Bradycellus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Bradycellus (Stenocellus) rupestris
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Calathus (Neocalathus) opaculus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Chlaenius (Chlaeniellus) nemoralis
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Clivina (Semiclivina) dentipes
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Cyclotrachelus (Evarthrus) substriatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Discoderus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Elaphropus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Elaphropus (Baratachys) sp. (granarius-like)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Galerita (Progalaretina) mexicana
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Harpalus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Harpalus (Pseudoophonus) compar
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Harpalus (Pseudoophonus) paratus
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Harpalus (Pseudoophorus) paratus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Elaphropus (Baratachys) ferrugineus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Pachyteles urrutiai
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Pasimachus (Pasimachus) californicus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine exilis
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine grubbsi
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine howdeni
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine infernalis infernalis
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine longicollis
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 8
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine noctivaga
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine persephone
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine reyesi
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine rubra
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine specum
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine specum specum
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine subterranea mitchelli
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine subterranea subterranea
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Cleridae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Cleridae | - | Cymatodera sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Corylophidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Cerambycidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Cerambycidae | - | Euderces sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Cerambycidae | - | Parmenonta minor
+Arthropoda | Insecta | - | Coleoptera | - | - | Cerambycidae | - | Stenelytrana sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Coccinellidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Coccinellidae | - | Olla abdominalis

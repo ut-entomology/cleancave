@@ -1,0 +1,22 @@
+# Jars Ready for Labelling-October 25, 2021
+
+Arthropoda | Arachnida | Acari | - | - | - | - | - | -- [state: TEXAS]
+Arthropoda | Arachnida | Acari |Trombidiformes| - | - |Erythraeidae| - | Leptus sp. 
+Arthropoda | Arachnida | Acari | Trombidiformes | - | - | Neothrombiidae | - | Ceuthothrombium sp.
+Arthropoda | Arachnida | - | Scorpiones | - | - | Buthidae | - | Centruroides gracilis
+Arthropoda | Arachnida | - | Scorpiones | - | - | Buthidae | - | Centruroides ochraceus
+
+Arthropoda | Arachnida | - | Scorpiones | - | - | Typhlochactidae | - | Alacran tartarus
+Arthropoda | Arachnida | - | Scorpiones | - | - | Vaejovidae | - | Pseudouroctonus apacheanus
+Arthropoda | Arachnida | - | Scorpiones | - | - | Vaejovidae | - | Pseudouroctonus reddelli
+Arthropoda | Arachnida | - | Scorpiones | - | - | Vaejovidae | - | Vaejovis carolinianus
+Arthropoda | Arachnida | - | Scorpiones | - | - | Vaejovidae | - | Vaejovis intermedius
+Arthropoda | Arachnida | - | Scorpiones | - | - | Vaejovidae | - | Vaejovis norteno
+Arthropoda | Arachnida | - | Scorpiones | - | - | Vaejovidae | - | Vaejovis rossmani
+Arthropoda | Arachnida | - | Scorpiones | - | - | Vaejovidae | - | Vaejovis sprousei
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Oniscidae | - | --
+Arthropoda | Malacostraca | - | Isopoda | - | - | Philoscidae | - | Troglophiloscia sp. cf. belizensis
+Arthropoda | Malacostraca | - | Isopoda | - | - | Sphaeroniscidae | - | Sphaerarmadillo sp. cf. schwarzi
+Arthropoda | Malacostraca | - | Isopoda | - | - | Trichoniscidae | - | Brackenridgia n. sp.
+Arthropoda | Malacostraca | - | Isopoda | - | - | Trichoniscidae | - | Brackenridgia sp.

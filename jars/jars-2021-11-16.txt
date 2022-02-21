@@ -1,0 +1,24 @@
+# Jars Ready for Labeling-16 November 2021
+
+Arthropoda | Branchiopoda | - | Cladocera | - | - | - | - | --
+
+Arthropoda | Collembola | - | - | - | - | - | - | --
+
+Arthropoda | Collembola | - | Entomobryomorpha | - | - | - | - | --
+
+Arthropoda | Collembola | - | Poduromorpha | - | - | - | - | --
+
+ropoda | Diplopoda | - | Spirostreptida | - | - | Cambalidae | - | Cambala speobia
+
+Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [states: ARKANSAS, CALIFORNIA, MONTANA, NEW MEXICO, OKLAHOMA, SOUTH DAKOTA]
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae-| - | -- [states: ARKANSAS, NEW MEXICO]
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae-Trechini | - | --
+
+Arthropoda | Malacostraca | - | Isopoda | Oniscoidea | - | - | - | -- [states: ALABAMA, KENTUCKY, VIRGINIA, WISCONSIN]
+
+Mollusca | Gastropoda | - | - | - | - | - | - | --  [states: ALABAMA, CALIFORNIA, GEORGIA, INDIANA, NEW MEXICO, SOUTH DAKOTA, TENNESSEE]
+Mollusca | Gastropoda | - | - | - | - | - | - | --  [country: JAMAICA]
+
+- (80999),(80997),(82270),(49922),(83392)

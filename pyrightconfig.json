@@ -1,0 +1,5 @@
+{
+    "typeCheckingMode": "strict",
+    "reportImportCycles": "none",
+    "reportUninitializedInstanceVariable": "error",
+}

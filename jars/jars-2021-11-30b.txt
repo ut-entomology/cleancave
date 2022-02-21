@@ -1,0 +1,6 @@
+# Replacement for Coleoptera HONDURAS, MEXICO in the Nov30 set
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | -- [countries: HONDURAS, MEXICO]
+
+# From James's Dec 10 response
+- (3174),(52481),(59681),(59682),(59680),(58877)

@@ -1,0 +1,24 @@
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus echinourus
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus falcatus
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus ivyi
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus reddelli
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine infernalis
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine infernalis ewersi
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine infernalis infernalis
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine infernalis n. subsp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine insolita
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 6
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 9
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 2
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 3
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 4
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 5
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 8
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine n. sp. 9 (eyed)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine russelli
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine sp. (blind)
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine tenebrosa
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine tenebrosa mckenziei

@@ -1,0 +1,3 @@
+pip install pyphonetics
+pip install python-Levenshtein
+pip install matplotlib

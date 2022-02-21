@@ -1,0 +1,17 @@
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rA > output/agents-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rC > output/lat_long-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -rD > output/dictionaries.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rF > output/foreign_words-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rL > output/labels-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rL -p > output/labels-c-p.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rM > output/labels-mashed-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rM -p > output/labels-mashed-c-p.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rN > output/labels-no-fit-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rP > output/problems-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rR > output/remarks-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -rT > output/tss.csv
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rU > output/name_cat_nums-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rV > output/initial_cat_nums-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rY > output/taxa_by_dups-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -rZ > output/dups_by_taxa-c.txt
+python3 src/reporter/main.py data/Invertebrata_2021_07_30.csv data/declared-names.txt data/reference-names.csv -c -r0 > output/zeros_by_taxa-c.txt

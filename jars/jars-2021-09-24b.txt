@@ -1,0 +1,34 @@
+Platyhelminthes | Turbellaria | - | Tricladida | - | - | - | - | --
+
+Platyhelminthes | Turbellaria | - | Tricladida-Terricola | - | - | - | - | --
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus bicornourus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus castellanus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus mitchelli
+
+Arthropoda | Symphyla | - | - | - | - | - | - | --
+
+Arthropoda | Symphyla | - | - | - | - | Scolopendrellidae | - | Symphylella sp.
+Arthropoda | Symphyla | - | - | - | - | Scutigerellidae | - | Scutigerella aduncus
+
+Arthropoda | Collembola | - | Symphypleona | - | - | - | - | --
+
+Arthropoda | Collembola | - | Symphypleona | - | - | Arrhopalitidae | - | --
+
+Arthropoda | Insecta | - | Odonata | - | - | - | - | --
+
+Arthropoda | Insecta | - | Odonata | - | - | Aeschnidae | - | Oplonaeshna armata
+Arthropoda | Insecta | - | Odonata | - | - | Coenagrionidae | - | --
+Arthropoda | Insecta | - | Odonata | - | - | Coenagrionidae | - | Argia sp.
+Arthropoda | Insecta | - | Odonata | - | - | Cordulegasteridae | - | Cordulegaster diadema
+Arthropoda | Insecta | - | Odonata | - | - | Libellulidae | - | --
+Arthropoda | Insecta | - | Odonata | - | - | Libellulidae | - | Dythemis nigra
+Arthropoda | Insecta | - | Odonata | - | - | Megapodagrionidae | - | Paraphlebia sp.
+Arthropoda | Insecta | - | Odonata | - | - | Megapodagrionidae | - | --
+Arthropoda | Insecta | - | Odonata | - | - | Protoneuridae | - | --
+Arthropoda | Insecta | - | Odonata | - | - | Pseudostigmatidae | - | --
+
+# Not in the above groups:
+- 35636, (35486), (42998),  94202, (95580)

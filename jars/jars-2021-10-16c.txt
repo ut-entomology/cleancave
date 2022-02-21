@@ -1,0 +1,103 @@
+# New Jars for Problem Report, 16 October 2021
+#
+# (The 'b' version here has commented out problematic taxa.)
+
+Mollusca | Bivalvia | - | - | - | - | - | - | --
+
+Mollusca | Gastropoda | - | - | - | - | - | - | -- [state: TEXAS]
+
+Mollusca | Gastropoda | - | Cycloneritida | - | - | Helicinidae | - | Helicina sp.
+
+Mollusca | Gastropoda | - | Hygrophila | - | - | Physidae | - | --
+
+Mollusca | Gastropoda | - |Hygrophila| - | - | Planorbidae-Ancylini | - | --
+
+Mollusca | Gastropoda | - |Stylommatophora| - | - | Achatinidae | - | Rumina decollata
+
+Mollusca | Gastropoda | - | Stylommatophnora | - | - | Bulimulidae | - | --
+
+Mollusca | Gastropoda | - | Stylommatophora | - | - | Discidae | - | Anguispira sp.
+
+Mollusca | Gastropoda | - |Stylommatophora| - | - | Helicodiscidae | - | Helicodiscus eigemannni 
+Mollusca | Gastropoda | - |Stylommatophora| - | - | Helicodiscidae | - | Helicodiscus parallelus
+
+Mollusca | Gastropoda | - | Stylommatophora | - | - | Helicodiscidae | - | Helicodiscus sp.
+
+Mollusca | Gastropoda | - | Stylommatophora | - | - | Limacidae | - | --
+
+Mollusca | Gastropoda | - | Stylommatophora | - | - | Polygyridae | - | --
+Mollusca | Gastropoda | - | Stylommatophora | - | - | Polygyridae | - | Praticolella berlandieriana
+
+Mollusca | Gastropoda | - | Stylommatophora | - | - | Polygyridae | - | Patera roemeri
+
+Mollusca | Gastropoda | - | Stylommatophora | - | - | Vertiginidae | - | Pupoides albilabris
+
+Mollusca | Gastropoda | - |Stylommatophora| - | - | Zonitidae | - | -
+Mollusca | Gastropoda | - |Stylommatophora| - | - | Zonitidae | - | Glyphyalinia roemeri 
+Mollusca | Gastropoda | - |Stylommatophora| - | - | Zonitidae | - | Hawaiia sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [state: TEXAS]
+
+Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [states: ARKANSAS, CALIFORNIA, NEW MEXICO, MONTANA]
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Endomychyidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Erotylidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Erotylidae | - | Ischyrus quadripunctatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Erotylidae | - | Pharaxonotha kirschii
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Gyrinidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Histeridae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Histeridae | - | Saprinus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Hydrophilidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Hydrophilidae | - | Cercyon sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Hydrophilidae | - | Cymbiodyta vindicata
+Arthropoda | Insecta | - | Coleoptera | - | - | Hydrophilidae | - | Hydrophilus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Hydrophilidae | - | Tropisternus lateralis
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Laemophloeidae | - | Lathropus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Lampyridae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Lampyridae | - | Microphotus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Latridiidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Latridiidae | - | Metophthalmus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus nevadicus
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) cavernicola
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) cavernicola aditus
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) elabra
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) fiskei
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) gypsum
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) mckenziei
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) shepardi
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) sp. (troglobite)
+Arthropoda | Insecta | - | Coleoptera | - | - | Leiodidae | - | Ptomaphagus (Adelops) whiteselli
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Lycidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Lymexylidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Melandryidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Melyridae | - | --
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Oniscidae | - | --
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Porcellionidae | - | Porcellio laevis
+# James removed the following from the database:
+# Arthropoda | Malacostraca | - | Isopoda | - | - | Porcellionidae | - | Porcellio sp. cf. laevis
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Porcellionidae | - | Porcellionides sp.
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Porcellionidae | - | Porcellionides floria
+Arthropoda | Malacostraca | - | Isopoda | - | - | Porcellionidae | - | Porcellionides pruinosus
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Trichoniscidae | - | Undescribed genus (?) n. sp.
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Trichoniscidae | - | -- [country: USA]
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Trichoniscidae | – | Troglophiloscia sp. cf. belizensis
+
+# I don't know which of the following (ID)s are in the above set.
+- 23446,94539,94539,94556,(10193),(75077),(74706),(45192),(53784),(56517)

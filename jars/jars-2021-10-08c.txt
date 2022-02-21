@@ -1,0 +1,127 @@
+# New Jars Ready for Problem Report-8 October 2021; revised for 2021-11-16 labels
+
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | --
+
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | Antricola mexicanus
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | Nothoaspis reddelli
+
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | Ornithodoros brodyi
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | Ornithodoros dyeri
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | Ornithodoros sp.
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | Ornithodoros sp. (rossi group)
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | Ornithodoros turicata
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Argasidae | - | Ornithodoros yumatensis
+
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Ixodidae | - | Amblyomma americanum
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Ixodidae | - | Amblyomma cajennense
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Ixodidae | - | Amblyomma sp.
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Ixodidae | - | Dermacentor variabilis
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Ixodidae | - | Ixodes conepati
+Arthropoda | Arachnida | Acari | Ixodida | - | - | Ixodidae | - | Ixodes sp.
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus causeyae
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus echinourus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus falcatus
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus ivyi
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus reddelli
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speodesmus sp.
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Macrosternodesmidae | - | Speorthus tuganbius
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Paradoxosomatidae | - | Oxidus gracilis
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Pyrgodesmidae | - | -- [state: TEXAS]
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Pyrgodesmidae | - | -- [state: NOT TEXAS]
+
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Pyrgodesmidae | - | Myrmecodesmus formicarius
+Arthropoda | Diplopoda | - | Polydesmida | - | - | Pyrgodesmidae | - | Myrmecodesmus reddelli
+# No longer found in cave collection:
+# Arthropoda | Diplopoda | - | Polydesmida | - | - | Pyrgodesmidae | - | Myrmecodesmus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine insolita
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine koepkei
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine koepkei koepkei
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine russelli
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | Rhadine sprousei
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Cerambycidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Cerambycidae | - | Parmenonta minor
+Arthropoda | Insecta | - | Coleoptera | - | - | Cerambycidae | - | Stenelytrana sp.
+# No longer found in MDB:
+# Arthropoda | Insecta | - | Coleoptera | - | - | Cerambycidae | - | Euderces sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Cryptophagidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Cryptophagidae | - | Cryptophagus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Cucujidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Dascyllidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Dermestidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Dermestidae | - | Aspectyus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Dermestidae | - | Attagenus megatoma
+Arthropoda | Insecta | - | Coleoptera | - | - | Dermestidae | - | Dermestes carnivorus
+Arthropoda | Insecta | - | Coleoptera | - | - | Dermestidae | - | Dermestes marmoratus
+Arthropoda | Insecta | - | Coleoptera | - | - | Dermestidae | - | Thylodrias contractus
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Dryopidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | Agabus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | Copelatus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | Hydaticus bimarginatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | Hydroporus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | Laccophilus fasciatus
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | Neoclypeodytes discretus
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | Rhantus gutticollis
+Arthropoda | Insecta | - | Coleoptera | - | - | Dytiscidae | - | Sanfillipodytes sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Aedus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Aeolus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Agriotes sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Agrypnus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Anchastus binus
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Cardiophorus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Conoderus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Ctenicera sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Elater (=Steatoderus) sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Horistonotus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elateridae | - | Melanotus sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | --
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Heterelmis comalensis
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Heterelmis obesa
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Heterelmis sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Macrelmis texana
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Microcylloepus inaequalis
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Microcylloepus pusillus
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Microcylloepus sp.
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Neoelmis caesa
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Neoelmis sp.
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Stenelmis occidentalis
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Stenelmis sexlineata
+Arthropoda | Insecta | - | Coleoptera | - | - | Elmidae | - | Stenelmis sp.
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Armadillidiidae | - | Armadillidium vulgare
+Arthropoda | Malacostraca | - | Isopoda | - | - | Porcellionidae | - | Porcellio sp.
+
+# These labels were separately printed and dropped.
+# Arthropoda | Symphyla | - | - | - | - | - | - | --
+# + 73011, 73012, 73050, 73051, 73053, 73054, 73070
+
+# Removed per James' response to the Oct10 problem report.
+- 36835, (38702), (38702), (53634), (68964)
+
+# Date problem not corrected as of Nov-16 printing of labels
+- 29904
+
