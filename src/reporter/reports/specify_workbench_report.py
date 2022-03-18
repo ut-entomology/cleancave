@@ -270,7 +270,7 @@ class SpecifyWorkbenchReport(Report):
         return self._pull_date(record.date_time.end_date)
 
     def _pull_date(self, partial_date: Optional[PartialDate]) -> Optional[str]:
-        return partial_date.to_MMDDYYY() if partial_date is not None else None
+        return partial_date.to_MMDDYYYY() if partial_date is not None else None
 
     def _pull_determination_remarks(self, record: SpecimenRecord) -> Optional[str]:
         remarks = ""
@@ -303,6 +303,12 @@ class SpecifyWorkbenchReport(Report):
             notes = self._append_notes(notes, record.misc_notes)
         if record.is_sensitive:
             notes = self._append_notes(notes, "sensitive coordinates withheld")
+        end_date = self._pull_end_date(record)
+        if end_date is not None and end_date != self._pull_start_date(record):
+            notes = self._append_notes(
+                notes,
+                "*end date " + record.date_time.end_date.to_YYYYMMDD(),  # type: ignore
+            )
         return notes
 
     def _pull_prep_type(self, record: SpecimenRecord) -> str:
