@@ -4,6 +4,8 @@ out.txt
 output/
 bin/
 include/
-lib/
 share/
 pyvenv.cfg
+lib/python*
+*.py[cod]
+__pycache__/
