@@ -121,20 +121,8 @@ class SpecifyWorkbenchReport(Report):
                     self._pull_locality_notes(record)
                 ),
                 # "Owner": _to_column(record.owner), -- TODO: need a decision
-                "Start Date": _to_column(
-                    self._pull_date(record.date_time.start_date)
-                    if record.date_time is not None
-                    else None
-                ),
-                "End Date": _to_column(
-                    self._pull_date(
-                        record.date_time.end_date
-                        if record.date_time.end_date is not None
-                        else record.date_time.start_date
-                    )
-                    if record.date_time is not None
-                    else None
-                ),
+                "Start Date": _to_column(self._pull_start_date(record)),
+                "End Date": _to_column(self._pull_end_date(record)),
                 "CI Verbatim Date": record.raw_date_time,
                 "Prep Type": self._pull_prep_type(record),
                 "Count 1": _to_column(record.specimen_count),
@@ -267,6 +255,19 @@ class SpecifyWorkbenchReport(Report):
             if not record.county.endswith("County"):
                 return record.county + " County"
         return record.county
+
+    def _pull_start_date(self, record: SpecimenRecord) -> str | None:
+        if record.date_time is None:
+            return None
+        return self._pull_date(record.date_time.start_date)
+
+    def _pull_end_date(self, record: SpecimenRecord) -> str | None:
+        start_date = self._pull_start_date(record)
+        if record.date_time is None:
+            return None
+        if record.date_time.end_date is None:
+            return start_date
+        return self._pull_date(record.date_time.end_date)
 
     def _pull_date(self, partial_date: Optional[PartialDate]) -> Optional[str]:
         return partial_date.to_MMDDYYY() if partial_date is not None else None
