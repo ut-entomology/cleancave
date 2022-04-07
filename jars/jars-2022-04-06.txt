@@ -1,0 +1,83 @@
+# Jars Ready for Problems Report-4 April 2022 (received April 6)
+
+Arthropoda | Insecta | - | Hemiptera | - | - | - | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Belostomatidae| - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Belostomatidae| - | Abedus breviceps
+Arthropoda | Insecta | - | Hemiptera | - | - | Belostomatidae| - | Abedus immensus
+Arthropoda | Insecta | - | Hemiptera | - | - | Belostomatidae| - | Abedus signoreti
+Arthropoda | Insecta | - | Hemiptera | - | - | Belostomatidae| - | Belostoma flumineum
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Ceratocombidae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Ceratocombidae | - | Ceratocombus sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Gelastocoridae | - | --
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Cicadellidae| - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Cicadellidae| - | Empoasca sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Cicadellidae| - | Exitanus sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Ortheziidae| - | --
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Cydnidae |   | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Cydnidae |   | Amnestus pusio
+Arthropoda | Insecta | - | Hemiptera | - | - | Cydnidae |   | Pangaeus sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Cydnidae |   | Pangaeus aethiops
+Arthropoda | Insecta | - | Hemiptera | - | - | Cydnidae |   | Pangaeus docilis
+Arthropoda | Insecta | - | Hemiptera | - | - | Cydnidae |   | Pangaeus piceatus
+Arthropoda | Insecta | - | Hemiptera | - | - | Cydnidae | - | Sehirus sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Cydnidae |   | Tominotus unisetosus
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Gerridae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Gerridae | - | Eurygerris fluviolineatus
+Arthropoda | Insecta | - | Hemiptera | - | - | Gerridae | - | Gerris remigis
+Arthropoda | Insecta | - | Hemiptera | - | - | Gerridae | - | Gerris sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Gerridae | - | Trepobates sp.
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Largidae | - | Largus cinctus
+Arthropoda | Insecta | - | Hemiptera | - | - | Lygaeidae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Mesoveliidae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Nepidae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Notonectidae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Pyrrhocoridae | - | Dysdercus sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Pyrrhocoridae | - | Dysdercus bimaculatus
+Arthropoda | Insecta | - | Hemiptera | - | - | Pyrrhocoridae | - | Dysdercus obscuratus
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | Emesinae | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | Reduviinae | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | Harpactoninae | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Emesaya brevipennis
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Fitchia spinosula
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Leogorrus sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Opisthaclidius mexicanus
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Repipta sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Zelurus sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Zelus sp.
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Triatoma sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Triatoma dimidiata dimidiata
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Triatoma indictiva
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Triatoma sanguisuga
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Reduviidae | - | Triatoma gerstaeckeri
+
+Arthropoda | Insecta | - | Hemiptera | - | - | Rhopalidae |   | Jadera sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Rhyparochromidae |   | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Rhyparochromidae | - | Ozophora sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Rhyparochromidae | - | Ozophora sp. nr. depicturata
+Arthropoda | Insecta | - | Hemiptera | - | - | Thyreocoridae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Veliidae | - | --
+Arthropoda | Insecta | - | Hemiptera | - | - | Veliidae | - | Microvelia sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Veliidae | - | Microvelia beameri
+Arthropoda | Insecta | - | Hemiptera | - | - | Veliidae | - | Rhagovelia sp.
+Arthropoda | Insecta | - | Hemiptera | - | - | Veliidae | - | Rhagovelia varipes
+
+Arthropoda | Insecta | - | Homoptera | - | - | - | - | --
+Arthropoda | Insecta | - | Homoptera | Auchenorryncha| - | - | - | --
+Arthropoda | Insecta | - | Homoptera | - | - | Acanolonidae| - | Acanolona sp.
+Arthropoda | Insecta | - | Homoptera | - | - | Aleyrodidae| - | --
+Arthropoda | Insecta | - | Homoptera | - | - | Aphididae| - | --
+Arthropoda | Insecta | - | Homoptera | - | - | Aphididae| - | Rhapalosiphonius lalatysiphon
+Arthropoda | Insecta | - | Homoptera | - | - | Cixiidae| - | Cixius sp.
+Arthropoda | Insecta | - | Homoptera | - | - | Cixiidae| - | Molanoliarus sp.
+Arthropoda | Insecta | - | Homoptera | - | - | Delphacidae| - | --
+Arthropoda | Insecta | - | Homoptera | - | - | Delphacidae| - | Liburniella ornata
+Arthropoda | Insecta | - | Homoptera | - | - | Tropiduchidae| - | Mixodema reticulata

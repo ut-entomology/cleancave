@@ -1,0 +1,111 @@
+# Jars dated 2022-03-26
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | - | - | --
+Arthropoda | Insecta | - | Hymenoptera | - | - | Andrenidae | - | Perdita sp.
+Arthropoda | Insecta | - | Hymenoptera | - | - | Bethylidae | - | Holepyris sp.
+Arthropoda | Insecta | - | Hymenoptera | - | - | Braconidae | - | Apanteles sp.
+Arthropoda | Insecta | - | Hymenoptera | - | - | Cynipidae | - | Trybliographa sp.
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Apidae | - | Apis mellifera
+Arthropoda | Insecta | - | Hymenoptera | - | - | Apidae | - | Trigona atrolutea
+Arthropoda | Insecta | - | Hymenoptera | - | - | Apidae | - | Trigona testacea cupira
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Diapriidae | - | --
+Arthropoda | Insecta | - | Hymenoptera | - | - | Diapriidae | - | Diapria sp.--
+Arthropoda | Insecta | - | Hymenoptera | - | - | Diapriidae | - | Psilus sp.
+Arthropoda | Insecta | - | Hymenoptera | - | - | Diapriidae | - | Trichopria sp.
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Aphaenogaster boulderensis smithi
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Aphaenogaster sp.
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Aphaenogaster sp. nr. texana
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Aphaenogaster texana
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Atta mexicana
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Atta texana
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Crematogaster laeviuscula
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Crematogaster sp.
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Cyphomyrmex rimosus
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Forelius pruinosus
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Formica gnava
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Hypoponera inexorata
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Hypoponera opaciceps
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Hypoponera opacior
+
+Arthropoda | Insecta | - | Hymenotera | - | - | Formicidae | - | Labidus coecus
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Leptogenys elongata
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Leptogenys sp.
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | Myrmecinae | --
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Leptothorax obturator
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Monomorium minimum
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Monomorium viridum
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Myrmecina americana
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Nylanderia arenivaga
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Nylanderia terricola
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Nylanderia vividula
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Odontomachus clarus
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Pachycondyla harpax
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Pheidole dentata
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Pheidole hyatti
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Pheidole porcula
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Pheidole sp.
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Pogonomyrmex barbatus
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Proceratium compitale
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Proceratium pergandei
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Solenopsis geminata
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Solenopsis sp.
+
+Arthropoda | Insecta | - | Hymenoptera | - | - | Formicidae | - | Solenopsis invicta
+Arthropoda | Insecta | - | Hymenoptera | - | - | Ichneumonidae | - | Enisopilus sp.
+Arthropoda | Insecta | - | Hymenoptera | - | - | Ichneumonidae | - | Melanichneumon sp.
+Arthropoda | Insecta | - | Hymenoptera | - | - | Pompilidae | - | Ageniodes humilis
+Arthropoda | Insecta | - | Hymenoptera | - | - | Pompilidae | - | Anoplius
+Arthropoda | Insecta | - | Hymenoptera | - | - | Pompilidae | - | Anoplius amathystenus atramentarius
+Arthropoda | Insecta | - | Hymenoptera | - | - | Scelonidae | - | --
+Arthropoda | Insecta | - | Hymenoptera | - | - | Trichogrammatidae | - | Olgosita sp.
+
+Arthropoda | Insecta | - | Isoptera | - | - | - | - | --
+Arthropoda | Insecta | - | Isoptera | - | - | Rhinotermitidae | - | Reticulitermes sp.
+Arthropoda | Insecta | - | Isoptera | - | - | Termitidae | - | --
+
+Arthropoda | Insecta | - | Lepidoptera | - | - | - | - | --
+Arthropoda | Insecta | - | Lepidoptera | - | - | Acrolophidae | - |Amydria sp.
+Arthropoda | Insecta | - | Lepidoptera | - | - | Acrolophidae | - |Amydria sp. prob. arizonella
+Arthropoda | Insecta | - | Lepidoptera | - | - | Acrolophidae | - |Amydria sp. curvistrella
+
+Arthropoda | Insecta | - | Lepidoptera | - | - | Blastobasidae | - | --
+Arthropoda | Insecta | - | Lepidoptera | - | - | Geometridae | - | --
+Arthropoda | Insecta | - | Lepidoptera | - | - | Noctuidae | - | --
+Arthropoda | Insecta | - | Lepidoptera | - | - | Noctuidae | - |Epizeuxis sp. nr. lubicalis
+Arthropoda | Insecta | - | Lepidoptera | - | - | Pterophoridae | - | --
+
+Arthropoda | Insecta | - | Lepidoptera | - | - | Tineidae | - | --
+Arthropoda | Insecta | - | Lepidoptera | - | - | Tineidae | - |Pheroeca sp.
+Arthropoda | Insecta | - | Lepidoptera | - | - | Tineidae | - |Pheroeca uterella
+Arthropoda | Insecta | - | Lepidoptera | - | - | Tineidae | - |Tinea sp.
+
+Arthropoda | Insecta | - | Lepidoptera | - | - | Tortricidae | - | Archips rosanus
+Arthropoda | Insecta | - | Mallophaga | - | - | - | - | --
+Arthropoda | Insecta | - | Mantodea | - | - | - | - | --
+Arthropoda | Insecta | - | Orthoptera | - | - | Rhaphidophoridae | - | Ceuthophilus (Geotettix) carlsbadensis
+Arthropoda | Insecta | - | Orthoptera | - | - | Rhaphidophoridae | - | Ceuthophilus (Geotettix) conicaudus
+
+Arthropoda | Insecta | - | Plecoptera | - | - | - | - | -- 
+Arthropoda | Insecta | - | Psocoptera | - | - | - | - | -- 
+Arthropoda | Insecta | - | Psocoptera | - | - | Ectopsocidae | - | Ectopsocus sp.
+Arthropoda | Insecta | - | Psocoptera | - | - | Ectopsocidae | - | Ectopsocus vachoni
+Arthropoda | Insecta | - | Psocoptera | - | - | Epipsocidae | - | --
+Arthropoda | Insecta | - | Psocoptera | - | - | Epipsocidae | - | Bertkauia sp.
+
+Arthropoda | Insecta | - | Psocoptera | - | - | Lepidopsocidae | - | --
+Arthropoda | Insecta | - | Psocoptera | - | - | Liposcelidae | - | Liposcelis sp.
+
+Arthropoda | Insecta | - | Psocoptera | - | - | Psyllipsocidae | - | Psyllipsocus ramburii
+Arthropoda | Insecta | - | Siphonaptera | - | - | - | - | --
+Arthropoda | Insecta | - | Thysanoptera | - | - | - | - | --
+Arthropoda | Insecta | - | Zygentoma | - | - | Lepismatidae | - | --
+

@@ -641,6 +641,9 @@ Herman, Lee H.
 Hernandez, Fernando!
 Hernandez, Lydia!
   /Hernandez, Lyda
+Herring, Jon L.
+- Herring, J. L.
+  /Herrina, *, *
 Herschler, Robert!
 Herschler, *, *
   /Hershler, *, *
@@ -777,6 +780,7 @@ Kennedy, *, *
   /Kennecy, *
   /Kenendy, *
 Kern, Dottie!
+  /Kern, Dotti
 Keyser, Dave!
 Keys, Peter
 Kingsley, Ken
@@ -964,6 +968,7 @@ McKenzie, David W.!!
   /McKenzie
 - McKenzie, David!
   /McKenzie, Davdi
+  /McKenzie, Davide
 McKenzie, Martha Helen!
 McKenzie, Suzanne Wiley
 McMillan, *, *
@@ -1051,6 +1056,8 @@ Norris, Chad
 Northup, Diana!
 Norton, K.!
 Norton, Russel M.
+  /Norton
+- Norton, Rusty
 Noss, Reed
 Oakley, Robert
 - Oakley, Bob!
@@ -1433,6 +1440,10 @@ Sweet, Samuel S.!
   /Sam, Sweet
 - Sweet, Sam S.
 Syme, Ron
+Szerlip, Sigurd L.
+  /Szerlip, Sigured
+  /Szerlip, S. C.
+  /Szertip, S. L.
 Tandy, Mills!
 Tangestani, Moe!
 Taylor, Steven J.!
