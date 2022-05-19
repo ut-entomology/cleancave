@@ -10,7 +10,7 @@ Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Arctogeoph
 Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Arenophilus sp.
 Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Arenophilus n. sp.
 Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Geophilus sp.
-Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Taiyuma (?)  sp.
+Arthropoda | Chilopoda | - | Geophilomorpha | - | - |Geophilidae| - | Taiyuma (?) sp.
 
 Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Ethopolidae | - | Bothropolys multidentatus
 Arthropoda | Chilopoda | - | Lithobiomorpha | - | - | Lithobiidae | - | -- [state: Texas]

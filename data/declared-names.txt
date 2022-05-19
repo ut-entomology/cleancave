@@ -1118,6 +1118,8 @@ Pekins, Charles L.!!
 Pendergast, Denise!
 Pendergast, *, *
   /Pendergrast, *, *
+Perrinne, E.
+  /Perriunne, E.
 Persha, David
 Peters, William L.
 Peterson, Brian
@@ -1135,6 +1137,7 @@ Potter, Kathy!
 Poulson, Tom!
 - Poulson, T.
 Posso, Kara
+  /Poss, K.
 Platnick, Norman I.
 Poer, Freddy
 Polowski, Meghan
@@ -1388,6 +1391,7 @@ Sprouse, *, *
   /Spouse, *, *
 Sprouse, Peter S.!!
   /Sprouse
+  /Sprouse, Pl.
 Sprouse, Terri Treacy
   /Sprouse, Terri Treacey
 - Sprouse, Treacy

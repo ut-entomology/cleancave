@@ -1,0 +1,68 @@
+# Jars Ready for Problem Report-17 May 2022
+
+Arthropoda | Arachnida | - | Ricinulei | - | - | Ricinoididae | - | Pseudocellus pelaezi
+
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | Hubbardiinae | --
+
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Baalrog firstmani
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Harveyus reddelli
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Nahual pallidus
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Schizophyxia lukensi
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Schizophyxia sp. nr. lukensi
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Stenochrus pecki
+
+# PARATYPES
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Pacal trilobatus
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Pacal moisii
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Rowlandius cousinensis
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Nahual pallidus
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Rowlandius peckorum
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Rowlandius primibiconourus 
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Stewatpeckius troglobius
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Mayazomus infernalis
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Schizophyxia lukensi
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Troglostenochrus palaciosi
+
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Harveyus mexicanus
+
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Rowlandius cousinensis
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Rowlandius sp.
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Rowlandius viridis
+
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Sotanostenochrus cookei
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Sotanostenochrus mitchelli
+
+Arthropoda | Arachnida | - | Schizomida | - | - | Hubbardiidae | - | Stenochrus portoricensis
+
+Arthropoda | Arachnida | - | Schizomida | - | - | Protoschizomidae | - | Agastoschizomus lucifer
+Arthropoda | Arachnida | - | Schizomida | - | - | Protoschizomidae | - | Agastoschizomus patei
+Arthropoda | Arachnida | - | Schizomida | - | - | Protoschizomidae | - | Agastoschizomus sp.
+Arthropoda | Arachnida | - | Schizomida | - | - | Protoschizomidae | - | Agastoschizomus sp. cf. patei
+
+Arthropoda | Insecta | - | - | - | - | - | - | --
+
+Arthropoda | Insecta | - | Blattaria | - | - | - | - | -- [countries: BELIZE, GUATEMALA, MEXICO]
+
+Arthropoda | Insecta | - | Blattaria | - | - | - | - | -- [countries: JAMAICA, KENYA, OKINAWA]
+
+Arthropoda | Insecta | - | Blattaria | - | - | Blaberidae | - | - | --
+Arthropoda | Insecta | - | Blattaria | - | - | Blaberidae | - | Blaberus cranifer
+
+Arthropoda | Insecta | - | Blattaria | - | - | Blattidae | - | Periplaneta sp.
+
+Arthropoda | Insecta | - | Blattaria | - | - | Ectobiidae | - | --
+Arthropoda | Insecta | - | Blattaria | - | - | Ectobiidae | - | Aglaopteryx sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Ectobiidae | - | Euthlastoblatta sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Ectobiidae | - | Ischnoptera deropeltiformis
+
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | --
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | Arenivaga bolliana
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | Arenivaga sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | Arenivaga tonkawa
+
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | Homeogamia mexicana
+
+Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [country: MEXICO]
+
+Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [countries: BELIZE, GUATEMALA]
+

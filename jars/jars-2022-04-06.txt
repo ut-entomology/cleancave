@@ -81,3 +81,5 @@ Arthropoda | Insecta | - | Homoptera | - | - | Cixiidae| - | Molanoliarus sp.
 Arthropoda | Insecta | - | Homoptera | - | - | Delphacidae| - | --
 Arthropoda | Insecta | - | Homoptera | - | - | Delphacidae| - | Liburniella ornata
 Arthropoda | Insecta | - | Homoptera | - | - | Tropiduchidae| - | Mixodema reticulata
+
+- (61918),(13310),(28669),(52514),(56529)
