@@ -27,6 +27,7 @@ class TestParseSpeciesAuthor:
             ["n.sp. T, n.ssp. C", ["n. sp. T, n. ssp. C", None, None]],
             ["pristinus O.P.-Cambridge", ["pristinus", None, "O.P.-Cambridge"]],
             [
+                # make sure I can report this oddity
                 "boneti Goodnight and Goodnight) (?)",
                 ["boneti (?)", None, "Goodnight and Goodnight)"],
             ],
