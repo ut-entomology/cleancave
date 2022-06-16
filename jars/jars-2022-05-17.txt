@@ -66,3 +66,5 @@ Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [country: MEXICO]
 
 Arthropoda | Insecta | - | Coleoptera | - | - | - | - | -- [countries: BELIZE, GUATEMALA]
 
+- 58095,75334,81865,81866,81867,81868,81869,81870,81871,81872,81873,83423
+- 92579,94202,95281,95282,95283,95284

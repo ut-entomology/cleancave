@@ -22,6 +22,7 @@ OWNER_CORRECTIONS = {
     "camp bulls": "Camp Bullis",
     "camp bulils": "Camp Bullis",
     "fort hood": "Fort Hood",
+    "tpwd": "TPW",
 }
 SENSITIVE_OWNERS = ["Camp Bullis", "Fort Hood"]
 
@@ -31,6 +32,7 @@ class SpecimenRecord(LatLongRecord):
 
     REGEX_DIGITS = re.compile(r"[^\d]*(\d+).*")
     REGEX_ACCURACY = re.compile(r"(\d+) m(?:eters?)? accuracy")
+    REGEX_SPACES = re.compile(r" {2,}")  # 2nd dash is not short!
     MISSING_LABEL_TEXT = "(?)"
     MISSING_LABEL_YEAR = " (year?)"
 
@@ -142,14 +144,20 @@ class SpecimenRecord(LatLongRecord):
 
         # Process after loading.
 
-        if self.genus == "Cicurina (Cicurella)":
-            assert self.species_author is not None
-            self.species_author = self.species_author.replace("(blind)", "(eyeless)")
-
         if self.phylum is None:
             self.taxon_unique = NO_TAXON_STR
         else:
             self.taxon_unique = to_taxon_unique(self)[0]
+
+        if self.genus == "Cicurina (Cicurella)":
+            assert self.species_author is not None
+            self.species_author = self.species_author.replace("(blind)", "(eyeless)")
+
+        if self.species_author is not None:
+            self.species_author = (
+                self.species_author.replace(". ", ".").replace(".", ". ").rstrip()
+            )
+            self.species_author = re.sub(self.REGEX_SPACES, " ", self.species_author)
 
         if lat_longs is not None:
             self._revise_lat_long(lat_longs)
@@ -351,8 +359,8 @@ class SpecimenRecord(LatLongRecord):
 
     def _parse_owner(self, s: str) -> Optional[str]:
         owner = self._parse_str_or_none(s)
-        if owner is not None and owner in OWNER_CORRECTIONS:
-            owner = OWNER_CORRECTIONS[owner]
+        if owner is not None and owner.lower() in OWNER_CORRECTIONS:
+            owner = OWNER_CORRECTIONS[owner.lower()]
         return owner
 
     def _parse_sensitivity(self) -> bool:

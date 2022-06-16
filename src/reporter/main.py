@@ -17,6 +17,7 @@ from reports.listed_names_cat_nums_report import *
 from reports.name_cat_nums_report import *
 from reports.name_check_report import *
 from reports.no_specimens_by_taxa import *
+from reports.oddities_report import *
 from reports.problem_report import *
 from reports.remarks_report import *
 from reports.specify_workbench_report import *
@@ -52,12 +53,12 @@ class Norm:
             "-f=<family-name> restrict report to just cave records in this family\n"
             "-n restrict report to just non-cave data\n"
             "-p create a printable report (of labels)\n"
-            "-r reports to print: A=agents, F=foreign characters, G=general, C=lat/long coords,\n"
-                "D=dictionaries, L=labels, M=mashed labels, N=normalized CSV, P=problems,\n"
-                "QN=name check, QT=taxa check, R=remarks, T=TSS CSV, U=cat nums for names,\n"
-                "V=cat nums for initials, W=CSV for Specify Workbench, X=taxa,\n"
-                "Y=taxa by dups, Z=dups by taxon, 0=0 specimen counts by taxa\n"
-                "(defaults to DPW)\n"
+            "-r reports to print: A=agents, F=foreign characters, C=lat/long coords,\n"
+                "D=dictionaries, L=labels, M=mashed labels, N=normalized CSV, O=oddities,\n"
+                "P=problems, QN=name check, QT=taxa check, R=remarks, T=TSS CSV,\n"
+                "U=cat nums for names, V=cat nums for initials,\n"
+                "W=CSV for Specify Workbench, X=taxa, Y=taxa by dups, Z=dups by taxon,\n"
+                "0=0 specimen counts by taxa\n"
             "-t restrict report to just Texas cave data\n"
             "-x=<taxa-file> restrict report to just the taxa in this file\n"
             "<specimen_csv> is the path to a CSV file of specimens. 'reference-lat-longs.csv'\n"
@@ -132,6 +133,8 @@ class Norm:
                 )
             elif self._report_code == "N":
                 report = NormalizedCsvReport(table, filter)
+            elif self._report_code == "O":
+                report = OdditiesReport(table, filter)
             elif self._report_code == "P":
                 report = ProblemReport(
                     table,

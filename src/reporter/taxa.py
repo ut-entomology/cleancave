@@ -152,9 +152,7 @@ def clean_or_empty_taxon(name: Optional[str]) -> str:
 def clean_species(name: Optional[str]) -> Optional[str]:
     if name is None:
         return None
-    if name.startswith("n.sp."):
-        name = "n. sp.%s" % name[5:]
-    elif name.lower() == "new species":
+    if name.lower() == "new species":
         name = "n. sp."
     return None if name == "sp." else clean_taxon(name)
 

@@ -106,6 +106,7 @@ class SpecifyWorkbenchReport(Report):
                 "Subfamily1": _to_column(record.subfamily),
                 "Genus1": _to_column(_drop_parens(record.genus)),
                 "Species1": _to_column(self._pull_species(record.species_author)),
+                # TODO: This is not pulling out the subspecies, but Species1 is
                 "Subspecies1": _to_column(_drop_parens(record.subspecies)),
                 "Country": _to_column(self._pull_country(record)),
                 "State": _to_column(record.state),
@@ -343,6 +344,7 @@ class SpecifyWorkbenchReport(Report):
             and species.startswith("sp. prob.")
         ):
             return None
+        # TODO: remove this transform once I've extracted the author
         match = re.search(r"[A-Z]", species)
         if match is not None:
             species = species[0 : match.start(0)].strip()
