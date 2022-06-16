@@ -112,7 +112,9 @@ class TaxaByDupsReport(Report):
                 taxa_line += "'%s'" % record.subfamily
             taxa_line += SEP
 
-            genus_species = to_clean_genus_species(record.genus, record.species_author)
+            genus_species = to_clean_genus_species(
+                record.genus, record.species, record.subspecies
+            )
             if genus_species == NO_TAXON_STR:
                 genus_species = NONE
             elif genus_species.endswith("sp."):

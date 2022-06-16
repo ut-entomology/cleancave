@@ -27,6 +27,7 @@ class DictionaryReport(Report):
         self._show_dictionary("families", self.table.families)
         self._show_dictionary("subfamilies", self.table.subfamilies)
         self._show_dictionary("genera", self.table.genera)
+        self._show_dictionary("authors", self.table.authors)
         self._show_dictionary("continents", self.table.continents)
         self._show_dictionary("countries", self.table.countries)
         self._show_dictionary("states", self.table.states)

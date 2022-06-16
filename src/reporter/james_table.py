@@ -1,5 +1,6 @@
 from __future__ import annotations
 from typing import Optional
+import re
 
 from src.lib.declared_names_table import DeclaredNamesTable
 from src.lib.partial_date import PartialDate
@@ -13,12 +14,12 @@ from src.reporter.identity_catalog import IdentityCatalog
 StrCountDict = dict[str, int]
 IdentityDict = dict[str, Identity]
 
+END_CAT_NUM = "_END_"
+EMPTY_TERM = "(blank)"
+
 
 class JamesTable:
     """Representation of James' spreadsheet table."""
-
-    END_CAT_NUM = "_END_"
-    EMPTY_TERM = "(blank)"
 
     def __init__(
         self,
@@ -53,8 +54,9 @@ class JamesTable:
         self.families: StrCountDict = {}
         self.subfamilies: StrCountDict = {}
         self.genera: StrCountDict = {}
-        self.species_authors: StrCountDict = {}
+        self.species: StrCountDict = {}
         self.subspecies: StrCountDict = {}
+        self.authors: StrCountDict = {}
         self.continents: StrCountDict = {}
         self.countries: StrCountDict = {}
         self.states: StrCountDict = {}
@@ -71,6 +73,12 @@ class JamesTable:
 
         self.raw_names_by_collection: dict[Optional[str], dict[str, bool]] = {}
         self.identity_catalog = IdentityCatalog(declared_names_table)
+
+    @classmethod
+    def drop_parens(cls, s: Optional[str]) -> Optional[str]:
+        if s is None:
+            return None
+        return re.sub(r"\([^)]*\)", "", s).strip()
 
     def load(self) -> None:
         if self._lat_longs_filename is not None:
@@ -111,8 +119,9 @@ class JamesTable:
         self._collect_value(record.family, self.families)
         self._collect_value(record.subfamily, self.subfamilies)
         self._collect_value(record.genus, self.genera)
-        self._collect_value(record.species_author, self.species_authors)
+        self._collect_value(record.species, self.species)
         self._collect_value(record.subspecies, self.subspecies)
+        self._collect_value(JamesTable.drop_parens(record.authors), self.authors)
         self._collect_value(record.continent, self.continents)
         self._collect_value(record.country, self.countries)
         self._collect_value(record.state, self.states)
@@ -155,7 +164,7 @@ class JamesTable:
     @classmethod
     def _collect_value(cls, s: Optional[str], dictionary: StrCountDict) -> None:
         if s == "" or s is None:
-            s = cls.EMPTY_TERM
+            s = EMPTY_TERM
         # Catching an exception is faster than checking dictionary first.
         try:
             dictionary[s] += 1
@@ -167,7 +176,7 @@ class JamesTable:
         # Quit prematurely if there are no more records.
 
         raw_catalog_number = row["Catalog Number"].strip()
-        if raw_catalog_number == self.END_CAT_NUM:
+        if raw_catalog_number == END_CAT_NUM:
             return False
 
         # Create a record for the line and log its data.

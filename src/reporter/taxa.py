@@ -137,7 +137,7 @@ class TaxaIterator:
             deltas.append(("subfamily", taxon))
             self._last_subfamily = taxon
             self._clear_genus_species()
-        taxon = to_clean_genus_species(record.genus, record.species_author)
+        taxon = to_clean_genus_species(record.genus, record.species, record.subspecies)
         if taxon != self._last_genus_species:
             deltas.append(("species", taxon))
             self._last_genus_species = taxon
@@ -149,12 +149,16 @@ def clean_or_empty_taxon(name: Optional[str]) -> str:
     return "" if clean is None else clean
 
 
-def clean_species(name: Optional[str]) -> Optional[str]:
+def clean_species(name: str | None, subspecies: str | None) -> Optional[str]:
     if name is None:
         return None
     if name.lower() == "new species":
         name = "n. sp."
-    return None if name == "sp." else clean_taxon(name)
+    if name == "sp.":
+        return None
+    if subspecies is not None:
+        name += " " + subspecies
+    return clean_taxon(name)
 
 
 def clean_taxon(name: Optional[str]) -> Optional[str]:
@@ -172,9 +176,11 @@ def clean_taxon(name: Optional[str]) -> Optional[str]:
     return name
 
 
-def to_clean_genus_species(genus: Optional[str], species: Optional[str]) -> str:
+def to_clean_genus_species(
+    genus: str | None, species: str | None, subspecies: str | None
+) -> str:
     genus = clean_taxon(genus)
-    species = clean_species(species)
+    species = clean_species(species, subspecies)
     if species is not None:
         species = _strip_species_qualifier(species)
 
@@ -190,6 +196,9 @@ def to_clean_genus_species(genus: Optional[str], species: Optional[str]) -> str:
         else:
             genus_species = "%s %s" % (genus, species)
 
+    if subspecies is not None:
+        genus_species += " " + subspecies
+
     return genus_species
 
 
@@ -200,7 +209,7 @@ def to_taxon_sort_key(record: SpecimenRecord) -> str:
 
     component_taxa = _to_high_level_component_taxa(record)
     component_taxa.append(clean_or_empty_taxon(record.genus))
-    species = clean_species(record.species_author)
+    species = clean_species(record.species, record.subspecies)
     component_taxa.append("" if species is None else _strip_species_qualifier(species))
 
     # Delimit by a character that precedes all other characters, including space,
@@ -320,7 +329,9 @@ def _strip_species_qualifier(species: str) -> str:
 
 def _to_component_taxa(record: SpecimenRecord) -> list[str]:
     component_taxa = _to_high_level_component_taxa(record)
-    component_taxa.append(to_clean_genus_species(record.genus, record.species_author))
+    component_taxa.append(
+        to_clean_genus_species(record.genus, record.species, record.subspecies)
+    )
     return component_taxa
 
 

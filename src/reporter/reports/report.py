@@ -93,7 +93,7 @@ class Report(ABC):
         max_width = 0
         for message in messages:
             if message is None:
-                message = self.table.EMPTY_TERM
+                message = EMPTY_TERM
             if len(message) > max_width:
                 max_width = len(message)
 
@@ -113,7 +113,7 @@ class Report(ABC):
                         print(" | ", end="")
                     message = messages[j]
                     if message is None or message == "":
-                        message = self.table.EMPTY_TERM
+                        message = EMPTY_TERM
                     print(message.ljust(max_width, " "), end="")
                     j += line_count
                 print()
@@ -148,6 +148,16 @@ class Report(ABC):
             else:
                 abbrevs.append(collection[0:4].strip())
         return ",".join(abbrevs)
+
+    def _to_species_author(self, record: SpecimenRecord) -> str | None:
+        if record.species is None:
+            return None
+        species_author = record.species
+        if record.subspecies is not None:
+            species_author += " " + record.subspecies
+        if record.authors is not None:
+            species_author += " " + record.authors
+        return species_author
 
     def __filter_identities(self) -> None:
         self._filtered_identities = {}

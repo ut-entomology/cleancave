@@ -1,11 +1,8 @@
 from __future__ import annotations
-from typing import TYPE_CHECKING
 import re
 
-if TYPE_CHECKING:
-    from src.reporter.james_table import *
+from src.reporter.james_table import *
 from src.reporter.record_filter import RecordFilter
-
 from src.reporter.reports.report import Report
 
 
@@ -30,7 +27,8 @@ class OdditiesReport(Report):
         self._show_oddities("families", self.table.families)
         self._show_oddities("subfamilies", self.table.subfamilies)
         self._show_oddities("genera", self.table.genera)
-        self._show_oddities("species/authors", self.table.species_authors)
+        self._show_oddities("species", self.table.species)
+        self._show_oddities("subspecies", self.table.subspecies)
         # self._show_oddities("continents", self.table.continents)
         # self._show_oddities("countries", self.table.countries)
         # self._show_oddities("states", self.table.states)
@@ -56,7 +54,7 @@ class OdditiesReport(Report):
         for name in taxa:
             match = self.REGEX_NORMAL_TAXON.search(name)
             if match is None or name.find(" ") >= 0:
-                if name != JamesTable.EMPTY_TERM:
+                if name != EMPTY_TERM:
                     oddities.append(name)
 
         return oddities

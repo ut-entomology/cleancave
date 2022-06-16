@@ -4,7 +4,6 @@ from decimal import Decimal
 from enum import Enum
 import sys
 import csv
-import re
 
 if TYPE_CHECKING:
     from src.reporter.james_table import *
@@ -104,10 +103,10 @@ class SpecifyWorkbenchReport(Report):
                 "Order1": _to_column(record.order),
                 "Family1": _to_column(record.family),
                 "Subfamily1": _to_column(record.subfamily),
-                "Genus1": _to_column(_drop_parens(record.genus)),
-                "Species1": _to_column(self._pull_species(record.species_author)),
-                # TODO: This is not pulling out the subspecies, but Species1 is
-                "Subspecies1": _to_column(_drop_parens(record.subspecies)),
+                "Genus1": _to_column(JamesTable.drop_parens(record.genus)),
+                "Species1": _to_column(self._pull_species(record.species)),
+                "Author1": _to_column(record.authors),
+                "Subspecies1": _to_column(JamesTable.drop_parens(record.subspecies)),
                 "Country": _to_column(self._pull_country(record)),
                 "State": _to_column(record.state),
                 "County": _to_column(self._pull_county(record)),
@@ -275,10 +274,8 @@ class SpecifyWorkbenchReport(Report):
 
     def _pull_determination_remarks(self, record: SpecimenRecord) -> Optional[str]:
         remarks = ""
-        if record.species_author is not None and record.species_author.startswith(
-            "sp. prob."
-        ):
-            remarks = record.species_author
+        if record.species is not None and record.species.startswith("sp. prob."):
+            remarks = record.species
         if self._misc_notes_type == MiscNotesType.DETERMINATION:
             remarks = self._append_notes(remarks, record.misc_notes)
         if record.identifier_year is not None and record.identifier_year.determiners:
@@ -336,7 +333,7 @@ class SpecifyWorkbenchReport(Report):
     def _pull_species(self, james_species: Optional[str]) -> Optional[str]:
         if james_species is None:
             return None
-        species = _drop_parens(james_species)
+        species = JamesTable.drop_parens(james_species)
         if (
             species is None
             or species == "sp."
@@ -344,10 +341,6 @@ class SpecifyWorkbenchReport(Report):
             and species.startswith("sp. prob.")
         ):
             return None
-        # TODO: remove this transform once I've extracted the author
-        match = re.search(r"[A-Z]", species)
-        if match is not None:
-            species = species[0 : match.start(0)].strip()
         return species
 
     def _pull_stage(self, record: SpecimenRecord) -> Optional[str]:
@@ -395,12 +388,6 @@ def _add_agent(
     row["%s Last Name %d" % (agent_type, field_number)] = last_name + (
         ", " + suffix if suffix is not None else ""
     )
-
-
-def _drop_parens(s: Optional[str]) -> Optional[str]:
-    if s is None:
-        return None
-    return re.sub(r"\([^)]*\)", "", s).strip()
 
 
 def _to_column(s: Optional[str | int | Decimal]) -> str:

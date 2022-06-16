@@ -1,6 +1,6 @@
 .DS_Store
-out.csv
-out.txt
+*.csv
+*.txt
 output/
 bin/
 include/

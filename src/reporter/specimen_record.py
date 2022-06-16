@@ -1,5 +1,5 @@
 from __future__ import annotations
-from typing import Optional
+from typing import Optional, Tuple
 from decimal import Decimal
 import re
 
@@ -26,13 +26,17 @@ OWNER_CORRECTIONS = {
 }
 SENSITIVE_OWNERS = ["Camp Bullis", "Fort Hood"]
 
+REGEX_AUTHOR_START = re.compile(r"[A-Z][A-Za-z.]")
+REGEX_LOWER_LETTERS = re.compile(r"^[a-z]+$")
+REGEX_SPACES = re.compile(r" {2,}")  # 2nd dash is not short!
+NEW_SUBSPECIES = "n. subsp."
+
 
 class SpecimenRecord(LatLongRecord):
     """Representation of a record in James' spreadsheet."""
 
     REGEX_DIGITS = re.compile(r"[^\d]*(\d+).*")
     REGEX_ACCURACY = re.compile(r"(\d+) m(?:eters?)? accuracy")
-    REGEX_SPACES = re.compile(r" {2,}")  # 2nd dash is not short!
     MISSING_LABEL_TEXT = "(?)"
     MISSING_LABEL_YEAR = " (year?)"
 
@@ -51,7 +55,7 @@ class SpecimenRecord(LatLongRecord):
         raw_family: str,
         raw_subfamily: str,
         raw_genus: str,
-        raw_species: str,
+        raw_species_author: str,
         raw_subspecies: str,
         raw_species_on_label: str,
         raw_continent: str,
@@ -91,6 +95,11 @@ class SpecimenRecord(LatLongRecord):
         self.name_changes: Optional[list[str]] = None
         self.sort_key: str = ""
 
+        # Perform checks on assumptions.
+
+        if raw_subspecies != "":
+            self.add_problem("Expected empty subspecies")
+
         # Load from raw data.
 
         self.phylum = self._parse_non_empty("phylum", raw_phylum)
@@ -102,8 +111,9 @@ class SpecimenRecord(LatLongRecord):
         self.family = self._parse_str_or_none(raw_family)
         self.subfamily = self._parse_str_or_none(raw_subfamily)
         self.genus = self._parse_str_or_none(raw_genus)
-        self.species_author = self._parse_str_or_none(raw_species)
-        self.subspecies = self._parse_str_or_none(raw_subspecies)
+        [self.species, self.subspecies, self.authors] = parse_species_author(
+            self._parse_str_or_none(raw_species_author)
+        )
         self.species_on_label = self._parse_str_or_none(raw_species_on_label)
         self.continent = self._parse_str_or_none(raw_continent)
         self.country = self._parse_str_or_none(raw_country)
@@ -150,14 +160,10 @@ class SpecimenRecord(LatLongRecord):
             self.taxon_unique = to_taxon_unique(self)[0]
 
         if self.genus == "Cicurina (Cicurella)":
-            assert self.species_author is not None
-            self.species_author = self.species_author.replace("(blind)", "(eyeless)")
-
-        if self.species_author is not None:
-            self.species_author = (
-                self.species_author.replace(". ", ".").replace(".", ". ").rstrip()
-            )
-            self.species_author = re.sub(self.REGEX_SPACES, " ", self.species_author)
+            if self.species is not None:
+                self.species = self.species.replace("(blind)", "(eyeless)")
+                if self.subspecies is not None:
+                    self.subspecies = self.subspecies.replace("(blind)", "(eyeless)")
 
         if lat_longs is not None:
             self._revise_lat_long(lat_longs)
@@ -174,7 +180,7 @@ class SpecimenRecord(LatLongRecord):
             or self.order is not None
             or self.family is not None
             or self.genus is not None
-            or self.species_author is not None
+            or self.species is not None
             or self.species_on_label is not None
         )
 
@@ -484,3 +490,75 @@ class SpecimenRecord(LatLongRecord):
                         "Day column %d disagrees with parsed day %d"
                         % (day_column, start_date.day)
                     )
+
+        if self.species is None:
+            if self.subspecies is not None:
+                self.add_problem("Supspecies given without species")
+            elif self.authors is not None:
+                self.add_problem("Authors given without species")
+
+
+def parse_species_author(
+    species_author: str | None,
+) -> Tuple[str | None, str | None, str | None]:
+    if species_author is None:
+        return (None, None, None)
+
+    species_author = (
+        species_author.replace("(manuscript name)", "")
+        .replace(". ", ".")
+        .replace(".", ". ")
+        .replace(". ,", ".,")  ## for properly tracking oddities
+        .strip()
+    )
+    species_author = re.sub(REGEX_SPACES, " ", species_author)
+
+    species = species_author
+    subspecies: str | None = None
+    author: str | None = None
+
+    match = REGEX_AUTHOR_START.search(species_author)
+    if match is not None:
+        author_start_offset = match.start(0)
+        if author_start_offset == 0:
+            return (None, None, species_author)
+        author_end_offset = len(species_author)
+        prev_paren_offset = species_author.rfind("(", 0, author_start_offset)
+        if prev_paren_offset >= 0:
+            author_start_offset = prev_paren_offset
+            author_end_offset = species_author.find(")", author_start_offset)
+            if author_end_offset >= 0:
+                author_end_offset += 1
+        else:
+            author_end_offset = species_author.find("(")
+        if author_end_offset < 0:
+            author_end_offset = len(species_author)
+
+        author = species_author[author_start_offset:author_end_offset].strip()
+        if author[0] == "(" and author[len(author) - 1] != ")":
+            author += ")"
+        author = author.replace(". ", ".")
+
+        species = species_author[0:author_start_offset].strip()
+        if author_end_offset < len(species_author):
+            species += " " + species_author[author_end_offset:].strip()
+        species = species.strip()
+
+    words = species.split()
+    match = REGEX_LOWER_LETTERS.match(words[0])
+    if match is not None:
+        if len(words) > 1 and words[1][0].isalpha():
+            subspecies = species[len(words[0]) :].strip()
+            species = words[0]
+
+    if species in ["sp.", "so.", "sp,", "so,", "sp", "so"] and subspecies is None:
+        return (None, None, None)
+    if (
+        subspecies is not None
+        and subspecies.startswith("n.")
+        and not subspecies.startswith(NEW_SUBSPECIES)
+    ):
+        species += " " + subspecies
+        subspecies = None
+
+    return (species, subspecies, author)

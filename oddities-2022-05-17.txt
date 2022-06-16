@@ -7,35 +7,31 @@ Nemata (?)
 
 ---- classes oddities ----
 
-(blank)           | Hirudinea (blind) | Pauropoda (?)    
-Gastropoda (slug) | Oligochaeta (?)  
+Gastropoda (slug) | Hirudinea (blind) | Oligochaeta (?)   | Pauropoda (?)    
 
 ---- subclasses oddities ----
 
-(blank)
 
 ---- orders oddities ----
 
-"Conchostraca"               | Homoptera-Fulgoroidea       
-(blank)                      | Isopoda (blind)             
+"Conchostraca"               | Isopoda (blind)             
 .                            | Opilionida (blind)          
 Acarina WRONG!               | Tricladida (?blind)         
 Amphipoda (blind)            | Tricladida (blind)          
 Amphipoda (eyed)             | Tricladida (eyed)           
 Geophilomorpha (?troglobite) | Tricladida-Terricola        
 Geophilomorpha (troglobite)  | Zoraptera (?)               
+Homoptera-Fulgoroidea       
 
 ---- suborders oddities ----
 
-(blank)           | Brachyura (blind)
+Brachyura (blind)
 
 ---- infraorders oddities ----
 
-(blank)
 
 ---- families oddities ----
 
-(blank)                      | Linyphiidae (?)             
 .                            | Lithobiidae (troglobite)    
 Arrhopalitidae (?)           | Megapodagrionidae (?)       
 Asellidae (eyed)             | Nesticidae (?)              
@@ -53,16 +49,16 @@ Histeridae (?)               | Tenebrionidae (?)
 Lepismatidae (?)             | Theridiidae (?)             
 Leptonetidae (?)             | Trichoniscidae (?)          
 Libellulidae (?)             | Zonitidae (?)               
+Linyphiidae (?)             
 
 ---- subfamilies oddities ----
 
-(blank)         | .               | 0               | Arenobiinae (?)
+.               | 0               | Arenobiinae (?)
 
 ---- genera oddities ----
 
-"Neoallochernes"               | Gosibius (Abatobius)          
-"Parazaona"                    | Hahnia (?)                    
-(blank)                        | Hamotus (Hamatoides)          
+"Neoallochernes"               | Hahnia (?)                    
+"Parazaona"                    | Hamotus (Hamatoides)          
 .                              | Hamotus (Hamotoides)          
 ?cave species                  | Harpalus (Pseudoophonus)      
 Achaearanea (?)                | Harpalus (Pseudoophorus)      
@@ -127,951 +123,183 @@ Euthlastoblatta (?)            | Theatops (?)
 Galerita (Progalaretina)       | Trichotichnus (Iridessus)     
 Garyops (?)                    | Undescribed genus             
 Gaucelmus (?)                  | Undescribed genus (?)         
+Gosibius (Abatobius)          
 
----- species/authors oddities ----
+---- species oddities ----
 
-(blank)                                          
-.                                                
-?n. sp.                                          
-abdita Gertsch and Mulaik                        
-abdominalis (Say)                                
-abernathyi (Gertsch)                             
-absurda Forel                                    
-acerba (Peckham and Peckham)                     
-acuminatus Loomis                                
-acuminatus Loomis (?)                            
-acutus Goodnight and Goodnight                   
-adansoni (Audouin)                               
-adelphus Chamberlin                              
-adjacens O. P. -Cambridge                        
-aduncus Scheller                                 
-aenescens (LeConte)                              
-aethiops (Fabricius)                             
-affabilis (Brues)                                
-affinis Banks                                    
-affinis Banks (?)                                
-affinis O. P. -Cambridge (?)                     
-aktun n. sp.                                     
-albilabris (C. B. Adams)                         
-albulus (Zorsch and Crosby)                      
-aldrichi (Weed)                                  
-aldrichi (Weed) (?)                              
-amathsystenus atramentarius                      
-americana Emery                                  
-americana Holsinger                              
-americanus (Beauvois)                            
-amoena (C. L. Koch)                              
-amophor Chamberlin                               
-analis (Illiger)                                 
-angusta Ross                                     
-annulata (Say)                                   
-anopica (Gertsch)                                
-anops (Creaser)                                  
-antraeus (Crosby)                                
-antrorum (Bendict) (?)                           
-antrorum (Benedict) (?)                          
-antrorum Benedict                                
-antrorum Benedict (?)                            
-apacheana Gertsch                                
-apacheanus Gertsch and Soleglad                  
-aperta (Gertsch)                                 
-apiculatum Mayr                                  
-apoalensis Goodnight and Goodnight               
-aprilinus (Banks)                                
-archambaulti Ledford                             
-arenivaga (Wheeler)                              
-armata (Hagen)                                   
-ashmeadi Mayr                                    
-atoyac n. sp.                                    
-atoyaca Chamberlin                               
-augustinus Keyserling                            
-augustinus Keyserling (?)                        
-aurantia Lucas                                   
-austinensis Chamberlin                           
-austinensis Chamberlin (?)                       
-austinica Barr                                   
-austinica Barr (?)                               
-autumnalis Emerton                               
-azteca (Saussure)                                
-aztecus variety                                  
-babcocki (Barr)                                  
-bacillipus (Chamberlin and Mulaik)               
-bacillipus (Chamberlin and Mulaik) (?)           
-baerti Miller                                    
-balconis (Hubricht)                              
-bandera Gertsch                                  
-bandida Gertsch                                  
-barbatus (F. Smith)                              
-baronia Gertsch                                  
-baroqua Shear                                    
-beameri McKintry (?)                             
-belizensis Goodnight and Goodnight               
-belli Gertsch                                    
-berlandieriana (Moricand)                        
-bicolor (Hentz)                                  
-bicornourus Causey                               
-bicornourus Causey (?)                           
-bicrenata (Steeves)                              
-bifurcatus (Holsinger)                           
-bifurcatus (Holsinger) (?)                       
-bifurcatus + russelli                            
-bilimeki Mayr                                    
-bimaculata Goodnight and Goodnight               
-bimaculatus (Stal)                               
-bimarginatus (Say)                               
-binus (Say)                                      
-bisetus (Steeves)                                
-bispinosus (Olivier)                             
-bituberculata Baert                              
-blanda Gertsch and Ennik                         
-blanda Gretsch and Ennik                         
-bolivari (Rioja)                                 
-bolliana (Saussure) (?)                          
-boneti (Goodnight and Goodnight)                 
-boneti (Goodnight and Goodnight) (?)             
-boneti Goodnight and Goodnight) (?)              
-boulderensis smithi Gregg                        
-brazonus Chamberlin                              
-breviceps Stahl                                  
-brevipennis (Say)                                
-brevistyla Ubick and Briggs                      
-brunsi Cokendolpher                              
-bulbareolatus Schmidt-Rhaesa and Menzel          
-bullata Gertsch                                  
-bullis (Cokendolpher)                            
-bullis Cokendolpher                              
-bullis Cokendolpher and Reddell                  
-bullis Reddell and Cokendolpher                  
-buwata Chamberlin and Ivie                       
-byrrhus Simon                                    
-caecus Causey                                    
-caesa (LeConte)                                  
-calenturas Shear                                 
-calidus Gertsch                                  
-californicus Chaudoir                            
-caliga Cokendolpher and Reddell                  
-cambridgei Levi                                  
-camellus Causey                                  
-camellus Shelley                                 
-campecheae Hobbs and Hobbs                       
-cancriformis (Linnaeus)                          
-candela Gertsch                                  
-canionis (Chamberlin and Gertsch)                
-captiosus (Gertsch and Davis)                    
-carlsbadensis Caudell                            
-carnivorus Fabricius                             
-carolinianus (Beauvois)                          
-castaneus Chamberlin                             
-castellanus Elliott                              
-castellanus Elliott (?)                          
-causeyae MS                                      
-cavernicola (Keyserling)                         
-cavernicola aditus Peck                          
-cavernicola cavernicola (Schwarz                 
-cavernicola Schwarz                              
-cavicolens (Packard)                             
-cavicolens (Packard) (?)                         
-cenotensis Creaser                               
-cenotensis Creaser (?)                           
-cenoticola Holsinger                             
-chacmool (Rowland)                               
-chankin Valdez-Mondragon and Francke             
-chipinque Barr                                   
-chiricahuae Roth                                 
-chiricahuae Roth (?)                             
-chisoseus Gertsch                                
-chisoseus Gertsch (?)                            
-chiztun (Rowland) (?)                            
-clarkii (Girard)                                 
-clarus Roger                                     
-clivicollis Kirby                                
-clypeonotus (Brendel)                            
-coahuila Cole and Minckley                       
-cobanum (Levi)                                   
-cochise Levi                                     
-cocytus Lewis                                    
-coeca (Chamberlin and Ivie)                      
-coecus (Latreille)                               
-cokendolpheri Ubick and Briggs                   
-colei Bowman                                     
-colei Holsinger and Minckley                     
-comalensis Bosse, Tuff, and Brown                
-compar LeConte                                   
-compitale Ward                                   
-concinna (Gertsch)                               
-conepati (?)                                     
-conformatus Chamberlin                           
-conica (Banks)                                   
-conicaudus Hubbell                               
-constrictum LeConte                              
-constrirostrus Glyenhall                         
-contractus Motschulsky                           
-contusum LeConte                                 
-cookei (Rowland)                                 
-corruptus (Hagen                                 
-coryelli Gertsch                                 
-corynorhini Cockerel                             
-costalis LeConte                                 
-costifer LeConte                                 
-costirostris Gyllenhal                           
-costrirostris Glyenhall                          
-cotsalostoc Shear                                
-cousinensis (Rowland and Reddell)                
-cranifer Burmeister                              
-crassipalpis (Gertsch) (?)                       
-craterus fili Loomis                             
-crocuta (Taczanowski)                            
-crucis (Chamberlin)                              
-cruzbelem Shear                                  
-crypticus Cutler                                 
-cryptotexanus Chandler and Reddell               
-cuetzalan n. sp.                                 
-cuetzalanae Hobbs                                
-cueva Gertsch                                    
-culicinus (Simon)                                
-cunicularis Hubbell                              
-curiatus (Say)                                   
-dactylocyphus Shelley                            
-dactylocyphus Shlley (?)                         
-davisi Wallace and Exline                        
-debilis LeConte                                  
-decemlineata (Say)                               
-decipiens Emery                                  
-decolatta (Linnaeus)                             
-decollata (Linnaeus)                             
-dejectus (Holsinger)                             
-densiventris Viereck                             
-dentata Mayr                                     
-dentata Mayr (?)                                 
-dentipes Dejean                                  
-depressus Goodnight and Goodnight                
-deropeltiformis (Brunner)                        
-devia (Gertsch)                                  
-devia Gertsch and Mulaik                         
-diadema Selys                                    
-diaperinus (Panzer)                              
-dicropalpus Cokendolpher                         
-digitatus Loomis                                 
-dimidiata dimidiata (Latreille)                  
-diplospina Ubick and Briggs                      
-discicolle (Brulle)                              
-discolor (Buckley)                               
-disjunctus (Illiger)                             
-docilis (Walker)                                 
-dolosa Buren                                     
-domestica (Clerck)                               
-dorophor Chamberlin                              
-dugesi Simon                                     
-easterlai Triplehorn                             
-ecclesiasticus Hentz                             
-echinourus Loomis                                
-echinourus Loomis (?)                            
-elabra Peck                                      
-electrae Park                                    
-electum O. P. -Cambridge                         
-elegans Weed                                     
-elliotti Barr (?)                                
-elongata (Buckley)                               
-emarginatus Horn (?)                             
-embecausius Shear                                
-enaulus Crosby                                   
-equeus Chamberlin and Mulaik                     
-equeus Chamberlin and Mulaik (?)                 
-excepta (L. Koch)                                
-exilis (Barr and Lawrence                        
-exilis (Barr and Lawrence)                       
-exilis (Barr and Lawrence) (?)                   
-exlinae (Planick and Shadab)                     
-extensicolle (Say)                               
-falcatus Elliott                                 
-falcatus Elliott (?)                             
-fasciatus Aube                                   
-felix O. P. -Cambridge                           
-fendi Ubick and Briggs                           
-ferrugineus (Dejean)                             
-ferrugineus (Linnaeus)                           
-festinatus (Buckley)                             
-firstmani (Rowland)                              
-fishi (Causey)                                   
-fishi Causey                                     
-fiskei Peck                                      
-flagellatus (Benedict)                           
-flaviceps Emerton                                
-flavum Banks                                     
-flocki Gurney                                    
-floria Garthwaite and Sassamam                   
-floridana Emery                                  
-floridanum Banks                                 
-flumineum Say                                    
-fontinalis Keyserling                            
-formicarius Silvestri                            
-formicophilus Gebien                             
-formosa (Banks)                                  
-formosa Goodnight and Goodnight                  
-forthoodensis Sokolov and Reddell                
-fortis LeConte                                   
-fowleri Anderson                                 
-fraterna (Banks)                                 
-fratrella (Gertsch)                              
-fulgens (Csiki)                                  
-fulvescens (Saussure and Zehntner)               
-fulvescens (Saussure and Zehntner) (?)           
-funebris (Keyserling)                            
-funestus Keyserling                              
-furcatus (O. Pickard-Cambridge                   
-furcatus (O. Pickard-Cambridge)                  
-fusca Walckenaer                                 
-fuscus Casey                                     
-fusiformis LeConte                               
-gagatinus Dejean                                 
-galapagoensis Banks                              
-galapagoensis Maury                              
-galapagosensis Baert and Maelfait                
-geminata (Fabricius)                             
-geminata McCook                                  
-geniculata (Olivier)                             
-gerstaeckeri (Stal)                              
-gertschi Cokendolpher and Reddell                
-gertschi Diaz Najera                             
-gnava Buckley                                    
-goryi Solier                                     
-gracilipes (Haldeman)                            
-gracilis (C. L. Koch)                            
-gracilis (Keyserling)                            
-gracilis (Latreille)                             
-gracilis gracilis LeConte                        
-grahami Causey                                   
-grallatrix Crabill                               
-grandicollis Champion                            
-granulatus Cambridge                             
-gratiosus Goodnight and Goodnight                
-gravesi Chandler and Reddell                     
-griffini (Camerano)                              
-grubbsi Cokendolpher and Sissom                  
-grubbsi Reddell and Duperre                      
-grubbsi Shear                                    
-grubbsi Ubick and Briggs                         
-gruta Gertsch                                    
-guerrai Contreras Balderas                       
-gundlachi Roger                                  
-gutticollis (Say)                                
-gynosaphes Chamberlin                            
-gypsum Peck                                      
-hadenoecus (Holsinger)                           
-hardeni Bowman                                   
-hardeni Bowman (?)                               
-hardeni Lewis and Bowman                         
-hardeni Ubick and Briggs                         
-hardeni/bisetus                                  
-harpax (Fabricius)                               
-harrisoni (Causey)                               
-hecate (Panzer)                                  
-heros Girard                                     
-hesperus Chamberlin and Ivie                     
-hibernalis (Hentz) (?)                           
-hilgerensis Ubick and Briggs                     
-hirsuta Holsinger                                
-hispilabris LeConte                              
-hispilabris nuptus LeConte                       
-hoffi Muchmore (?)                               
-holthuisi (Strenth)                              
-hoodensis Cokendolpher and Reddell               
-hoodensis Muchmore                               
-howdeni (Barr and Lawrence                       
-howdeni (Barr and Lawrence)                      
-howdeni (Barr and Lawrence) (?)                  
-hyalinus Say                                     
-hyatti Emery                                     
-illigeri Reiche                                  
-imitatus Gertsch and Mulaik                      
-immensus Menke                                   
-imparis (Say)                                    
-impotens Casey                                   
-inaequalis (Sharp) (?)                           
-inclusum (Hentz)                                 
-indictiva Naeva                                  
-inexorata (Wheeler)                              
-infernalis (Muchmore)                            
-infernalis (Muchmore) (?)                        
-infernalis ewersi (Barr)                         
-infernalis infernalis (Barr and Lawrence)        
-infernalis n. subsp.                             
-inflatus (Blatchley)                             
-inflatus Champion                                
-inflatus Loomis                                  
-inopis Causey                                    
-inops (Goodnight and Goodnight)                  
-insolita (Holsinger)                             
-insolita Barr                                    
-insularis (Banks)                                
-insularis Banks                                  
-interceptus (Burmeister)                         
-intermedius Borelli                              
-internalis n. subsp.                             
-intricata Banks                                  
-invicta Buren                                    
-invicta Buren (?)                                
-ivyi Elliott                                     
-ivyi Elliott (?)                                 
-ivyi Reddell and Cokendolpher                    
-jamesoni Goodnight and Goodnight                 
-jonesi Hoffman                                   
-kirschii (Reitter)                               
-knullorum Triplehorn                             
-koepkei (Barr)                                   
-koepkei koepkei (Barr)                           
-laboriosa Hentz                                  
-laciniosa (Crosby and Bishop)                    
-laeta (Nicolet)                                  
-laeva (Say)                                      
-laevicollis Solier                               
-laevigatus (Fabricius)                           
-laeviuscula Mayr                                 
-lalatysiphon (Davidson)                          
-lateralis (Fabricius)                            
-leucopodus (Rafinesque)                          
-leucopodus (Rafinesque) (?)                      
-liebecki Van Dyke                                
-lineata (?)                                      
-llanoensis (Gertsch and Davis)                   
-llanoensis (Gertsch and Davis) (?)               
-loftini Cokendolpher                             
-longicollis Benedict                             
-longior Banks                                    
-longipes (Holsinger)                             
-longipes Caudell                                 
-longipes Lucas                                   
-longistyla Ubick and Briggs                      
-lucifer Rowland                                  
-lukensi (Rowland)                                
-lukensi Rowland                                  
-lustrans (Crotch)                                
-mactans (Fabricius)                              
-mactans (Fabricius) (?)                          
-maculatus (Banks)                                
-maculatus (Banks) (?)                            
-maculicornis (Chaudoir)                          
-maculipennis (Chaudoir)                          
-madla Gertsch                                    
-madla Gertsch (?)                                
-madla Ledford et al.                             
-madlae (Goodngiht and Goodnight                  
-madlae (Goodngith and Goodngiht)                 
-madlae (Goodnight and Goodnight)                 
-madlae (Goodnight and Goodnight) (?)             
-major Coquillett                                 
-manca (LeConte)                                  
-manteri Carvalho                                 
-marginata (Say)                                  
-marginatus Fabricius                             
-marmoratus Say                                   
-marxi Keyserling                                 
-maya Chamberlin and Ivie                         
-mayana (Chamberlin and Ivie)                     
-mccooki (Montgomery)                             
-mckenziei Peck                                   
-megatoma (Fabricius. )                           
-melacis Chamberlin and Mulaik                    
-merus Gertsch                                    
-metallicum Roewer                                
-metallicus Shear                                 
-mexicana (Chaudoir)                              
-mexicana (F. Smith)                              
-mexicana Burmeister                              
-mexicanus (Goodnight and Goodnight)              
-mexicanus (Pelaez)                               
-mexicanus (Roewer)                               
-mexicanus (Rowland)                              
-mexicanus Allen                                  
-mexicanus Goodnight and Goodnight                
-mexicanus mexicanus (Champion)                   
-micans Zimmerman                                 
-microps (Enderlein)                              
-microps (Gertsch)                                
-mimetoides Chamberlin and Ivie                   
-mimetoides Chamberlin and Ivie (?)               
-minimum Buckley                                  
-minor Bates (?)                                  
-misteca Gertsch                                  
-mitchelli (Rowland)                              
-mitchelli Gertsch                                
-mitchelli Hobbs and Hobbs                        
-mitchelli MS                                     
-mixmaster Cokendolpher and Reddell (?)           
-modoc Wheeler                                    
-moestus (O. -P. Cambridge)                       
-moisii (Rowland)                                 
-molitor Linnaeus                                 
-monticola Pocock                                 
-morela Chamberlin                                
-morgani Montgomery                               
-mulaiki Gertsch                                  
-mulaiki Goodnight and Goodnight                  
-multidentatus (Newport)                          
-munda LeConte                                    
-muricatum (Say)                                  
-muricatum (Say) (?)                              
-myopica (Gertsch)                                
-mystica Casey                                    
-n. sp.                                           
-n. sp. (?)                                       
-n. sp. 1                                         
-n. sp. 2                                         
-n. sp. 5 (flagellatus group, pecki subgroup)     
-n. sp. B                                         
-n. sp. B (?)                                     
-n. sp. nr. boneti (Goodnight and Goodnight)      
-n. sp. nr. planus Goodnight and Goodnight        
-n. sp. nr. robusta (Goodnight and Goodnight)     
-n. sp. nr. texensis Benedict                     
-n. sp. T, n. ssp. C                              
-nadinae Anderson                                 
-nadinae Paquin and Anderson                      
-nahuanus Gertsch                                 
-nahuanus Gertsch (?)                             
-nahuatlus Hobbs                                  
-naso LeConte                                     
-nearcticus Emery                                 
-neglectus Carl                                   
-nemoralis Say                                    
-neovespera Cokendolpher                          
-nevadicus Horn                                   
-nigra Martin (?)                                 
-nigripes Weed                                    
-nigromarginata (Caudell)                         
-niveus (DeGeer)                                  
-noctivaga Barr                                   
-noctivaga Barr (?) (elytra)                      
-nodosus haldemanni                               
-norteno Sissom and Gonzalez Santillan            
-novemstriatus LeConte                            
-oaxacae oaxacae Hobbs                            
-oaxacae reddelli Hobbs                           
-oaxacensis (Keyserling)                          
-oaxacensis Goodnight and Goodnight               
-obesa Sharp                                      
-obscuratus Distant                               
-obsoletus LeConte (?)                            
-obturator Wheeler                                
-occidentalis Montgomery                          
-occidentalis Schmude and Brown                   
-ochraceus Pocock                                 
-olidus Matthews                                  
-opaciceps (Mayr)                                 
-opacior (Forel)                                  
-opaculus LeConte                                 
-opimus Fletcher                                  
-ornatus (Girard)                                 
-osorioi (Bolivar and Pieltain)                   
-osorioi Goodnight and Goodnight                  
-oyamel Shear                                     
-pachypalpus (Rowland)                            
-pacificus (Banks)                                
-paisana Gertsch (?)                              
-palaciosi (Reddell and Cokendolpher)             
-palenque n. sp.                                  
-pallida (Emerton)                                
-pallida (Emerton) (?)                            
-pallidefulva Latreille                           
-pallidus (Rowland)                               
-pallidus Thomas                                  
-pallitarsis (Provancher)                         
-paludis (Chamberlin & Chamberlin)                
-pampa Chamberlin and Ivie                        
-pampa Chamberlin and Ivie (?)                    
-paraconcinna (Cokendolpher and Reddell)          
-paraconcinna Cokendolpher and Reddell            
-paratus Casey                                    
-parvulum (Hoff)                                  
-parvulum (Hoff) (?)                              
-parvus Goodnight and Goodnight                   
-parzefalli Magniez                               
-patei Cokendolpher and Reddell                   
-patei Cokendolpher and Reddell (?)               
-patei Shear                                      
-patonius (Chamberlin) (?)                        
-paykulli (Audouin) (?)                           
-pearsei (Chamberlin and Ivie)                    
-pearsei (Chamberln and Ivie)                     
-pearsei Wheeler                                  
-pecki (Holsinger)                                
-pecki (Rowland)                                  
-pecki (Shear)                                    
-pecki Goodnight and Goodnight                    
-pecki Shear                                      
-peckorum (Rowland and Reddell)                   
-pelaezi (Bolivar)                                
-pelaezi (Coronado)                               
-peltifer (Simon)                                 
-pennsylvanica (DeGeer)                           
-pergandei (Emery)                                
-permundus (Say)                                  
-persephone Barr                                  
-persephone Barr (?)                              
-phalangioides (Fuesslin)                         
-phanus Chamberlin                                
-phanus Chamberlin (?)                            
-picana Ross                                      
-piceatus Stal                                    
-pilus (Steeves)                                  
-pini (Olivier)                                   
-placida (Hentz)                                  
-planeticus Edwards                               
-planus Goodnight and Goodnight                   
-planus Goodnight and Goodnight (?)               
-platypus Cokendolpher                            
-pochteca Shear                                   
-polingi Hubbell                                  
-polymorpha Wood                                  
-porcula Wheeler                                  
-porteri (Banks)                                  
-porteri (Banks) (?)                              
-portoricensis Chamberlin                         
-postica (Glyenhall)                              
-postica LeConte                                  
-praedator (F. Smith)                             
-primibiconourus (Rowland and Reddell)            
-probably n. sp.                                  
-producta Chamberlin                              
-projectus Goodnight and Goodnight                
-pruinosus (Roger)                                
-pseustes Chamberlin                              
-pubescens (Dejean)                               
-pudicus (Bollman)                                
-puentecilla Gertsch                              
-pulchra (Keyserling) (?)                         
-punctatus (Loomis)                               
-punctiforme (Say)                                
-punctiventris Newport                            
-purificacion Cokendolpher and Reddell            
-purpurascens (Bates)                             
-pusillus (LeConte)                               
-pusio (Stahl)                                    
-quadripunctatus (Olivier)                        
-quinterensis (Villalobos)                        
-rabida (Walckenaer)                              
-radiata (Walckenaer)                             
-rainesi Causey                                   
-rainesi Gertsch                                  
-rainesi Gertsch (?)                              
-ramburii Selys-Longchamps                        
-reclusa Gertsch                                  
-reclusa Gertsch and Mulaik                       
-reclusa Gertsch and Mulaik (?)                   
-reddelli (Gertsch and Soleglad                   
-reddelli (Gertsch and Soleglad)                  
-reddelli (Rowland)                               
-reddelli (Steeves)                               
-reddelli (Steeves) (?)                           
-reddelli Barr and Steeves                        
-reddelli Elliott                                 
-reddelli Elliott (?)                             
-reddelli Fisk and Gurney                         
-reddelli Gertsch                                 
-reddelli Goodnight and Goodnight                 
-reddelli inornatus Causey                        
-reddelli Muegge                                  
-reddelli Muegge (?)                              
-reddelli reddelli Causey                         
-reddelli Shelley                                 
-reederi Gertsch and Peck                         
-relicta Holsinger                                
-remigis Say                                      
-renkesae Ubick and Briggs                        
-reticulata (Melichar)                            
-revilla Shear                                    
-reyesi (Ubick and Briggs)                        
-reyesi Chandler                                  
-reyesi Reddell and Cokendolpher                  
-reyesi Shear and Reddell                         
-reyesi Ubick and Briggs                          
-reyesi Ubick and Briggs (?)                      
-rimosus Spinola                                  
-robertsoni Shear                                 
-robinetti Boddy                                  
-robinsoni Gertsch                                
-robusta (Goodnight and Goodnight)                
-robustus Leidy                                   
-roemeri (Pfeiffer)                               
-roeweri (Goodnight and Goodnight)                
-rosanus (Linnaeus)                               
-rossmani Sissom                                  
-rostrata Gertsch                                 
-rostrata Gertsch (?)                             
-rotundatus (LeConte)                             
-rubida Savigny                                   
-rubra (Barr)                                     
-rubra Barr                                       
-rufa Mann                                        
-rufipes (Lucas)                                  
-rufipes Dejean (?)                               
-rugosus Goodnight and Goodnight                  
-rupestris (Say)                                  
-russelli (Goodnight and Goodnight)               
-russelli (Goodnight and Goodnight) (?)           
-russelli (Holsinger)                             
-russelli (Holsinger) (?)                         
-russelli Barr                                    
-russelli Causey                                  
-rusticus (Say)                                   
-sabina Chamberlin                                
-sallei Champion                                  
-saltatrix (Hentz)                                
-saltatrix (Hentz) (?)                            
-saluposi Bowman                                  
-samacos (Holsinger)                              
-samacos (Holsinger)(?)                           
-sandersoni Goodnight and Goodnight               
-sandia Duperre                                   
-sangregorio Shear                                
-sanguisuga LeConte                               
-sayi (Simon)                                     
-sbordonii (Brignoli)                             
-sbordonii (Goodnight and Goodnight)              
-scabricula (Crotch)                              
-schaefferi Ball                                  
-schullei (Gertsch and Mulaik)                    
-scitulus (LeConte)                               
-scutatus (Walker)                                
-secretus Scudder                                 
-secretus Scudder (?)                             
-semitestaceus Emery                              
-serena Gertsch                                   
-serrata (Emerton)                                
-serricorne (Fabricius)                           
-setosus Chamberlin                               
-sexlineata Sanderson                             
-sexspinosa (Say)                                 
-sexspinosus (Say)                                
-shastae (Causey)                                 
-shepardi Sanderson                               
-signoreti Mayr                                   
-simoni (Keyserling)                              
-simulans (Faxon)                                 
-simulans simulans (Faxon)                        
-sincera Gertsch and Mulaik                       
-sini Muchmore (?)                                
-sisyphoides (Walckenaer)                         
-sisyphoides (Walckenaer) (?)                     
-sisyphoides (Walvkenaer)                         
-sisyphoides (Walvkenaer) (?)                     
-smaragdinus (Holsinger)                          
-so,                                              
-soileauae Shear                                  
-solicolens Chamberlin                            
-sp,                                              
-sp.                                              
-sp. (4 eyes)                                     
-sp. (6-eyed)                                     
-sp. (?eyeless)                                   
-sp. (?no eyes)                                   
-sp. (?rossi group)                               
-sp. (blind)                                      
-sp. (conicaudus group)                           
-sp. (cunicularis group)                          
-sp. (cupreolata group)                           
-sp. (eyed)                                       
-sp. (eyeless)                                    
-sp. (granarius-like)                             
-sp. (pedicularius group)                         
-sp. (planipennis group)                          
-sp. (planipennus group)                          
-sp. (puncticollis group)                         
-sp. (reduced eyes)                               
-sp. (troglobite)                                 
-sp. , mulaiki group                              
-sp. A                                            
-sp. cf. belizensis Schultz                       
-sp. cf. patei Cokendolpher and Reddell           
-sp. cf. patei Copkendolpher and Reddell          
-sp. cf. reddelli Muegge                          
-sp. cf. schwarzi Richardson                      
-sp. cf. vibora Gertsch                           
-sp. cf. williamsi Mullinex                       
-sp. M/L                                          
-sp. near viator Mulsant and Godart               
-sp. nr. baronia Gertsch                          
-sp. nr. depicturata Barber                       
-sp. nr. depressum Davis                          
-sp. nr. hadenoecus (Holsinger)                   
-sp. nr. lubricallis Geyer                        
-sp. nr. lukensi (Rowland)                        
-sp. nr. pseudogracilis Bousfield                 
-sp. nr. pura Gertsch                             
-sp. nr. quadralineatus                           
-sp. nr. texana Emery                             
-sp. nr. vittatum (Say                            
-sp. prob. arizonella Dietz                       
-sp. prob. californicus (Walker)                  
-sp. prob. curvistrigella Dietz                   
-sp. prob. littoralis Dejean                      
-sp. prob. mutabilis (Gory and Pecheron)          
-sp. prob. occidea (Ross)                         
-sp. prob. testaceus Dejean                       
-specum (Barr)                                    
-specum Barr                                      
-specum specum (Barr)                             
-spelaeus Causey                                  
-speobia (Chamberlin)                             
-speobia (Chamberlin) (?)                         
-speophilus (Chamberlin and Ivie)                 
-sphaeronotus Jobling                             
-spinifer Shelley                                 
-spinifera tancahensis Goodnight and Goodnight    
-spinipes macrurus Champion                       
-spinooculorum Goodnight and Goodnight            
-spinoperca or brevidenta                         
-spinoperca Ubick and Briggs                      
-spinosula Stal                                   
-sprousei Cokendolpher and Reddell                
-sprousei Gertsch                                 
-sprousei Ledford                                 
-sprousei n. sp. (manuscript name)                
-sprousei Reddell and Cokendolpher                
-sprousei Shear                                   
-sprousei Sissom                                  
-spukilum (Chamberlin and Ivie)                   
-stercoreus (Turk)                                
-stercoreus (Turk) (?)                            
-stowersi Gertsch                                 
-striatopunctatum Dejean(?)                       
-stygicola Hobbs                                  
-stygius Cokendolpher and Reddell                 
-suberosus (Fabrocois_                            
-substriatus (LeConte)                            
-subterranea Holsinger                            
-subterranea mitchelli Bar                        
-subterranea mitchelli Barr                       
-subterranea subterranea (Van Dyke)               
-sullana (Exline)                                 
-sumichrasti Saussure                             
-sumidero Shear                                   
-tantillus Chickering                             
-tartarus Francke                                 
-temperorius Chamberlin                           
-tenango Gertsch                                  
-tenebrosa (Barr)                                 
-tenebrosa mckenziei Barr                         
-tenebrosa tenebrosa (Barr)                       
-tenebrosa tenebrosa Barr                         
-tenebrosus Hay                                   
-tenuicollis (LeConte)                            
-tepidariorum (C. L. Koch)                        
-teresa Gertsch and Ennik                         
-terminata (Say)                                  
-terricola (Buckley)                              
-terricola (Buckley) or N. vividula (Nylander)    
-tetrachelatus (Preyssler)                        
-texamans Chamberlin                              
-texana (Buckley)                                 
-texana (Schaeffer)                               
-texana Emery                                     
-texanum (Chaudoir)                               
-texanum (LeConte)                                
-texanus (Robinson)                               
-texanus Banks                                    
-texanus Banks (?)                                
-texanus Chandler                                 
-texanus Monjarez-Ruedas, Francke, and Cokendolphe
-texanus Muchmore                                 
-texanus Muchmore (?)                             
-texanus Schmidt-Rhaesa, Hanelt, and Reeves       
-texanus Wheeler                                  
-texascolens Chamberlin and Mulaik                
-texense (Loomis)                                 
-texensis (Holsinger)                             
-texensis Benedict                                
-texensis Benedict (?)                            
-texensis n. sp. (?) (manuscript name)            
-texensis n. sp. (manuscript name)                
-texicolens Chamberlin                            
-texicolens Chamberlin (?)                        
-textacea cupira                                  
-thaleri Levi                                     
-tlamaya Gertsch                                  
-tonkawa Hebard                                   
-tonkawa Hebard (?)                               
-tortus Shear                                     
-totonaca Shear                                   
-townsendii Weed                                  
-townsendii Weed (?)                              
-travisae Gertsch                                 
-travisae Gertsch (?)                             
-triangulosa (Walckenaer)                         
-tribolus Chamberlin                              
-tricostatus (Say)                                
-trilobatus (Rowland)                             
-troglobia Chagas and Shelley                     
-troglobia Chagas and Shelley (?)                 
-troglobia Cokendolpher                           
-troglobius (Rowland and Reddell)                 
-troglobius Causey                                
-troglodytes n. sp. (manuscript name)             
-tuberculata Ubick and Briggs                     
-tuckeri Cokendolpher and Reddell                 
-tuganbius Chambelrin                             
-tuganbius Chamberlin                             
-tuobitus (Chamberlin)                            
-turbinata (Walckenaer)                           
-tyrtaeum (Savigny)                               
-umbratilis Hubbell                               
-umbratilis Hubbell (?)                           
-uncicornis (Casey)                               
-uncigerus (Wood)                                 
-unicornis Ivie                                   
-unifasciatus (Dejean)                            
-unisetosus Froeschner                            
-urrutiai Bolivar y Pieltain                      
-utahensis (Chamberlin)                           
-uterella (Walsingham)                            
-uvalde Gertsch                                   
-uvalde Gertsch (?)                               
-vachoni Badonell                                 
-valdosa Gertsch                                  
-validus Gertsch                                  
-valverdensis Barr                                
-valverdiensis (?)                                
-valverdiensis Peck                               
-variabilis (Say)                                 
-varians Gertsch and Mulaik                       
-varians Gertsch and Mulaik (?)                   
-varians Gertsch and Mulaik(?)                    
-varipes Champion                                 
-varius (Leidy)                                   
-velmae Mullinex                                  
-venusta (Walckenaer)                             
-verus Chamberlin                                 
-vespera Gertsch                                  
-vibora Gertsch (?)                               
-vicinus Mayr                                     
-villalobosi Hobbs                                
-villosa (Fabricius)                              
-vindicata Fall                                   
-viridis (Palisot de Beauvois)                    
-viridis (Rowland and Reddell)                    
-viridis Say                                      
-viridorsum Goodnight and Goodnight               
-viridum Brown                                    
-vittatus (Say)                                   
-vittatus (Say) (?)                               
-vividula (Nylander)                              
-volutus Gertsch                                  
-vulgare (Latreille)                              
-whitei Ledford et al.                            
-whitei Ubick and Briggs                          
-whitei Ubick and Briggs (?)                      
-whiteselli Barr (?)                              
-willis Francke                                   
-wisemanensis Sokolov and Kavanaugh               
-xochitlanae Hobbs                                
-yerbabuena Shear                                 
-yucatana (Goodnight and Goodnight)               
-yucatana Chamberlin and Ivie                     
-yucatana Chamberlin and Ivie (?)                 
-yucatanensis Holsinger                           
-yumatensis (?)                                   
-zizicolens (Chamberlin)                          
+.                                           
+?n. sp.                                     
+acuminatus (?)                              
+affinis (?)                                 
+aktun n. sp.                                
+aldrichi (?)                                
+antrorum (?)                                
+atoyac n. sp.                               
+augustinus (?)                              
+austinensis (?)                             
+austinica (?)                               
+bacillipus (?)                              
+beameri (?)                                 
+bicornourus (?)                             
+bifurcatus (?)                              
+bifurcatus + russelli                       
+bolliana (?)                                
+boneti (?)                                  
+castellanus (?)                             
+cavicolens (?)                              
+cenotensis (?)                              
+chiricahuae (?)                             
+chisoseus (?)                               
+chiztun (?)                                 
+conepati (?)                                
+crassipalpis (?)                            
+cuetzalan n. sp.                            
+dactylocyphus (?)                           
+dentata (?)                                 
+echinourus (?)                              
+elliotti (?)                                
+emarginatus (?)                             
+equeus (?)                                  
+exilis (?)                                  
+falcatus (?)                                
+fulvescens (?)                              
+hardeni (?)                                 
+hardeni/bisetus                             
+hibernalis (?)                              
+hoffi (?)                                   
+howdeni (?)                                 
+inaequalis (?)                              
+infernalis (?)                              
+invicta (?)                                 
+ivyi (?)                                    
+leucopodus (?)                              
+lineata (?)                                 
+llanoensis (?)                              
+mactans (?)                                 
+maculatus (?)                               
+madla (?)                                   
+madlae (?)                                  
+mimetoides (?)                              
+minor (?)                                   
+mixmaster (?)                               
+muricatum (?)                               
+n. sp.                                      
+n. sp. (?)                                  
+n. sp. 1                                    
+n. sp. 2                                    
+n. sp. 5 (flagellatus group, pecki subgroup)
+n. sp. B                                    
+n. sp. B (?)                                
+n. sp. nr. boneti                           
+n. sp. nr. planus                           
+n. sp. nr. robusta                          
+n. sp. nr. texensis                         
+n. sp. T, n. ssp. C                         
+nahuanus (?)                                
+nigra (?)                                   
+noctivaga (?) (elytra)                      
+obsoletus (?)                               
+paisana (?)                                 
+palenque n. sp.                             
+pallida (?)                                 
+pampa (?)                                   
+parvulum (?)                                
+patei (?)                                   
+patonius (?)                                
+paykulli (?)                                
+persephone (?)                              
+phanus (?)                                  
+planus (?)                                  
+porteri (?)                                 
+probably n. sp.                             
+pulchra (?)                                 
+rainesi (?)                                 
+reclusa (?)                                 
+reddelli (?)                                
+reyesi (?)                                  
+rostrata (?)                                
+rufipes (?)                                 
+russelli (?)                                
+saltatrix (?)                               
+samacos (?)                                 
+secretus (?)                                
+sini (?)                                    
+sisyphoides (?)                             
+sp. (4 eyes)                                
+sp. (6-eyed)                                
+sp. (?eyeless)                              
+sp. (?no eyes)                              
+sp. (?rossi group)                          
+sp. (blind)                                 
+sp. (conicaudus group)                      
+sp. (cunicularis group)                     
+sp. (cupreolata group)                      
+sp. (eyed)                                  
+sp. (eyeless)                               
+sp. (granarius-like)                        
+sp. (pedicularius group)                    
+sp. (planipennis group)                     
+sp. (planipennus group)                     
+sp. (puncticollis group)                    
+sp. (reduced eyes)                          
+sp. (troglobite)                            
+sp. A                                       
+sp. cf. belizensis                          
+sp. cf. patei                               
+sp. cf. reddelli                            
+sp. cf. schwarzi                            
+sp. cf. vibora                              
+sp. cf. williamsi                           
+sp. M/L                                     
+sp. near viator                             
+sp. nr. baronia                             
+sp. nr. depicturata                         
+sp. nr. depressum                           
+sp. nr. hadenoecus                          
+sp. nr. lubricallis                         
+sp. nr. lukensi                             
+sp. nr. pseudogracilis                      
+sp. nr. pura                                
+sp. nr. quadralineatus                      
+sp. nr. texana                              
+sp. nr. vittatum                            
+sp. prob. arizonella                        
+sp. prob. californicus                      
+sp. prob. curvistrigella                    
+sp. prob. littoralis                        
+sp. prob. mutabilis                         
+sp. prob. occidea                           
+sp. prob. testaceus                         
+sp., mulaiki group                          
+speobia (?)                                 
+sprousei n. sp.                             
+stercoreus (?)                              
+striatopunctatum (?)                        
+texanus (?)                                 
+texensis (?)                                
+texensis n. sp.                             
+texensis n. sp. (?)                         
+texicolens (?)                              
+tonkawa (?)                                 
+townsendii (?)                              
+travisae (?)                                
+troglobia (?)                               
+troglodytes n. sp.                          
+umbratilis (?)                              
+uvalde (?)                                  
+valverdiensis (?)                           
+varians (?)                                 
+vibora (?)                                  
+vittatus (?)                                
+whitei (?)                                  
+whiteselli (?)                              
+yucatana (?)                                
+yumatensis (?)                              
+
+---- subspecies oddities ----
+
+n. subsp.                 | or brevidenta             | or N. vividula (Nylander)
 
 ---- type statuses oddities ----
 
-(blank)                              | HOLOTYPE (CAS), PARATYPES (TMM, CNC)
+HOLOTYPE (CAS), PARATYPES (TMM, CNC)

@@ -515,7 +515,7 @@ class LabelReport(Report):
         self._print_delta_taxa_label_line(
             deltas,
             ["species"],
-            [to_clean_genus_species(sample.genus, sample.species_author)],
+            [to_clean_genus_species(sample.genus, sample.species, sample.subspecies)],
             taxon_unique,
             restriction_abbr,
             changed,
