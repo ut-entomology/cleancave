@@ -56,6 +56,8 @@ class JamesTable:
         self.genera: StrCountDict = {}
         self.species: StrCountDict = {}
         self.subspecies: StrCountDict = {}
+        self.genus_species: StrCountDict = {}
+        self.species_subspecies: StrCountDict = {}
         self.authors: StrCountDict = {}
         self.continents: StrCountDict = {}
         self.countries: StrCountDict = {}
@@ -121,6 +123,10 @@ class JamesTable:
         self._collect_value(record.genus, self.genera)
         self._collect_value(record.species, self.species)
         self._collect_value(record.subspecies, self.subspecies)
+        self._collect_value(_combine(record.genus, record.species), self.genus_species)
+        self._collect_value(
+            _combine(record.species, record.subspecies), self.species_subspecies
+        )
         self._collect_value(JamesTable.drop_parens(record.authors), self.authors)
         self._collect_value(record.continent, self.continents)
         self._collect_value(record.country, self.countries)
@@ -245,3 +251,11 @@ class JamesTable:
             if self.max_catalog_number < cat_num:
                 self.max_catalog_number = cat_num
         return True
+
+
+def _combine(term1: str | None, term2: str | None) -> str | None:
+    if term2 is None:
+        return None
+    if term1 is None:
+        return "[missing] " + term2
+    return term1 + " " + term2

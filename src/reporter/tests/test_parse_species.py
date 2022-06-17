@@ -5,6 +5,7 @@ class TestParseSpeciesAuthor:
     def test_parse_species_author(self):
 
         species_authors = [
+            ["mactans", ["mactans", None, None]],
             ["sp.", [None, None, None]],
             ["epi (Auth)", ["epi", None, "(Auth)"]],
             ["epi (Auth 1995)", ["epi", None, "(Auth 1995)"]],

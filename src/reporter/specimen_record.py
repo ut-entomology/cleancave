@@ -159,11 +159,16 @@ class SpecimenRecord(LatLongRecord):
         else:
             self.taxon_unique = to_taxon_unique(self)[0]
 
-        if self.genus == "Cicurina (Cicurella)":
-            if self.species is not None:
-                self.species = self.species.replace("(blind)", "(eyeless)")
-                if self.subspecies is not None:
-                    self.subspecies = self.subspecies.replace("(blind)", "(eyeless)")
+        if self.genus is not None:
+            if self.genus[-1] == ".":
+                self.genus = self.genus[0:-1]
+            if self.genus == "Cicurina (Cicurella)":
+                if self.species is not None:
+                    self.species = self.species.replace("(blind)", "(eyeless)")
+                    if self.subspecies is not None:
+                        self.subspecies = self.subspecies.replace(
+                            "(blind)", "(eyeless)"
+                        )
 
         if lat_longs is not None:
             self._revise_lat_long(lat_longs)
