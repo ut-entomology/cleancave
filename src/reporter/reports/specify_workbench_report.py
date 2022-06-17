@@ -1,12 +1,10 @@
 from __future__ import annotations
-from typing import TYPE_CHECKING
 from decimal import Decimal
 from enum import Enum
 import sys
 import csv
 
-if TYPE_CHECKING:
-    from src.reporter.james_table import *
+from src.reporter.james_table import *
 from src.reporter.record_filter import StrictlyTexasCaveRecordFilter
 from src.reporter.reports.report import Report
 
@@ -50,6 +48,7 @@ class SpecifyWorkbenchReport(Report):
             "Genus1",
             "Species1",  # in specify as Species
             "Subspecies1",
+            "Author1",
             "Country",
             "State",
             "County",
