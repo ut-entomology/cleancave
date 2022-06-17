@@ -214,12 +214,15 @@ class LabelReport(Report):
                             if len(lines) <= self._max_label_lines:
                                 if not printed_header:
                                     for taxon_unique in jar_group.taxa_uniques:
-                                        self._print_delta_taxa_label(
-                                            None,
-                                            self._taxa_sample_records[taxon_unique],
-                                            taxon_unique,
-                                            jar_group.restriction_abbr,
-                                        )
+                                        # Records excluded by cat # or ID don't have
+                                        # sample records; avoid causing errors.
+                                        if taxon_unique in self._taxa_sample_records:
+                                            self._print_delta_taxa_label(
+                                                None,
+                                                self._taxa_sample_records[taxon_unique],
+                                                taxon_unique,
+                                                jar_group.restriction_abbr,
+                                            )
                                         self._print_carryover_lines()
                                     if not self._make_printable:
                                         print()
@@ -346,9 +349,11 @@ class LabelReport(Report):
                 elif (
                     record.country == "Ecuador" and record.state == "Galapagos Islands"
                 ):
-                    county = "Isla %s" % county
+                    if not county.startswith("Isla "):
+                        county = "Isla %s" % county
                 else:
-                    county = "Mun. %s" % county
+                    if not county.startswith("Mun. "):
+                        county = "Mun. %s" % county
                 label = "%s, %s, %s:" % (
                     self._to_label_value(record.country),
                     self._to_label_value(state),
@@ -798,13 +803,15 @@ class LabelReport(Report):
         # Extract and validate the country/state/county line.
 
         colon_offset = label.find(":")
-        country_line = (
-            label[0:colon_offset]
-            .replace("^", " ")
-            .replace(" Co.", "")
-            .replace("Isla ", "")
-            .replace("Mun. ", "")
-        )
+        country_line = label[0:colon_offset].replace("^", " ")
+        if record.county is not None:
+            if not record.county.endswith(" Co."):
+                country_line = country_line.replace(" Co.", "")
+            if not record.county.startswith("Isla "):
+                country_line = country_line.replace("Isla ", "")
+            if not record.county.startswith("Mun. "):
+                country_line = country_line.replace("Mun. ", "")
+
         label = label[colon_offset + 2 :]
         divisions = country_line.split(", ")
 
@@ -856,7 +863,7 @@ class LabelReport(Report):
                     or record.state.lower() not in States.TERRITORIES
                 ) and (
                     len(divisions) < 3
-                    or divisions[2] != SpecimenRecord.MISSING_LABEL_TEXT
+                    or SpecimenRecord.MISSING_LABEL_TEXT not in divisions[2]
                 ):
                     _invalid_label(record.id, lines, "County should be unknown")
             else:
@@ -867,7 +874,15 @@ class LabelReport(Report):
                 _invalid_label(record.id, lines, "Missing county")
             elif len(divisions) == 3:
                 if divisions[2] != record.county:
-                    _invalid_label(record.id, lines, "Invalid county")
+                    _invalid_label(
+                        record.id,
+                        lines,
+                        "Invalid county (["
+                        + divisions[2]
+                        + "] should be ["
+                        + record.county
+                        + "])",
+                    )
             else:
                 _invalid_label(record.id, lines, "Too many divisions in country line")
 

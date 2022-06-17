@@ -196,9 +196,6 @@ def to_clean_genus_species(
         else:
             genus_species = "%s %s" % (genus, species)
 
-    if subspecies is not None:
-        genus_species += " " + subspecies
-
     return genus_species
 
 
@@ -247,6 +244,7 @@ def to_taxon_unique(
     while i > 0 and (taxon == "" or taxon[0] == "-"):
         i -= 1
         taxon = component_taxa[i].strip()
+
     return (taxon, restriction_func, restriction_abbr)
 
 
