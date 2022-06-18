@@ -25,7 +25,10 @@ OWNER_CORRECTIONS = {
     "tpwd": "TPW",
 }
 SENSITIVE_OWNERS = ["Camp Bullis", "Fort Hood"]
+UNCERTAIN_DET_TEXT = "uncertain det."
 
+REGEX_SUBGENUS = re.compile(r"\([A-Z][a-z]+")
+REGEX_PARENED = re.compile(r"\([^)]+\)")
 REGEX_AUTHOR_START = re.compile(r"[A-Z][A-Za-z.]")
 REGEX_LOWER_LETTERS = re.compile(r"^[a-z]+$")
 REGEX_SPACES = re.compile(r" {2,}")  # 2nd dash is not short!
@@ -102,17 +105,18 @@ class SpecimenRecord(LatLongRecord):
 
         # Load from raw data.
 
+        self.det_descriptors: list[str] = []
         self.phylum = self._parse_non_empty("phylum", raw_phylum)
-        self.class_ = self._parse_str_or_none(raw_class)
-        self.subclass = self._parse_str_or_none(raw_subclass)
-        self.order = self._parse_str_or_none(raw_order)
+        self.class_ = self._parse_taxon(raw_class)
+        self.subclass = self._parse_taxon(raw_subclass)
+        self.order = self._parse_taxon(raw_order)
         self.suborder = self._parse_str_or_none(raw_suborder)
         self.infraorder = self._parse_str_or_none(raw_infraorder)
-        self.family = self._parse_str_or_none(raw_family)
+        self.family = self._parse_taxon(raw_family)
         self.subfamily = self._parse_str_or_none(raw_subfamily)
-        self.genus = self._parse_str_or_none(raw_genus)
+        [self.genus, self.subgenus] = self._parse_genus(raw_genus)
         [self.species, self.subspecies, self.authors] = parse_species_author(
-            self._parse_str_or_none(raw_species_author)
+            self._parse_str_or_none(raw_species_author), self.det_descriptors
         )
         self.species_on_label = self._parse_str_or_none(raw_species_on_label)
         self.continent = self._parse_str_or_none(raw_continent)
@@ -160,8 +164,6 @@ class SpecimenRecord(LatLongRecord):
             self.taxon_unique = to_taxon_unique(self)[0]
 
         if self.genus is not None:
-            if self.genus[-1] == ".":
-                self.genus = self.genus[0:-1]
             if self.genus == "Cicurina (Cicurella)":
                 if self.species is not None:
                     self.species = self.species.replace("(blind)", "(eyeless)")
@@ -331,6 +333,31 @@ class SpecimenRecord(LatLongRecord):
                 break
         return self._parse_str_or_none(s)
 
+    def _parse_genus(self, s: str | None) -> Tuple[str | None, str | None]:
+        if s is None:
+            return (None, None)
+        s = self._parse_str_or_none(s)
+        if s is None:
+            return (None, None)
+        if s[-1] == ".":
+            s = s[0:-1]
+        s = s.replace("=", "")
+
+        # Extract subgenus, which begins with a capital letter.
+        genus = s
+        subgenus: str | None = None
+        match = REGEX_SUBGENUS.search(s)
+        if match is not None:
+            subgenus = s[match.start(0) + 1 :]
+            if subgenus[-1] == ")":
+                subgenus = subgenus[0:-1]
+            genus = s[0 : match.start(0)].strip()
+
+        # Extract descriptors, which begin with a non-letter or a lowercase letter.
+        genus = self._parse_taxon(genus)
+
+        return (genus, subgenus)
+
     def _parse_locality_correct(self, s: str) -> Optional[str]:
         correct_locality = self._correct_foreign_chars(self._parse_str_or_none(s))
         if (
@@ -395,6 +422,20 @@ class SpecimenRecord(LatLongRecord):
                 s = correction
                 break
         return self._parse_str_or_none(s)
+
+    def _parse_taxon(self, raw: str) -> str | None:
+        s = self._parse_str_or_none(raw)
+        if s is None:
+            return None
+        match = REGEX_PARENED.search(s)
+        if match is not None:
+            descriptor = s[match.start(0) + 1 : match.end(0) - 1].strip()
+            if descriptor == "?":
+                descriptor = UNCERTAIN_DET_TEXT
+            if descriptor not in self.det_descriptors:
+                self.det_descriptors.append(descriptor)
+            s = s[0 : match.start(0)].strip()
+        return s
 
     def _parse_type_status(self, s: str) -> Optional[str]:
         if s == "":
@@ -504,7 +545,7 @@ class SpecimenRecord(LatLongRecord):
 
 
 def parse_species_author(
-    species_author: str | None,
+    species_author: str | None, descriptors: list[str]
 ) -> Tuple[str | None, str | None, str | None]:
     if species_author is None:
         return (None, None, None)
@@ -565,5 +606,28 @@ def parse_species_author(
     ):
         species += " " + subspecies
         subspecies = None
+
+    species = species.replace(" near ", " nr. ")
+    if species.startswith("sp. ("):
+        descriptors.append(species[len("sp. (") : -1].strip())
+        return (None, None, None)
+    if species.startswith("sp.,"):
+        descriptors.append(species[len("sp.,") :].strip())
+        return (None, None, None)
+    if species.startswith("sp. prob."):
+        species = species[len("sp. prob.") :].strip()
+        descriptors.append("probable det.")
+
+    if "?" in species:
+        descriptor = species
+        species = species.replace("(?)", "").replace("?", "").replace("  ", " ").strip()
+        if "n." in species or " " in species:
+            descriptors.append(descriptor)
+            return (None, None, None)
+        else:
+            descriptors.append(UNCERTAIN_DET_TEXT)
+    if "n." not in species and ("nr. " in species or "cf." in species):
+        descriptors.append(species)
+        return (None, None, None)
 
     return (species, subspecies, author)

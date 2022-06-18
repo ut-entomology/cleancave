@@ -11,6 +11,7 @@ from src.reporter.reports.report import Report
 # TODO: designate non-wet specimens, when James gets me the info
 # TODO: should I store the property owner somewhere?
 
+CAVE_COLLECTION_ACCESSION_NUMBER = "002022c"
 MAX_COLLECTORS = 8  # max collectors that workbench allows
 MAX_DETERMINERS = 1  # max determiners that workbench allows
 
@@ -95,7 +96,7 @@ class SpecifyWorkbenchReport(Report):
                 "Cataloger First Name": "James R.",
                 "Cataloger Last Name": "Reddell",
                 "Cataloged Date": "00/00/2022",
-                "Accession Accession Number": "002022c",
+                "Accession Accession Number": CAVE_COLLECTION_ACCESSION_NUMBER,
                 "Catalog Number": _to_column(self._pull_catalog_number(record)),
                 "Phylum1": _to_column(record.phylum),
                 "Class1": _to_column(record.class_),
@@ -272,9 +273,7 @@ class SpecifyWorkbenchReport(Report):
         return partial_date.to_MMDDYYYY() if partial_date is not None else None
 
     def _pull_determination_remarks(self, record: SpecimenRecord) -> Optional[str]:
-        remarks = ""
-        if record.species is not None and record.species.startswith("sp. prob."):
-            remarks = record.species
+        remarks = "; ".join(record.det_descriptors)
         if self._misc_notes_type == MiscNotesType.DETERMINATION:
             remarks = self._append_notes(remarks, record.misc_notes)
         if record.identifier_year is not None and record.identifier_year.determiners:
@@ -287,6 +286,19 @@ class SpecifyWorkbenchReport(Report):
                     remarks, "det. also by %s" % determiner.get_full_name()
                 )
                 i += 1
+
+        caveDataItems: list[str] = []
+        if record.subgenus is not None:
+            caveDataItems.append("subgenus " + record.subgenus)
+        if record.species is not None and "n." in record.species:
+            caveDataItems.append(record.species)
+        if record.subspecies is not None and "n." in record.subspecies:
+            caveDataItems.append(record.subspecies)
+        if len(caveDataItems) > 0:
+            if remarks != "":
+                remarks += "; "
+            remarks += "CAVEDATA[" + "; ".join(caveDataItems) + "]"
+
         return remarks if remarks != "" else None
 
     def _pull_determined_date(self, record: SpecimenRecord) -> Optional[str]:
