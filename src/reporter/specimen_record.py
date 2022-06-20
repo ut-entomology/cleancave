@@ -337,7 +337,7 @@ class SpecimenRecord(LatLongRecord):
         if s is None:
             return (None, None)
         s = self._parse_str_or_none(s)
-        if s is None:
+        if s is None or s == ".":
             return (None, None)
         if s[-1] == ".":
             s = s[0:-1]
@@ -425,7 +425,7 @@ class SpecimenRecord(LatLongRecord):
 
     def _parse_taxon(self, raw: str) -> str | None:
         s = self._parse_str_or_none(raw)
-        if s is None:
+        if s is None or s == ".":
             return None
         match = REGEX_PARENED.search(s)
         if match is not None:
@@ -547,7 +547,7 @@ class SpecimenRecord(LatLongRecord):
 def parse_species_author(
     species_author: str | None, descriptors: list[str]
 ) -> Tuple[str | None, str | None, str | None]:
-    if species_author is None:
+    if species_author is None or species_author == ".":
         return (None, None, None)
 
     species_author = (
