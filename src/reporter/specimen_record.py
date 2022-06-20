@@ -342,6 +342,8 @@ class SpecimenRecord(LatLongRecord):
         if s[-1] == ".":
             s = s[0:-1]
         s = s.replace("=", "")
+        if s[0] == '"' and s[-1] == '"':
+            s = s[1:-1]
 
         # Extract subgenus, which begins with a capital letter.
         genus = s
@@ -427,6 +429,8 @@ class SpecimenRecord(LatLongRecord):
         s = self._parse_str_or_none(raw)
         if s is None or s == ".":
             return None
+        if s[0] == '"' and s[-1] == '"':
+            s = s[1:-1]
         match = REGEX_PARENED.search(s)
         if match is not None:
             descriptor = s[match.start(0) + 1 : match.end(0) - 1].strip()
