@@ -64,7 +64,10 @@ class JamesTable:
         self.states: StrCountDict = {}
         self.counties: StrCountDict = {}
         self.localities: StrCountDict = {}
+        self.lowercaseLocalities: dict[str, list[str]] = {}
+        self.localityCounties: dict[str, list[str | None]] = {}
         self.owners: StrCountDict = {}
+        self.localityOwners: dict[str, list[str | None]] = {}
         self.microhabitats: StrCountDict = {}
         self.type_statuses: StrCountDict = {}
         self.collections: StrCountDict = {}
@@ -152,6 +155,30 @@ class JamesTable:
                 self._collect_value(date_time.season, self.seasons)
             if date_time.part_of_day is not None:
                 self._collect_value(date_time.part_of_day, self.parts_of_day)
+
+        if record.locality_correct is not None:
+            lowercase_locality = record.locality_correct.lower()
+
+            if lowercase_locality in self.lowercaseLocalities:
+                original_localities = self.lowercaseLocalities[lowercase_locality]
+                if record.locality_correct not in original_localities:
+                    original_localities.append(record.locality_correct)
+            else:
+                self.lowercaseLocalities[lowercase_locality] = [record.locality_correct]
+
+            if lowercase_locality in self.localityCounties:
+                locality_counties = self.localityCounties[lowercase_locality]
+                if record.county not in locality_counties:
+                    locality_counties.append(record.county)
+            else:
+                self.localityCounties[lowercase_locality] = [record.county]
+
+            if lowercase_locality in self.localityOwners:
+                locality_owners = self.localityOwners[lowercase_locality]
+                if record.owner not in locality_owners:
+                    locality_owners.append(record.owner)
+            else:
+                self.localityOwners[lowercase_locality] = [record.owner]
 
     def _collect_agents(self, record: SpecimenRecord) -> None:
         self._collect_identities(record.collectors)

@@ -103,6 +103,55 @@ class ProblemReport(Report):
         else:
             print("\n  Found problems in %d records" % problem_record_count)
 
+        # Report duplicate locality names having different letter cases.
+
+        foundOne = False
+        for lowercaseLocality in sorted(self.table.lowercaseLocalities.keys()):
+            duplicates = self.table.lowercaseLocalities[lowercaseLocality]
+            if len(duplicates) > 1:
+                if not foundOne:
+                    print(
+                        "\n==== Identical Locality Names with Different Lettercases ====\n"
+                    )
+                    foundOne = True
+                for duplicate in duplicates:
+                    print(duplicate)
+                print()
+
+        # Report duplicate locality names having different owners.
+
+        foundOne = False
+        for lowercaseLocality in sorted(self.table.localityOwners.keys()):
+            owners = self.table.localityOwners[lowercaseLocality]
+            if len(owners) > 1:
+                if not foundOne:
+                    print(
+                        "\n==== Identical Locality Names with Different Owners ====\n"
+                    )
+                    foundOne = True
+                ownersWithNones: list[str] = []
+                for owner in owners:
+                    ownersWithNones.append("(blank)" if owner is None else owner)
+                print(self.table.lowercaseLocalities[lowercaseLocality][0] + ":")
+                print("   ", ", ".join(ownersWithNones))
+
+        # Report duplicate locality names having different counties.
+
+        foundOne = False
+        for lowercaseLocality in sorted(self.table.localityCounties.keys()):
+            counties = self.table.localityCounties[lowercaseLocality]
+            if len(counties) > 1:
+                if not foundOne:
+                    print(
+                        "\n==== Identical Locality Names with Different Counties ====\n"
+                    )
+                    foundOne = True
+                countiesWithNones: list[str] = []
+                for county in counties:
+                    countiesWithNones.append("(blank)" if county is None else county)
+                print(self.table.lowercaseLocalities[lowercaseLocality][0] + ":")
+                print("   ", ", ".join(countiesWithNones))
+
         # Show warnings associated with each record.
 
         print("\n==== Warnings for Individual Records ====\n")

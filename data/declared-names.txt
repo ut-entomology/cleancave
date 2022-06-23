@@ -569,6 +569,8 @@ Goodnight, Clarence J.
   /Goodnight
 Goodnight, Marie L.
 Gordon, Jessica!
+- Gordon, J.
+  /Gordon, Jl
 Gordon, Robert D.
 Goree, Silken
   /Gore, Silken
@@ -811,6 +813,7 @@ Krejca, *, *
   /Krjca, *, *
   /Kerjca, *, *
   /Krejjca, *, *
+  /Krejcqa, *, *
 Krupka, Nathan!
 Kunath, Carl E.!!
 Kweskin, Matthew!
