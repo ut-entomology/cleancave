@@ -344,6 +344,9 @@ class SpecimenRecord(LatLongRecord):
         s = s.replace("=", "")
         if s[0] == '"' and s[-1] == '"':
             s = s[1:-1]
+        if " or " in s or " and " in s or "+" in s or "/" in s:
+            self.det_descriptors.append(s)
+            return (None, None)
 
         # Extract subgenus, which begins with a capital letter.
         genus = s
@@ -431,6 +434,9 @@ class SpecimenRecord(LatLongRecord):
             return None
         if s[0] == '"' and s[-1] == '"':
             s = s[1:-1]
+        if " or " in s or " and " in s or "+" in s or "/" in s:
+            self.det_descriptors.append(s)
+            return None
         match = REGEX_PARENED.search(s)
         if match is not None:
             descriptor = s[match.start(0) + 1 : match.end(0) - 1].strip()
@@ -595,6 +601,10 @@ def parse_species_author(
         if author_end_offset < len(species_author):
             species += " " + species_author[author_end_offset:].strip()
         species = species.strip()
+
+    if " and " in species or "+" in species or "/" in species or " or " in species:
+        descriptors.append(species)
+        return (None, None, None)
 
     words = species.split()
     match = REGEX_LOWER_LETTERS.match(words[0])

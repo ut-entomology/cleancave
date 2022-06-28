@@ -47,6 +47,11 @@ class TestParseSpeciesAuthor:
             ["sp. nr. baronia", [None, None, None], ["sp. nr. baronia"]],
             ["sp. cf. belizensis", [None, None, None], ["sp. cf. belizensis"]],
             ["sp. prob. arizonell", ["arizonell", None, None], ["probable det."]],
+            ["sp. M/L", [None, None, None], ["sp. M/L"]],
+            ["hardeni/bisetus", [None, None, None], ["hardeni/bisetus"]],
+            ["xyz and pdq", [None, None, None], ["xyz and pdq"]],
+            ["xyz or pdq", [None, None, None], ["xyz or pdq"]],
+            ["xyz + pdq", [None, None, None], ["xyz + pdq"]],
         ]
 
         for test in species_authors:
