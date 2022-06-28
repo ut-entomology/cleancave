@@ -628,7 +628,7 @@ def parse_species_author(
         descriptor = species
         species = species.replace("(?)", "").replace("?", "").replace("  ", " ").strip()
         if "n." in species or " " in species:
-            if not "n." in species or species.startswith("n."):
+            if not "n." in species:
                 descriptors.append(descriptor)
             return (None, None, None)
         else:
