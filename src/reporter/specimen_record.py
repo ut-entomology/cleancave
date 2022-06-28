@@ -554,13 +554,15 @@ def parse_species_author(
     if species_author is None or species_author == ".":
         return (None, None, None)
 
-    species_author = (
-        species_author.replace("(manuscript name)", "")
-        .replace(". ", ".")
-        .replace(".", ". ")
-        .replace(". ,", ".,")  ## for properly tracking oddities
-        .strip()
-    )
+    if "manuscript name" in species_author:
+        species_author = "n. sp."
+    else:
+        species_author = (
+            species_author.replace(". ", ".")
+            .replace(".", ". ")
+            .replace(". ,", ".,")  ## for properly tracking oddities
+            .strip()
+        )
     species_author = re.sub(REGEX_SPACES, " ", species_author)
 
     species = species_author
@@ -626,11 +628,16 @@ def parse_species_author(
         descriptor = species
         species = species.replace("(?)", "").replace("?", "").replace("  ", " ").strip()
         if "n." in species or " " in species:
-            descriptors.append(descriptor)
+            if not "n." in species or species.startswith("n."):
+                descriptors.append(descriptor)
             return (None, None, None)
         else:
             descriptors.append(UNCERTAIN_DET_TEXT)
-    if "n." not in species and ("nr. " in species or "cf." in species):
+
+    if "n." in species:
+        if not species.startswith("n."):
+            species = "n. sp."
+    elif "nr. " in species or "cf." in species:
         descriptors.append(species)
         return (None, None, None)
 

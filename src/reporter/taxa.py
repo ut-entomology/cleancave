@@ -313,7 +313,8 @@ def _parse_restriction(restriction_str: str) -> tuple[RestrictionFunc, str]:
 
 
 def _strip_species_qualifier(species: str) -> str:
-    species = species.replace("(manuscript name)", "").replace("  ", " ")
+    if "manuscript name" in species:
+        return "n. sp."
     i = 1
     while i < len(species):
         if species[i].isupper():
