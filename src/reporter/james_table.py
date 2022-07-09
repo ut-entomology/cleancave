@@ -66,6 +66,7 @@ class JamesTable:
         self.localities: StrCountDict = {}
         self.lowercaseLocalities: dict[str, list[str]] = {}
         self.localityCounties: dict[str, list[str | None]] = {}
+        self.countyLocalities: dict[str | None, list[str]] = {}
         self.owners: StrCountDict = {}
         self.localityOwners: dict[str, list[str | None]] = {}
         self.microhabitats: StrCountDict = {}
@@ -157,6 +158,14 @@ class JamesTable:
                 self._collect_value(date_time.part_of_day, self.parts_of_day)
 
         if record.locality_correct is not None:
+
+            if record.county in self.countyLocalities:
+                countyLocalities = self.countyLocalities[record.county]
+                if record.locality_correct not in countyLocalities:
+                    countyLocalities.append(record.locality_correct)
+            else:
+                self.countyLocalities[record.county] = [record.locality_correct]
+
             lowercase_locality = record.locality_correct.lower()
 
             if lowercase_locality in self.lowercaseLocalities:

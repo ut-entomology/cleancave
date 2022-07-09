@@ -7,6 +7,7 @@ from james_table import JamesTable
 from record_filter import *
 from reports.report import *
 from reports.agents_report import *
+from reports.county_localities import *
 from reports.dictionary_report import *
 from reports.dups_by_taxa_report import *
 from reports.foreign_word_report import *
@@ -58,7 +59,7 @@ class Norm:
                 "P=problems, QN=name check, QT=taxa check, R=remarks, T=TSS CSV,\n"
                 "U=cat nums for names, V=cat nums for initials,\n"
                 "W=CSV for Specify Workbench, X=taxa, Y=taxa by dups, Z=dups by taxon,\n"
-                "0=0 specimen counts by taxa, AC=collectors\n"
+                "0=0 specimen counts by taxa, AC=collectors, DC=localities per county\n"
             "-t restrict report to just Texas cave data\n"
             "-x=<taxa-file> restrict report to just the taxa in this file\n"
             "<specimen_csv> is the path to a CSV file of specimens. 'reference-lat-longs.csv'\n"
@@ -113,6 +114,8 @@ class Norm:
                 report = LatLongReport(table, filter, True)
             elif self._report_code == "D":
                 report = DictionaryReport(table, filter)
+            elif self._report_code == "DC":
+                report = CountyLocalitiesReport(table, filter)
             elif self._report_code == "F":
                 report = ForeignWordReport(table, filter)
             elif self._report_code == "L":
