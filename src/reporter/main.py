@@ -58,7 +58,7 @@ class Norm:
                 "P=problems, QN=name check, QT=taxa check, R=remarks, T=TSS CSV,\n"
                 "U=cat nums for names, V=cat nums for initials,\n"
                 "W=CSV for Specify Workbench, X=taxa, Y=taxa by dups, Z=dups by taxon,\n"
-                "0=0 specimen counts by taxa\n"
+                "0=0 specimen counts by taxa, AC=collectors\n"
             "-t restrict report to just Texas cave data\n"
             "-x=<taxa-file> restrict report to just the taxa in this file\n"
             "<specimen_csv> is the path to a CSV file of specimens. 'reference-lat-longs.csv'\n"
@@ -106,7 +106,9 @@ class Norm:
             if self._report_code == "":
                 raise args.ArgException("No report specified")
             elif self._report_code == "A":
-                report = AgentsReport(table, filter, decls)
+                report = AgentsReport(table, filter, decls, False)
+            elif self._report_code == "AC":
+                report = AgentsReport(table, filter, decls, True)
             elif self._report_code == "C":
                 report = LatLongReport(table, filter, True)
             elif self._report_code == "D":

@@ -17,9 +17,11 @@ class AgentsReport(Report):
         table: JamesTable,
         record_filter: RecordFilter,
         declared_names_table: DeclaredNamesTable,
+        onlyCollectors: bool,
     ):
         super().__init__(table, record_filter)
         self._declared_names_table = declared_names_table
+        self._onlyCollectors = onlyCollectors
         table.revise_names(unify_names_by_sound=True, merge_with_reference_names=True)
 
     def show(self) -> None:
@@ -30,6 +32,9 @@ class AgentsReport(Report):
 
         includes_synonym = False
         includes_raw_name = False
+
+        # if self._onlyCollectors:
+        #     self._is_filtered_raw_name("")  # hack to list collectors
 
         # Print the variants and corrections for each primary name.
 
@@ -48,17 +53,21 @@ class AgentsReport(Report):
             variant_identities.sort(key=lambda p: str(p))
             variant_lines: list[tuple[str, list[str]]] = []
             for identity in variant_identities:
+                identity_name = str(identity)
 
                 # Determine whether to show this variant.
 
-                if self._is_filtered_identity(identity):
+                if self._is_filtered_identity(identity) and (
+                    not self._onlyCollectors
+                    or self._filtered_collectors is not None
+                    and identity_name in self._filtered_collectors.keys()
+                ):
                     show_this_primary = True
                 else:
                     continue  # spare us an indentation
 
                 # Collect the variant corrections.
 
-                identity_name = str(identity)
                 raw_names = identity.get_raw_names()
                 raw_names_to_display: list[str] = []
                 if raw_names is None:

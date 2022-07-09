@@ -37,6 +37,7 @@ class Report(ABC):
         self._record_filter: RecordFilter = record_filter
         self._filtered_identities: Optional[dict[str, bool]] = None
         self._filtered_raw_names: Optional[dict[str, bool]] = None
+        self._filtered_collectors: Optional[dict[str, bool]] = None
 
         table.summarize(record_filter)
 
@@ -162,21 +163,30 @@ class Report(ABC):
     def __filter_identities(self) -> None:
         self._filtered_identities = {}
         self._filtered_raw_names = {}
+        self._filtered_collectors = {}
 
         for record in self._filtered_records():
             # had_hebard = "Hebard" in self._filtered_raw_names
             if record.collectors is not None:
-                self.__load_filtered_identities(record.collectors)
+                self.__load_filtered_identities(record.collectors, True)
             if record.identifier_year.determiners is not None:
-                self.__load_filtered_identities(record.identifier_year.determiners)
+                self.__load_filtered_identities(
+                    record.identifier_year.determiners, False
+                )
             # if not had_hebard and "Hebard" in self._filtered_raw_names:
             #     raise Exception("Hebard add for ID %d" % record.id)
 
-    def __load_filtered_identities(self, identities: list[Identity]) -> None:
+    def __load_filtered_identities(
+        self, identities: list[Identity], isCollector: bool
+    ) -> None:
         assert self._filtered_identities is not None
         assert self._filtered_raw_names is not None
+        assert self._filtered_collectors is not None
+
         for identity in identities:
             master_identity = identity.get_master_copy()
             self._filtered_identities[str(master_identity)] = True
             if identity.raw_name is not None:
                 self._filtered_raw_names[identity.raw_name] = True
+            if isCollector:
+                self._filtered_collectors[identity.get_lnf_primary()] = True
