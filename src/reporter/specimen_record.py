@@ -655,6 +655,8 @@ def parse_species_author(
         else:
             descriptors.append(UNCERTAIN_DET_TEXT)
 
+    if ("nr." in species or "cf." in species) and "sp." not in species:
+        species = "sp. " + species
     if "n." in species:
         if not species.startswith("n."):
             species = "n. sp."
