@@ -339,6 +339,9 @@ class SpecimenRecord(LatLongRecord):
         s = self._parse_str_or_none(s)
         if s is None or s == ".":
             return (None, None)
+        if "undescribed" in s.lower():
+            self.det_descriptors.append(s)
+            return (None, None)
         if s[-1] == ".":
             s = s[0:-1]
         s = s.replace("=", "")
@@ -429,6 +432,7 @@ class SpecimenRecord(LatLongRecord):
         return self._parse_str_or_none(s)
 
     def _parse_taxon(self, raw: str) -> str | None:
+        # cannot be used to parse species
         s = self._parse_str_or_none(raw)
         if s is None or s == ".":
             return None
@@ -445,6 +449,9 @@ class SpecimenRecord(LatLongRecord):
             if descriptor not in self.det_descriptors:
                 self.det_descriptors.append(descriptor)
             s = s[0 : match.start(0)].strip()
+        if "-" in s:
+            dashIndex = s.index("-")
+            s = s[0:dashIndex]
         return s
 
     def _parse_type_status(self, s: str) -> Optional[str]:
