@@ -287,17 +287,16 @@ class SpecifyWorkbenchReport(Report):
                 )
                 i += 1
 
-        caveDataItems: list[str] = []
+        remarksItems: list[str] = [] if remarks == "" else [remarks]
         if record.subgenus is not None:
-            caveDataItems.append("subgenus " + record.subgenus)
-        if record.species is not None and "n." in record.species:
-            caveDataItems.append(record.species)
-        if record.subspecies is not None and "n." in record.subspecies:
-            caveDataItems.append(record.subspecies)
-        if len(caveDataItems) > 0:
-            if remarks != "":
-                remarks += "; "
-            remarks += "CAVEDATA[" + "; ".join(caveDataItems) + "]"
+            remarksItems.append("subgenus " + record.subgenus)
+        # The GBIF upload script should do the following:
+        # if record.species is not None and "n." in record.species:
+        #     remarksItems.append(record.species)
+        # if record.subspecies is not None and "n." in record.subspecies:
+        #     remarksItems.append(record.subspecies)
+        if len(remarksItems) > 0:
+            remarks = "; ".join(remarksItems)
 
         return remarks if remarks != "" else None
 
