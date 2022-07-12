@@ -452,6 +452,8 @@ class SpecimenRecord(LatLongRecord):
         if "-" in s:
             dashIndex = s.index("-")
             s = s[0:dashIndex]
+        if " " in s:
+            self.add_problem("Taxon '%s' contains spaces" % s)
         return s
 
     def _parse_type_status(self, s: str) -> Optional[str]:
