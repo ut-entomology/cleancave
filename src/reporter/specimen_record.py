@@ -615,13 +615,12 @@ def parse_species_author(
 
     if species in ["sp.", "so.", "sp,", "so,", "sp", "so"] and subspecies is None:
         return (None, None, None)
-    if (
-        subspecies is not None
-        and subspecies.startswith("n.")
-        and not subspecies.startswith(NEW_SUBSPECIES)
-    ):
-        species += " " + subspecies
-        subspecies = None
+    if subspecies is not None and subspecies.startswith("n."):
+        if not subspecies.startswith(NEW_SUBSPECIES):
+            species += " " + subspecies
+            subspecies = None
+        else:
+            descriptors.append(subspecies)
 
     species = species.replace(" near ", " nr. ")
     if species.startswith("sp. ("):
@@ -647,7 +646,10 @@ def parse_species_author(
     if "n." in species:
         if not species.startswith("n."):
             species = "n. sp."
-    elif "nr. " in species or "cf." in species:
+        elif "," in species:
+            descriptors.append(species)
+            species = "n. sp."
+    elif "cf." in species:
         descriptors.append(species)
         return (None, None, None)
 
