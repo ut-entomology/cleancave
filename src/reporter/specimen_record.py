@@ -456,6 +456,8 @@ class SpecimenRecord(LatLongRecord):
             self.det_descriptors.append(s)
             return None
         if " " in s:
+            if s == "Acarina WRONG!" or s == "?cave species":
+                return None
             self.add_problem("taxon '%s' contains spaces" % s)
         return s
 
