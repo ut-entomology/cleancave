@@ -311,12 +311,6 @@ class SpecifyWorkbenchReport(Report):
             notes = self._append_notes(notes, record.misc_notes)
         if record.is_sensitive:
             notes = self._append_notes(notes, "sensitive coordinates withheld")
-        end_date = self._pull_end_date(record)
-        if end_date is not None and end_date != self._pull_start_date(record):
-            notes = self._append_notes(
-                notes,
-                "*end date " + record.date_time.end_date.to_YYYYMMDD(),  # type: ignore
-            )
         return notes
 
     def _pull_prep_type(self, record: SpecimenRecord) -> str:
