@@ -364,7 +364,7 @@ class SpecifyWorkbenchReport(Report):
             return None
         tmmOffset = type_status.find("TMM")
         if tmmOffset > 0:
-            startOffset = type_status.rfind(")", 0, tmmOffset)
+            startOffset = type_status.rfind(",", 0, tmmOffset)
             if startOffset < 0:
                 startOffset = 0
             else:
