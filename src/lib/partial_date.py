@@ -69,6 +69,8 @@ class PartialDate:
         return "%s-%s-%d" % (day, month, self.year)
 
     def set_time(self, time_int: int) -> None:
+        if time_int == 2400:
+            time_int = 0
         self.hour = time_int // 100
         self.minute = time_int % 100
 

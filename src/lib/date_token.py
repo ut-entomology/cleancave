@@ -76,6 +76,7 @@ class DateToken:
         "daylight",
         "a.m.",
         "p.m.",
+        "mid.p.m.",
         "day",
     ]
 

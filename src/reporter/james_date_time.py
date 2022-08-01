@@ -218,8 +218,8 @@ class JamesDateTime:
             if self.start_date is None:
                 self.start_date = PartialDate()
             if self.start_date.hour is None:
-                if token.value == 2400:
-                    raise ParseError("start times >= 24:00")
+                if token.value > 2400:
+                    raise ParseError("start times > 24:00")
                 self.start_date.set_time(token.value)
                 return self._state_end_of_date
             if self.end_date is None:
