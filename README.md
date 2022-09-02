@@ -1,6 +1,6 @@
 # cleancave
 
-Python tools for cleaning James Reddell's cave data. Includes supporting data except for James' raw data and except for archives of any reports containing coordinates. Intended for use by Python developers rather than end users.
+Python tools for cleaning, normalizing, and reporting on James Reddell's cave data. Does not include James' source data. Not likely to be of value after importing James' data into Specify.
 
 ## Installation
 
