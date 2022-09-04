@@ -1,0 +1,71 @@
+# Jars Ready for Problem Report-2022-July-27
+
+Arthropoda | Arachnida | - | Schizomida | - | - | Protoschizomidae | - | Protoschizomus treacyae
+Arthropoda | Arachnida | - | Schizomida | - | - | Protoschizomidae | - | Protoschizomus sp.
+Arthropoda | Arachnida | - | Schizomida | - | - | Protoschizomidae | - | Protoschizomus sprousei
+
+Arthropoda | Insecta | - | Blattaria | - | - | - | - | -- TEXAS
+
+Arthropoda | Insecta | - | Blattaria | - | - | - | - | -- [countries: BELIZE, GUATEMALA, MEXICO]
+
+Arthropoda | Insecta | - | Blattaria | - | - | - | - | -- [countries: JAMAICA, KENYA, OKINAWA]
+
+Arthropoda | Insecta | - | Blattaria | - | - | Blaberidae | - | - | --
+Arthropoda | Insecta | - | Blattaria | - | - | Blaberidae | - | Blaberus cranifer
+Arthropoda | Insecta | - | Blattaria | - | - | Blattidae | - | Periplaneta sp.
+
+Arthropoda | Insecta | - | Blattaria | - | - | Ectobiidae | - | --
+Arthropoda | Insecta | - | Blattaria | - | - | Ectobiidae | - | Aglaopteryx sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Ectobiidae | - | Euthlastoblatta sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Ectobiidae | - | Ischnoptera deropeltiformis
+
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | --
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | Arenivaga bolliana
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | Arenivaga sp.
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | Arenivaga tonkawa
+
+Arthropoda | Insecta | - | Blattaria | - | - | Polyphagidae | - | Homeogamia mexicana
+Arthropoda | Insecta | - | Diptera | - | - | - | - | -- 
+
+Arthropoda | Insecta | - | Diptera | Brachycera | - | - | - | --
+
+Arthropoda | Insecta | - | Diptera | Nematocera | - | - | - | --
+
+Arthropoda | Insecta | - | Diptera | - | - | Chironomidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Chironomidae | Orthocladiinae | --
+Arthropoda | Insecta | - | Diptera | - | - | Chironomidae | - | Chironomus sp.
+
+Arthropoda | Insecta | - | Diptera | - | - | Antomyiidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Anthomyiidae | - | Pegamya affinis --
+Arthropoda | Insecta | - | Diptera | - | - | Antomyiidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Bibionidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Bibionidae | - | Pleca nearctica
+
+Arthropoda | Insecta | - | Diptera | - | - | Calliphoridae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Calliphoridae | - | Calliphora vicina
+Arthropoda | Insecta | - | Diptera | - | - | Calliphoridae | - | Phaenicia sp.
+Arthropoda | Insecta | - | Diptera | - | - | Calliphoridae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Calliphoridae | - | Phaenicia sericata
+Arthropoda | Insecta | - | Diptera | - | - | Carnidae | - | Hemiromya sp.
+
+Arthropoda | Insecta | - | Diptera | - | - | Cecidomyiidae | - | Clinodiplosis sp.
+Arthropoda | Insecta | - | Diptera | - | - | Cedidomyiidae | - | Henria sp.
+Arthropoda | Insecta | - | Diptera | - | - | Cedidomyiidae | - | Lestidiplosis sp.
+Arthropoda | Insecta | - | Diptera | - | - | Cedidomyiidae | - | Lestremia sp.
+Arthropoda | Insecta | - | Diptera | - | - | Cedidomyiidae | - | Lestremia cinerea
+Arthropoda | Insecta | - | Diptera | - | - | Cedidomyiidae | - | Monardia sp.
+
+Arthropoda | Insecta | - | Diptera | - | - | Ceratopogonidae | - | Forcipomyia sp.
+Arthropoda | Insecta | - | Diptera | - | - | Chloropidae | - | Hippelates impressus
+Arthropoda | Insecta | - | Diptera | - | - | Empidiidae | - | --
+
+Arthropoda | Insecta | - | Diptera | - | - | Dolichopodidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Dolichopodidae | - | Chrysotus sp.
+Arthropoda | Insecta | - | Diptera | - | - | Dolichopodidae | - | Peleropeodes cornutus
+
+Arthropoda | Insecta | - | Diptera | - | - | Drosophilidae | - | Drosophila sp.
+
+Arthropoda | Insecta | - | Diptera | - | - | Heleomyzidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Heleomyzidae | - | Amoebaleria sabroskyi
+
+- (12922),(36395),90768,90830,(95633),(95613)

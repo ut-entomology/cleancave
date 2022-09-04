@@ -1,0 +1,2416 @@
+
+**** Report of Cave Records ****
+
+---- collectors & determiners ----
+
+(based on an analysis of all names in the spreadsheet)
+
+Aalbu, Rolf              (declared primary; in James' list)
+- Aalbu, R.
+Abbruzzese, Carlo        (declared primary; in James' list)
+  [Abruzzese, Carlos]    (declared name correction)
+  [Abbruzzese, Carlos]   (declared name correction)
+  [Abbruruzzese, Carlo]  (declared name correction)
+- Abbruzzese
+- Abbruzzese, C.
+  [Abgbruzzese, C.]      (declared name correction)
+Abernathy, Miles         (declared primary)
+- Abernathy, M.
+Abernethy, Frances       (declared primary; not in data)
+- Abernethy
+- Abernethy, F.          (declared variant)
+  [Abernathy, F.]        (declared name correction)
+ACI Consulting           (declared primary)
+Ackermann, Philippe      (declared primary)
+  [Ackermann, Phillippe] (declared name correction)
+Adams, Leah J.           (declared primary; last name in Specify)
+  [Adams, J.]            (declared name correction)
+- Adams, L.              (last name in Specify)
+Akers, Marion
+- Akers, M.
+Akers, Simon             (declared primary; not in data)
+- Akers, S.
+  [S. Akers]             (lexically altered name)
+Albert, Richard O.       (declared primary; in James' list)
+  [Albert]               (declared name correction)
+- Albert, R. O.
+Albert, Tom              (declared primary; not in data)
+- Albert, T.
+Alexander, Edward        (declared primary; last name in Specify; not in data)
+- Alexander, E.          (declared variant; last name in Specify)
+  [Alexander, C.]        (declared name correction)
+Allen, Bud               (declared primary; not in data)
+- Allen, B.
+Allen, Doug L.           (declared primary; in James' list except M.I.; not in data)
+- Allen, D.              (declared variant)
+- Allen, D. L.
+  [Allen, D. l.]         (lexically altered name)
+- Allen, Doug
+Allen, E.
+Anderson, D. M.          (last name in Specify)
+Anderson, Robert S.      (declared primary; last name in Specify; not in data)
+- Anderson, R.           (declared variant; in Specify)
+Anderson, Warren         (declared primary; last name in Specify)
+Andrews, Joanne          (declared primary)
+- Andrews, J.
+  [Ancrews, J.]          (declared name correction)
+Andrews, William M.      (declared primary; in James' list except M.I.)
+- Andrews, B.            (declared variant)
+- Andrews, W.
+  [Andrews W.]           (lexically altered name)
+- Andrews, W. M.         (declared variant)
+Arburn, Don              (declared primary; in James' list)
+  [Arburn, Dan]          (declared name correction)
+Archey, Tracy
+- Archey, T.
+Argano, Roberto
+Armstrong, Wyatt         (declared primary; not in data)
+- Armstrong, W.
+  [W. Armstrong]         (lexically altered name)
+Asanidze, Lasha          (declared primary)
+  [Asanadize, Lasha]     (declared name correction)
+Atkinson, Gerald         (declared primary; last name in Specify; not in data)
+- Atkinson, G.           (last name in Specify)
+- Atkinson, J.           (last name in Specify)
+- Atkinson, Jerry        (declared variant; in James' list; last name in Specify)
+Attolini, Franco
+Aurora, Amanda           (declared primary; in James' list)
+- Aurora, A.
+Austin, Dan              (declared primary; not in data)
+- Austin
+- Austin, D.
+Avila, Yazmin            (declared primary; in James' list)
+  [Yazmin]               (declared name correction)
+  [Avila, Yaxmin]        (declared name correction)
+  [Avila, Yasmin]        (declared name correction)
+- Avila
+- Avila, Yaz             (declared variant)
+  [Avila, Yax]           (declared name correction)
+Baert, Leon              (declared primary)
+  [Baert, Leonf]         (declared name correction)
+  [Baert, Leion]         (declared name correction)
+Baker, James K.          (declared primary; in James' list; not in data)
+- Baker, J. K.
+Balderas, Daniel
+Baldon, S.
+Balgeman, William        (declared primary; not in data)
+- Balgeman, W.           (declared variant)
+  [Balgemann, W.]        (declared name correction)
+Ballesteros, Jesus       (declared primary)
+  [Ballesteros]          (declared name correction)
+- Ballesteros
+  [Balesteros]           (phonetically autocorrected last name)
+  [Bllesteros]           (declared name correction)
+- Ballesteros, J.        (declared variant)
+  [Ballasteros, A.]      (declared name correction)
+  [Ballesteros, A.]      (declared name correction)
+Ballinger, Royce         (declared primary; in James' list)
+  [Bellinger]            (declared name correction)
+  [Ballinger]            (declared name correction)
+- Ballinger, R.
+Balsdon, Sheila          (declared primary; in James' list)
+  [Balsdon, J.]          (declared name correction)
+- Balsdon, S.
+Banda, Javier            (declared primary; last name in Specify)
+  [Bandas, Javier]       (declared name correction)
+Barlow, Rachel           (declared primary; in James' list; last name in Specify)
+  [Barlow, J.]           (declared name correction)
+  [Barlow, C.]           (declared name correction)
+- Barlow, R.             (in Specify)
+  [R. Barlow]            (lexically altered name)
+Barnes, D.
+Barr, Thomas C., Jr.     (declared primary; in James' list; last name in Specify)
+- Barr, T. C., Jr.       (declared variant; last name in Specify)
+  [Barr, T.]             (declared name correction)
+  [Barr, T. C.]          (declared name correction)
+Barrones, Oscar          (declared primary; not in data)
+- Barrones, O.
+Bartell, Krista
+  [Bartel, Krista]       (phonetically autocorrected last name)
+Barth, Nicholas          (declared primary; last name in Specify; not in data)
+- Barth, N.              (in Specify)
+Bartholomew, Roger       (declared primary; in James' list)
+- Bartholomew, R.
+Batra, S. W. T.
+Bauer, Kim               (declared primary; last name in Specify; not in data)
+- Bauer, K.              (declared variant; last name in Specify)
+Bauman, Richard W.       (declared primary)
+  [Bauman]               (declared name correction)
+Bayless, Todd            (declared primary; in James' list)
+- Bayless, T.
+Bearll, M.               (declared primary; in James' list)
+Bechtol, Hub             (declared primary)
+  [Beckhtol, Hub]        (declared name correction)
+  [Bechtol, Hugh]        (declared name correction)
+  [Bechtol, Dub]         (declared name correction)
+  [Bechtel, Hub]         (declared name correction)
+  [Bechtal, Hub]         (declared name correction)
+- Bechtol, H.
+  [Beckhtol, H.]         (declared name correction)
+Becker, Piper            (declared primary; not in data)
+- Becker, P.             (declared variant; in James' list)
+Behnke, Maggie           (declared primary; in James' list)
+Bell, Leslie             (declared primary; in James' list; last name in Specify; not in data)
+- Bell, L.               (last name in Specify)
+Bell, William            (declared primary; in James' list; last name in Specify; not in data)
+- Bell, B.               (last name in Specify)
+- Bell, W.               (last name in Specify)
+Belski, Carol            (declared primary; last name in Specify; not in data)
+- Belski, C.             (in Specify)
+Beltram, H.
+Bement, Lee              (declared primary; in James' list)
+- Bement
+- Bement, L.
+Benavente, Alex          (declared primary; in James' list)
+- Benavente, A.
+Benavides, Alex
+Bendik, Nathan           (declared primary; not in data)
+- Bendik, N.             (declared variant)
+  [Bendik, M.]           (declared name correction)
+Benfer, Bob              (declared primary; in James' list; not in data)
+- Benfer, B.
+Beveridge, Aimee         (declared primary; in James' list)
+- Beveridge, A.
+  [A. Beveridge]         (lexically altered name)
+Biegert, Carolyn         (declared primary; in James' list)
+- Biegert, C.
+Bisset, Bob              (declared primary; in James' list; not in data)
+- Bisset, B.
+Bitting, Chuck
+Bittinger, Craig         (declared primary; in James' list; not in data)
+- Bittinger, C.
+Bittinger, Steve
+- Bittinger, S.
+Blackburn, Zach
+Blair, Jenny             (declared primary; in James' list; last name in Specify; not in data)
+- Blair, J.              (declared variant; in Specify)
+  [Baer, J.]             (declared name correction)
+  [J. Blair]             (lexically altered name)
+Blair, Tony              (declared primary; last name in Specify; not in data)
+- Blair, T.              (last name in Specify)
+  [T. Blair]             (lexically altered name)
+Blakely, Jeb             (declared primary)
+- Blakely, J.            (declared variant)
+  [Blakley, J.]          (declared name correction)
+Bogart, James            (declared primary; not in data)
+- Bogart, J.             (declared variant)
+  [Bogert, J.]           (declared name correction)
+Boice, Nancy             (declared primary; not in data)
+- Boice, N.
+  [Boyce, N.]            (phonetically autocorrected last name)
+Bolano, Danny            (declared primary; not in data)
+- Bolano, D.             (declared variant)
+Borland, Mr.
+Borowsky, Richard        (declared primary; not in data)
+- Borowsky, R.
+  [Borowksky, R.]        (phonetically autocorrected last name)
+  [Borowski, R.]         (phonetically autocorrected last name)
+  [Browosky, R.]         (declared name correction)
+  [Browowky, R.]         (declared name correction)
+Bouillon, Genevieve
+Bowles, David            (declared primary; in James' list; not in data)
+- Bowles, D.
+Bowman, Thomas E.        (declared primary; not in data)
+- Bowman, T. E.
+Boyd, Eddie              (declared primary; in James' list)
+- Boyd, E.               (declared variant)
+  [Boyd, R.]             (declared name correction)
+Brady, James             (declared primary; last name in Specify; not in data)
+- Brady, J.              (last name in Specify)
+Brauer, Matt             (declared primary; in James' list; not in data)
+- Brauer, M.
+Brickey, Charles
+Briggs, Thomas S.
+- Briggs
+- Briggs, T.
+- Briggs, Thomas
+Brinkley, Malcolm        (declared primary; not in data)
+- Brinkley, M.
+Brockman, Dennis         (declared primary)
+Brooks, John             (declared primary)
+  [B., J.]               (declared name correction)
+- Brooks, J.
+Brossard, S.             (declared primary; in James' list)
+  [Brossards, S.]        (declared name correction)
+Broussard, Don           (declared primary; not in data)
+- Broussard, D.          (declared variant)
+Brown
+Brown, Harley P.         (declared primary; not in data)
+- Brown, H. P.
+Brown, James C.          (declared primary; not in data)
+- Brown, J.              (declared variant)
+  [J. Brown]             (lexically altered name)
+- Brown, J. C.           (declared variant)
+- Brown, James
+Brown, Randy
+Brownfield, Mel
+- Brownfield
+- Brownfield, M.
+Brozozowski, M.          (declared primary; in James' list)
+Bryant, Paul             (declared primary; in James' list; last name in Specify)
+  [Paul Bryant]          (lexically altered name)
+  [Brant, Paul]          (phonetically autocorrected last name)
+- Bryant, P.             (declared variant; in Specify)
+  [Bryant, B.]           (declared name correction)
+  [Brynt, P.]            (phonetically autocorrected last name)
+Bryant, Stephen          (last name in Specify)
+Buchanan, J.
+Buck, Marcus             (declared primary; not in data)
+- Buck, M.
+Burrell, Mike            (declared primary; in James' list; not in data)
+- Burrell, M.
+  [Barrill, M.]          (phonetically autocorrected last name)
+  [Buirril, M.]          (phonetically autocorrected last name)
+  [Burrill, M.]          (declared name correction)
+Burton, Brian            (declared primary)
+  [B., B.]               (declared name correction)
+Butterwick, Mary         (declared primary; not in data)
+- Butterwick, M.
+  [Buttwrwick, M.]       (declared name correction)
+Byrd, Tom                (declared primary; in James' list)
+- Byrd, T.
+C., Andreu
+Calhoun, Sandi           (declared primary; in James' list)
+  [Sandi Calhoun]        (lexically altered name)
+  [Calhoun, Sanid]       (declared name correction)
+Calvert, Jane            (last name in Specify)
+- Calvert, J.            (last name in Specify)
+Calvert, William         (declared primary; last name in Specify; not in data)
+- Calvert, W.            (in Specify)
+Cambrian Environmental   (declared primary)
+  [Cambridan Environmental] (lexically altered name)
+Camilo, G. R.
+- Camilo
+Campbell, Cristina       (declared primary; in James' list; last name in Specify)
+Campbell, Glenn D.       (declared primary; in James' list except M.I.; last name in Specify; not in data)
+- Campbell, G.           (declared variant; last name in Specify)
+- Campbell, G. D.        (declared variant; last name in Specify)
+  [Campbell, C. D.]      (declared name correction)
+- Campbell, Glenn        (last name in Specify)
+Canny, Duane             (declared primary; in James' list; not in data)
+- Canny, D.
+Cantrell-Morton, Amy     (declared primary)
+  [A. Cantrell Morton]   (lexically altered name)
+Cantu, Amador            (declared primary; not in data)
+- Cantu, A.              (declared variant)
+Carey, Vanessa           (declared primary)
+Carlson, R. W.
+Carothers, Steven        (declared primary)
+  [Carothers]            (declared name correction)
+- Carothers, Steve       (declared variant)
+Causey, Nell B.          (declared primary; not in data)
+- Causey
+- Causey, N. B.
+Cavanaugh, Maureen       (declared primary; in James' list; not in data)
+- Cavanaugh, M.
+Cepeda, Joe              (declared primary; not in data)
+- Cepeda, J.
+Chagas, Amazonas, Jr.    (declared primary; not in data)
+- Chagas, A., Jr.        (declared variant)
+  [Chagas, A.]           (declared name correction)
+Chamberlain, Dee Ann     (declared primary; in James' list; last name in Specify; not in data)
+- Chamberlain, D. A.     (last name in Specify)
+  [Chamberlain, D.. A.]  (lexically altered name)
+Chandler, Donald S.      (declared primary; last name in Specify; not in data)
+- Chandler               (last name in Specify)
+- Chandler, D.           (last name in Specify)
+- Chandler, D. S.        (declared variant; in Specify)
+  [Chandfler, D. S.]     (declared name correction)
+  [Chandler, D. C.]      (declared name correction)
+  [Chandler, D. G.]      (declared name correction)
+  [Chandler, D. S]       (lexically altered name)
+  [Chjandler, D. S.]     (declared name correction)
+Chapman, Brian           (declared primary; in James' list; not in data)
+- Chapman, B.
+Chenoweth, John          (declared primary; in James' list; not in data)
+- Chenoweth, J.
+  [Chenowoth, J.]        (phonetically autocorrected last name)
+  [Chernoweth, J.]       (declared name correction)
+Childs, Robert           (declared primary; not in data)
+- Childs, R.             (declared variant)
+  [Childa, R.]           (declared name correction)
+Chippindale, Paul        (declared primary; in James' list)
+  [Chjippendale, P.]     (declared name correction)
+- Chippindale, P.
+  [Chippendale, P.]      (phonetically autocorrected last name)
+Christenson, Keith       (declared primary)
+  [Christiansen, Keith]  (declared name correction)
+  [Christensen, Keith]   (phonetically autocorrected last name)
+Christiansen, Kenneth    (declared primary; in James' list; not in data)
+- Christiansen, K.       (declared variant)
+  [Christienson, K.]     (declared name correction)
+Cicherski, Michael       (declared primary; in James' list; not in data)
+- Cicherski, M.
+Cirmo, Amethyst          (declared primary; in James' list)
+  [Cimo, Amethyst]       (declared name correction)
+Clamons, Clover          (declared primary; in James' list; not in data)
+- Clamons, C.
+Clarfield, Leslie        (declared primary; not in data)
+- Clarfield, L.          (declared variant)
+  [Clarfield, C.]        (declared name correction)
+Clark, Allison           (declared primary; in James' list; last name in Specify)
+Clark, Barrett           (declared primary; last name in Specify)
+- Clark, B.              (in Specify)
+  [Clark, B]             (lexically altered name)
+Clark, Chris             (last name in Specify)
+Clark, Frank             (last name in Specify)
+Clark, Travis            (declared primary; in James' list; last name in Specify)
+Clayton, Chris           (declared primary; in James' list; not in data)
+- Clayton, C.
+  [Clayton C.]           (lexically altered name)
+Cline, Sarah
+Cobb, Allan              (declared primary; in James' list; last name in Specify)
+  [Cobb, Allen]          (declared name correction)
+  [Cobb, Alan]           (declared name correction)
+  [C., A.]               (declared name correction)
+- Cobb, A.               (in Specify)
+  [Cobb, A]              (lexically altered name)
+  [Cobb, a.]             (lexically altered name)
+Cobb, Marlena            (last name in Specify)
+Cochrane, Alexis
+- Cochrane, A.
+  [Cocharane, A.]        (declared name correction)
+Cohen, Adam              (declared primary; in James' list; last name in Specify)
+  [Cohen, A.]            (declared name correction)
+Cohn, J. W.              (declared primary)
+Cohn, Theodore J.        (declared primary; not in data)
+- Cohn, T. J.
+Cokendolpher, James C.   (declared primary; in James' list; last name in Specify)
+- Cokendolpher, J.       (last name in Specify)
+  [Cokendodolpher, J.]   (declared name correction)
+  [Cokendolpher, J..]    (lexically altered name)
+- Cokendolpher, J. C.    (declared variant; in Specify)
+  [Ciokendolpher, J. C]  (phonetically autocorrected last name)
+  [Cjokendolpher, J. C.] (declared name correction)
+  [Coikendolpher, J. C.] (phonetically autocorrected last name)
+  [Cokedolpher, J. C.]   (declared name correction)
+  [Cokendollpher, J. C.] (phonetically autocorrected last name)
+  [Cokendolpher]         (declared name correction)
+  [Cokendolpher, J,. C.] (lexically altered name)
+  [Cokendolpher, J. C]   (lexically altered name)
+  [Cokendolpher, J. C,.] (lexically altered name)
+  [Cokendolpher, J. C..] (lexically altered name)
+  [Cokendolpher, J.. C.] (lexically altered name)
+  [Cokendolpher, JC.]    (lexically altered name)
+  [Cokendolphr, J. C.]   (declared name correction)
+  [Cokendopher, J. C.]   (declared name correction)
+  [Cokenolpher, J. C.]   (declared name correction)
+- Cokendolpher, James    (last name in Specify)
+Collins, Chris           (declared primary; in James' list)
+  [Collins, C.]          (declared name correction)
+Collins, Robin           (declared primary; not in data)
+- Collins, R.
+Collins, Valerie         (declared primary; in James' list)
+- Collins, V.
+Colucci, Liza            (declared primary; in James' list)
+- Colucci, L.            (declared variant)
+  [Collucci, L.]         (phonetically autocorrected last name)
+  [Colluci, L.]          (phonetically autocorrected last name)
+  [Coluci]               (declared name correction)
+  [Colulcci, L.]         (declared name correction)
+  [Colussi, L.]          (phonetically autocorrected last name)
+  [L. Colucci]           (lexically altered name)
+  [L. Culocci]           (phonetically autocorrected last name)
+  [L. Culoci]            (phonetically autocorrected last name)
+Cook, Bart               (last name in Specify)
+- Cook, B.               (last name in Specify)
+Cooke, Jerry             (declared primary; in James' list)
+  [Cooke]                (declared name correction)
+- Cooke, J.              (declared variant)
+Cooke, John A. L.        (declared primary; not in data)
+- Cooke, J. A. L.
+Coons, Don
+- Coons, D.
+Cooper
+Cooper, David            (declared primary; in James' list)
+Cooper, John E.          (declared primary; not in data)
+- Cooper, J. E.
+Corbell, Rick            (declared primary; in James' list)
+  [Corble, Rick]         (declared name correction)
+- Corbell
+- Corbell, R.
+Cossey, Marcia           (declared primary)
+  [Cosse, Marcia]        (declared name correction)
+  [Cassey, Marcia]       (declared name correction)
+- Cossey, M.             (declared variant)
+  [C., M.]               (declared name correction)
+  [Casey, M.]            (declared name correction)
+  [Cassey, M.]           (declared name correction)
+  [Cossy, M.]            (declared name correction)
+Costas, C. Conde
+  [Conde Costas, C.]     (lexically altered name)
+Cotton, Adam             (declared primary; in James' list)
+Covington, Matt
+Cowan, Brian             (declared primary; in James' list; last name in Specify; not in data)
+- Cowan, B.              (in Specify)
+Cowan, David             (declared primary; last name in Specify; not in data)
+- Cowan, D.              (declared variant; last name in Specify)
+  [Cowan D.]             (lexically altered name)
+  [Cowan, D]             (lexically altered name)
+Cowell, Bob              (declared primary; in James' list; not in data)
+- Cowell, B.
+Cradit, John             (declared primary; in James' list)
+  [Cradit, Jon]          (declared name correction)
+- Cradit, J.
+Crawford, Craig          (declared primary; in James' list; last name in Specify)
+- Crawford, C.           (declared variant; in Specify)
+Cressler, Alan
+  [Crssler, Alan]        (declared name correction)
+- Cressler, A.
+Croskrey, Andrea         (declared primary; not in data)
+- Croskrey, A.           (declared variant)
+  [Croskrey, S.]         (declared name correction)
+Crowell, Bryan
+Cummins, J.
+Darilek, Glenn           (declared primary; in James' list)
+- Darilek, G.
+Datri, Crystal
+Davidson, Bob
+Davis, Brent             (declared primary; last name in Specify; not in data)
+- Davis, B.              (last name in Specify)
+Davis, D. R.             (last name in Specify)
+Davis, Gari              (last name in Specify)
+Davis, James C.          (declared primary; in James' list; last name in Specify; not in data)
+- Davis, J.              (last name in Specify)
+- Davis, J. C.           (last name in Specify)
+Davis, L.                (declared primary; in James' list; last name in Specify)
+Davlantes, Stephanie     (declared primary)
+  [Davlantes, Stepohaie] (declared name correction)
+- Davlantes, Steph       (declared variant)
+Dawson, G.               (declared primary)
+de la Rosa Reyna, Xochitl (declared primary)
+  [de la Rosa, Xochitl]  (declared name correction)
+de Leon, Francisco Garcia (declared primary)
+  [FGoL]                 (declared name correction)
+- De Leon, F.
+- de Leon, F. Garcia
+  [Garcia de Leon, F.]   (lexically altered name)
+DeChatelets, B.
+Delannoy, Jean Jacques   (last name in Specify)
+Delmatier, Charmain      (declared primary; in James' list; not in data)
+- Delmatier, C.
+Denson, Deborah          (declared primary; not in data)
+- Denson, D.
+  [D. Denson]            (lexically altered name)
+Despain, Joel            (declared primary; last name in Specify; not in data)
+- Despain, J.            (in Specify)
+Despain, Katy            (declared primary; last name in Specify; not in data)
+- Despain, K.            (last name in Specify)
+Devitt, Thomas J.        (declared primary; last name in Specify; not in data)
+- Devitt, T.             (last name in Specify)
+Devos, Fred              (declared primary; last name in Specify; not in data)
+- Devos, F.              (in Specify)
+  [Devos, F]             (lexically altered name)
+Diaz, C.                 (last name in Specify)
+Diaz, Peter              (declared primary; in James' list; last name in Specify)
+- Diaz, P.               (declared variant; last name in Specify)
+  [Daz, P.]              (declared name correction)
+- Diaz, Pete             (declared variant; last name in Specify)
+Dickerson, Wendy         (declared primary; in James' list; not in data)
+- Dickerson, W.
+Dickey, Dewayne          (declared primary; in James' list; not in data)
+- Dickey, D.
+Dittmar, Kara            (declared primary; in James' list)
+DMW
+Dogger, J. R.
+Doolin, Dave             (declared primary; not in data)
+- Doolin, D.
+Dorsey, Shannon          (declared primary; in James' list)
+Drukker, Nancye          (declared primary; in James' list)
+Drukker, Saunders        (declared primary; in James' list)
+  [Drukker]              (declared name correction)
+Drysdale, Doug           (declared primary; in James' list)
+Ducan, Paul              (declared primary; not in data)
+- Ducan, P.              (declared variant)
+  [Duncan, P.]           (declared name correction)
+Dues, Heidi              (declared primary)
+  [? Heidi]              (lexically altered name)
+- Dues, H.
+  [Deus, H.]             (phonetically autocorrected last name)
+Duncan, F.               (in Specify)
+- Duncan                 (last name in Specify)
+Duperre, Nadine          (declared primary; not in data)
+- Duperre, N.
+  [Dupere, N.]           (phonetically autocorrected last name)
+  [Duperee, N.]          (phonetically autocorrected last name)
+Eaton, Beth              (declared primary; last name in Specify; not in data)
+- Eaton, B.              (in Specify)
+  [Eaton, G. & B.]       (lexically altered name)
+Eaton, Gene              (declared primary; last name in Specify; not in data)
+- Eaton, G.              (in Specify)
+  [Eaton, G. & B.]       (lexically altered name)
+Eaton, J.                (last name in Specify)
+Ediger, Gil              (declared primary; in James' list)
+  [Ediger, Gill]         (declared name correction)
+- Ediger, G.
+Ediger, Jill             (declared primary)
+- Ediger, J.             (declared variant)
+Edwards, Angela          (declared primary; in James' list; last name in Specify)
+Eling, Herbert H., Jr.   (declared primary)
+  [Eling]                (declared name correction)
+Elliott                  (last name in Specify)
+Elliott, Jim             (declared primary; in James' list; last name in Specify)
+- Elliott, J.            (last name in Specify)
+Elliott, Linda           (last name in Specify)
+- Elliott, L.            (last name in Specify)
+Elliott, Vernelle        (declared primary; in James' list; last name in Specify)
+- Elliott, V.            (last name in Specify)
+Elliott, William R.      (declared primary; in James' list; last name in Specify)
+- Elliott, B.            (declared variant; last name in Specify)
+- Elliott, Bill          (declared variant; last name in Specify)
+- Elliott, W.            (declared variant; last name in Specify)
+  [Elliot, W.]           (phonetically autocorrected last name)
+  [Elliott, W]           (lexically altered name)
+  [Elliott, W..]         (lexically altered name)
+  [Elliott, w.]          (lexically altered name)
+  [Ellliott, W.]         (phonetically autocorrected last name)
+  [W. Elliott]           (lexically altered name)
+- Elliott, W. R.         (declared variant; in Specify)
+  [Elliot, t W. R.]      (lexically altered name)
+  [Elliott, W. R]        (lexically altered name)
+  [Elliott, W. R,.]      (lexically altered name)
+- Elliott, William       (declared variant; last name in Specify)
+- Elliott, Wm.           (declared variant; last name in Specify)
+  [Elliott, Wml]         (declared name correction)
+- Elliott, Wm. R.        (declared variant; last name in Specify)
+Enbody, M.
+  [Embody, M.]           (phonetically autocorrected last name)
+Endres, Frank            (declared primary; not in data)
+- Endres, F.             (declared variant)
+  [Ednres, F.]           (declared name correction)
+Engelhard, Tannika       (declared primary; in James' list; not in data)
+- Engelhard, T.
+Erickson, Don            (declared primary; in James' list; not in data)
+- Erickson, D.
+Espinal, J.
+et al.                   (declared primary)
+- Associates             (declared variant)
+  [Associatezs]          (declared name correction)
+Evans, Andy              (declared primary; in James' list; last name in Specify)
+Evans, Jane              (declared primary; in James' list; last name in Specify; not in data)
+- Evans, J.              (last name in Specify)
+Evans, T. R.             (declared primary; in James' list; last name in Specify)
+  [T. R. Evans]          (lexically altered name)
+- Evans, T.              (last name in Specify)
+Ewers, Ralph I.
+Falgout, Galen           (declared primary; in James' list)
+- Falgout, G.
+Fambro, Paul
+Fant, Enora              (declared primary; last name in Specify)
+  [Fant, Lenora]         (declared name correction)
+- Fant, E.               (last name in Specify)
+Fant, Jerry              (declared primary; in James' list; last name in Specify)
+- Fant, J.               (declared variant; in Specify)
+  [Famt, J.]             (phonetically autocorrected last name)
+  [Fant, A.]             (declared name correction)
+  [Fant, J,.]            (lexically altered name)
+  [Fant, Jl]             (declared name correction)
+Farneti, Carol           (last name in Specify)
+  [Farnetti, Carol]      (phonetically autocorrected last name)
+Faulkenberry, Linda      (declared primary)
+- Faulkenberry, L.       (declared variant)
+  [Faulkner, L.]         (declared name correction)
+Feller, Georges          (declared primary)
+Fenolio, Dante B.        (declared primary; in James' list except M.I.; not in data)
+- Fenolio, Dante
+Fenton, M. Brock         (declared primary; not in data)
+- Fenton, M. B.
+Fieseler, Ronald G.      (declared primary; in James' list except M.I.)
+- Fieseler, R.           (declared variant)
+  [Feiseler, R.]         (phonetically autocorrected last name)
+- Fieseler, R. G.
+- Fieseler, Ronnie       (declared variant)
+Fieseler, Susan          (declared primary; in James' list; not in data)
+- Fieseler, S.
+Fish                     (last name in Specify)
+Fish, John               (declared primary; last name in Specify)
+- Fish, J.               (last name in Specify)
+  [Fish J.]              (lexically altered name)
+  [Fish, J..]            (lexically altered name)
+Fisk, Frank W.           (declared primary; not in data)
+- Fisk, F. W.
+Fiske, A.
+Flesher, Scott           (declared primary; in James' list; not in data)
+- Flesher, S.
+Flint, Oliver S.         (declared primary; not in data)
+- Flint, O. S.
+Fogarty, John
+Foote, Jennifer          (declared primary; in James' list)
+  [Foot, Jennifer]       (declared name correction)
+Forbes, Tyler            (declared primary; in James' list)
+Forsythe, Preston        (declared primary; not in data)
+- Forsythe, P.
+Foster                   (last name in Specify)
+Foster, Carol            (last name in Specify)
+Foster, Duncan           (declared primary; in James' list; last name in Specify; not in data)
+- Foster, D.             (declared variant; last name in Specify)
+Foster, Richard          (last name in Specify)
+- Foster, R.             (in Specify)
+Fowler, Suzanne          (declared primary)
+- Fowler, S.
+Fraiser
+Fralia, Butch            (declared primary; in James' list; not in data)
+- Fralia, B.
+Francke, Christopher     (declared primary; in James' list; last name in Specify)
+  [Francke, Chrisophter] (declared name correction)
+  [Francke, Chrisopher]  (declared name correction)
+- Francke, C.            (declared variant; last name in Specify)
+  [Francke, C]           (lexically altered name)
+  [Francke, J.]          (declared name correction)
+Francke, Oscar F.        (declared primary; last name in Specify)
+  [Francke. Oscar F.]    (phonetically autocorrected last name)
+- Francke, O. F.         (in Specify)
+Frank, Ruben M.          (declared primary; in James' list except M.I.; last name in Specify)
+  [Frank, B.]            (declared name correction)
+Fransom, Brett
+Froeschner, Richard C.   (declared primary; not in data)
+- Froeschner, R. C.      (declared variant)
+  [Foreschner, R. C.]    (declared name correction)
+Fryer, Shane             (declared primary; last name in Specify; not in data)
+- Fryer, S.              (in Specify)
+Fuls, Carson             (declared primary)
+Gagne, Raymond J.        (declared primary; last name in Specify; not in data)
+- Gagne, R. J.           (in Specify)
+Galindo, Hector          (last name in Specify)
+Galvan, Tony             (declared primary; in James' list)
+Gamboa, Arsenio          (declared primary; not in data)
+- Gamboa, A.
+Ganter, John             (declared primary; not in data)
+- Ganter, J.
+Garcia, Diana            (declared primary; in James' list; last name in Specify)
+Gardner, James Eugene    (declared primary; not in data)
+- Gardner, J. E.
+Garot, Anthony           (declared primary; not in data)
+- Garot, T.              (declared variant)
+- Garot, Tone            (declared variant; in James' list)
+  [Garot, Gone]          (declared name correction)
+- Garot, Toni            (declared variant)
+Garrett, Keith           (declared primary; in James' list)
+Gary, Marcus             (declared primary; in James' list; last name in Specify; not in data)
+- Gary, M.               (declared variant; in Specify)
+Garza, Ernie             (declared primary; last name in Specify; not in data)
+- Garza, E.              (last name in Specify)
+Gayle, Sarah             (declared primary; not in data)
+- Gayle, S.              (declared variant)
+  [Gaye, S.]             (declared name correction)
+Gee, Mark                (declared primary; in James' list; not in data)
+- Gee, M.
+Geisler, Steve           (declared primary; in James' list)
+Geletzkie, Hendrie       (declared primary)
+George, John E.          (declared primary; not in data)
+- George, J.
+Germany, Julia           (declared primary; in James' list)
+- Germany, J.
+Gertsch, Willis J.       (declared primary; last name in Specify; not in data)
+- Gertsch                (last name in Specify)
+- Gertsch, W. J.         (declared variant; in Specify)
+  [Gert sch, W. J.]      (lexically altered name)
+  [Getsch, W. J.]        (declared name correction)
+Gibbs, Joan              (declared primary; in James' list)
+Gibson, J. Randy         (declared primary; in James' list except M.I.; last name in Specify; not in data)
+- Gibson, J.             (declared variant; last name in Specify)
+  [Gibson, G.]           (declared name correction)
+- Gibson, R.             (last name in Specify)
+- Gibson, Randy          (declared variant; last name in Specify)
+Gilliland, John          (declared primary; in James' list; not in data)
+- Gilliland, J.
+  [Gilliam, J.]          (declared name correction)
+  [Gillilian, J.]        (declared name correction)
+Glasser, Jane
+Glasser, Paul G.
+- Glasser, Paul
+Gluesenkamp, Andrew G.   (declared primary; last name in Specify; not in data)
+- Gluesenkamp, A.        (declared variant; in Specify)
+  [A. Gluesenkamp]       (lexically altered name)
+  [A. Glusenkamp]        (phonetically autocorrected last name)
+  [Gluesenkamp, A]       (lexically altered name)
+  [Gluesenkamp, G.]      (declared name correction)
+  [Gluesenkamp., A.]     (phonetically autocorrected last name)
+  [Gluesnkamp, A.]       (declared name correction)
+- Gluesenkamp, A. G.     (declared variant; last name in Specify)
+  [AGG]                  (declared name correction)
+  [Geluesenkamp, A. G.]  (declared name correction)
+  [Gluesenkamp]          (declared name correction)
+  [Gluesenkampf]         (declared name correction)
+- Gluesenkamp, Andy      (declared variant; last name in Specify)
+  [Glluesenkamp, Andy]   (phonetically autocorrected last name)
+  [Gluesenkamp, Ancy]    (declared name correction)
+  [Gluessenkamp, Andy]   (phonetically autocorrected last name)
+Gluesenkamp, Dan         (last name in Specify)
+Gluesenkamp, Jack        (last name in Specify)
+- Gluesenkamp, J.        (last name in Specify)
+Gomez, Antonio           (declared primary; in James' list)
+Gonzalez, Edmundo        (declared primary)
+  [Gonzalez]             (declared name correction)
+Goodman, Meg             (declared primary; in James' list)
+Goodman, Mike
+Goodnight, Clarence J.   (declared primary)
+  [Goodnight, Clarence J] (lexically altered name)
+  [Goodnight]            (declared name correction)
+- Goodnight, C. J.
+Goodnight, Marie L.      (declared primary)
+Gordon, Jessica          (declared primary; in James' list; last name in Specify; not in data)
+- Gordon, J.             (declared variant; in Specify)
+  [Gordon, Jl]           (declared name correction)
+  [J. Gordon]            (lexically altered name)
+Gordon, Robert D.        (declared primary; last name in Specify; not in data)
+- Gordon, R. D.          (last name in Specify)
+Goree, Silken            (declared primary)
+  [Gore, Silken]         (declared name correction)
+Goyette, Carmen          (declared primary; in James' list; not in data)
+- Goyette, C.
+Graening, G. O.          (declared primary; in James' list)
+  [Graneing, G. O.]      (phonetically autocorrected last name)
+  [Graening, Geo]        (declared name correction)
+  [Graening]             (declared name correction)
+Graham, Richard E.       (declared primary; not in data)
+- Graham, R.
+- Graham, R. E.
+Graham, W.
+Grant, Cynthia           (declared primary; in James' list; last name in Specify; not in data)
+- Grant, C.              (last name in Specify)
+Graves, Gordon           (declared primary; not in data)
+- Graves, G.
+Graves, Lee Jay          (declared primary; in James' list)
+- Graves, L.
+- Graves, L. J.
+  [Graves, L. J..]       (lexically altered name)
+Green, Cecilia           (declared primary; not in data)
+- Green, C.
+  [Green C.]             (lexically altered name)
+Green, Dan
+Green, Derek             (declared primary; in James' list)
+- Green, D.              (declared variant)
+Green, Robert            (declared primary; in James' list; not in data)
+- Green, R.
+Grimes, Scott            (declared primary; in James' list; last name in Specify)
+Grimm, Eli               (declared primary; in James' list; not in data)
+- Grimm, E.
+Grimm, Mike              (declared primary; in James' list)
+- Grimm, M.
+Grissell, E. E.
+Grobert, Devon           (declared primary; in James' list)
+  [Grobert, Devin]       (declared name correction)
+  [Grobert, David]       (declared name correction)
+- Grobert, D.
+  [Grabart, D.]          (phonetically autocorrected last name)
+Grogan, William L.       (declared primary; not in data)
+- Grogan, W. L.
+Grossman, Amy            (declared primary; in James' list; not in data)
+- Grossman, A.
+  [Grossmann, A.]        (phonetically autocorrected last name)
+Grubbs, Andy G.          (declared primary; in James' list except M.I.; last name in Specify)
+- Grubbs, A.             (last name in Specify)
+  [A. Grubbs]            (lexically altered name)
+  [Grubbs, A]            (lexically altered name)
+  [Grubbs, a.]           (lexically altered name)
+  [Grubbs. A.]           (phonetically autocorrected last name)
+- Grubbs, A. G.          (declared variant; in Specify)
+  [Grubbs, A,. G.]       (lexically altered name)
+  [Grubbs, AG.]          (lexically altered name)
+  [Grubbs, Al]           (declared name correction)
+  [Grubbs. A. G.]        (phonetically autocorrected last name)
+  [Grubs, A.]            (declared name correction)
+- Grubbs, Andy           (last name in Specify)
+Grubbs, Jubal            (declared primary; last name in Specify; not in data)
+- Grubbs, J.             (last name in Specify)
+Guerrez, A.
+Guevara, Aldo
+Gunter, Jason            (declared primary)
+Guzman, Liz
+Hack, Larry
+Hager, Kristina          (declared primary; not in data)
+- Hager, K.
+Hall, Cherman            (declared primary; in James' list; last name in Specify)
+- Hall, C.               (last name in Specify)
+Halstead, T. R.
+Hanson, Bruce            (declared primary; not in data)
+- Hanson, B.
+Hanson, Greg             (declared primary; not in data)
+- Hanson, G.             (declared variant)
+  [Hanson, C.]           (declared name correction)
+Harbuck, Ron             (declared primary; not in data)
+- Harbuck, R.
+Harden, Scott J.         (declared primary; in James' list except M.I.)
+- Harden, S.             (declared variant)
+- Harden, S. J.          (declared variant)
+- Harden, Scott          (declared variant)
+  [Harden, Scottl]       (declared name correction)
+Harmon, Russ             (declared primary; in James' list; last name in Specify; not in data)
+- Harmon, R.             (last name in Specify)
+Harr, Robert             (declared primary; not in data)
+- Harr, R.
+Harris, D.               (last name in Specify)
+Harrison, Blake          (declared primary; in James' list; last name in Specify; not in data)
+- Harrison, B.           (last name in Specify)
+Harvath, Mike            (declared primary; in James' list)
+- Harvath, M.
+Haskamp, Dale            (declared primary; not in data)
+- Haskamp, D.            (declared variant)
+  [Hashamp, D.]          (declared name correction)
+Hauwert, Nico            (declared primary; in James' list)
+Havens, Robin            (declared primary; not in data)
+- Havens, R.
+Hays County              (declared primary)
+Hazelette, Tommy
+Hector, Dean P.          (declared primary; in James' list except M.I.; not in data)
+- Hector, D. P.
+Heinen, Erika            (declared primary; in James' list)
+- Heinen
+- Heinen, E.
+  [Heinan, E.]           (phonetically autocorrected last name)
+Hemperly, Robert         (declared primary; in James' list)
+- Hemperly, R.
+  [Hemperley, R.]        (phonetically autocorrected last name)
+Hendrickson, Dean A.     (declared primary; in James' list except M.I.; last name in Specify)
+- Hendrickson, D.        (in Specify)
+- Hendrickson, D. A.     (last name in Specify)
+- Hendrickson, Dean      (last name in Specify)
+Hendrickson, Garrett     (declared primary; in James' list; last name in Specify; not in data)
+- Hendrickson, G.        (last name in Specify)
+Hendrie, Piers E.        (declared primary; in James' list; not in data)
+- Hendrie, Piers
+Henery, Dale             (declared primary; in James' list)
+Henry, T. J.
+Herbez, Erin             (declared primary; in James' list)
+- Herbez, E.             (declared variant)
+  [Herbez, S.]           (declared name correction)
+Herman, Lee H.           (declared primary; not in data)
+- Herman, L. H.
+Hernandez, Fernando      (declared primary; in James' list; last name in Specify; not in data)
+- Hernandez, F.          (last name in Specify)
+Hernandez, Lydia         (declared primary; in James' list; last name in Specify)
+  [Hernandez, Lyda]      (declared name correction)
+Herring, Jon L.          (declared primary; not in data)
+- Herring, J. L.         (declared variant)
+  [Herrina, J. L.]       (declared name correction)
+Herschler, Robert        (declared primary; in James' list; not in data)
+- Herschler
+  [Hershler]             (declared name correction)
+- Herschler, R.
+  [Hershler, R.]         (declared name correction)
+Heuss, Keith             (declared primary; in James' list)
+- Heuss, K.
+Heyer, Devra             (declared primary; in James' list)
+  [Heyra, Devra]         (declared name correction)
+  [Heyer, Deva]          (declared name correction)
+  [Heyer, David]         (declared name correction)
+- Heyer, D.
+Hicks, Mary
+Higgens, Laura           (declared primary; in James' list; not in data)
+- Higgens, L.
+  [Higgins, L.]          (phonetically autocorrected last name)
+Hildreth-Werker, Val     (declared primary; not in data)
+- Hildreth, V.           (declared variant; in Specify)
+Hill, Alvis              (last name in Specify)
+Hill, Ryan               (declared primary; in James' list; last name in Specify)
+Hillis, David            (declared primary; in James' list; last name in Specify)
+- Hillis, D.             (in Specify)
+Hobbs, Horton H., Jr.    (declared primary; not in data)
+- Hobbs, H. H., Jr.
+Hodges, R. W.
+Hoese, Geoff             (declared primary; in James' list)
+  [Hoesse, Geoff]        (phonetically autocorrected last name)
+  [Hoese, Jeff]          (declared name correction)
+- Hoese, G.              (declared variant)
+  [G. Hoese]             (lexically altered name)
+  [Hoese, J.]            (declared name correction)
+  [Hose, G.]             (declared name correction)
+Hoffman, L.
+Hogenauer, Dan           (declared primary; in James' list)
+  [Hogenauef, Dan]       (declared name correction)
+- Hogenauer, D.
+  [Hoganeur, D.]         (phonetically autocorrected last name)
+Holladay, Ed             (declared primary; not in data)
+- Holladay, E.           (declared variant)
+  [Holiday, E.]          (phonetically autocorrected last name)
+  [Holladay, F.]         (declared name correction)
+Hollar, Thomas           (declared primary; in James' list)
+Holman, Del              (declared primary; in James' list)
+Holmback, Eric           (declared primary; not in data)
+- Holmback, E.           (declared variant)
+  [Holmack, M.]          (declared name correction)
+  [Holmback, M.]         (declared name correction)
+Holsinger, John R.       (declared primary; in James' list except M.I.; not in data)
+- Holsinger, J.
+- Holsinger, J. R.       (declared variant)
+  [H., J. R.]            (declared name correction)
+Holzgraph, Alan          (declared primary)
+  [H., A.]               (declared name correction)
+Honea, David             (declared primary)
+- Hoene, Dave            (declared variant)
+  [Honea, Dave]          (declared name correction)
+- Honea, D.
+Honea, J.
+Hooper, Jocie            (declared primary)
+- Hooper, J.
+Horizon Environmental    (declared primary)
+  [Horizon]              (declared name correction)
+Horner, Peggy            (declared primary; in James' list; not in data)
+- Horner, P.
+Horvath, Mike            (declared primary; in James' list; not in data)
+- Horvath
+- Horvath, M.
+Hose, Louise             (declared primary; not in data)
+- Hose, L.
+Houghton, David
+Howard, Sarah            (declared primary)
+Howarth, Frank G.        (declared primary; in James' list except M.I.; not in data)
+- Howarth, F.
+- Howarth, F. G.
+Howden, Henry F.         (declared primary; last name in Specify; not in data)
+- Howden, H. F.          (last name in Specify)
+Howell, Fred             (declared primary)
+- Howell, F.
+Howeth, W.               (declared primary; in James' list)
+  [Howeth W.]            (lexically altered name)
+Hubbard                  (last name in Specify)
+Hubbard, Dave            (declared primary; in James' list; last name in Specify; not in data)
+- Hubbard, D.            (last name in Specify)
+Hubbell, Theodore H.     (declared primary; not in data)
+- Hubbell, T. H.
+Huchton, Kathryn
+Huebner, Cookie          (declared primary; in James' list; not in data)
+- Huebner, C.
+Hughes
+Hunter, Joel             (declared primary; in James' list)
+- Hunter, J.
+Hutchins, Benjamin       (declared primary; last name in Specify)
+- Hutchins, B.           (last name in Specify)
+  [B. Hutchins]          (lexically altered name)
+- Hutchins, Ben          (declared variant; in James' list; in Specify)
+  [Hutchens, Ben]        (phonetically autocorrected last name)
+Hutchon, Kathryn         (declared primary)
+  [Hutchton, Kathryn]    (declared name correction)
+Ibar, Carmen
+Iskali, Goniela          (declared primary; in James' list; last name in Specify)
+  [Iskala, Goniela]      (phonetically autocorrected last name)
+- Iskali, G.             (in Specify)
+- Iskali, Goni           (declared variant; last name in Specify)
+Ivy, Joe L.              (declared primary; in James' list except M.I.)
+  [Ivey, Joe L.]         (phonetically autocorrected last name)
+- Ivy, J.                (declared variant)
+  [Ivy, G.]              (declared name correction)
+- Ivy, J. L.
+- Ivy, Joe
+Ivy, Wilton
+- Ivy, W.
+  [Ivie, W.]             (phonetically autocorrected last name)
+Jagnow, David            (declared primary; not in data)
+- Jagnow, D.
+Jameson, Roy             (declared primary)
+- Jameson, R.
+  [Jameson, R]           (lexically altered name)
+Jancewicz, Jean          (declared primary)
+  [Jancecewicz, Jean]    (declared name correction)
+- Jancewicz, J.          (declared variant)
+  [Jancewicz, Jan]       (declared name correction)
+Jarl, James              (declared primary; not in data)
+- Jarl, J.
+Jauk, Phil               (declared primary; in James' list; not in data)
+- Jauk, P.
+Jenkins, Julie           (declared primary; in James' list)
+- Jenkins, J.            (declared variant)
+Jensen, Aubri            (declared primary)
+- Jensen, A.             (declared variant)
+  [A. Jensen]            (lexically altered name)
+  [Jensen, J.]           (declared name correction)
+  [Jenson, A.]           (declared name correction)
+Johns, David             (declared primary; not in data)
+- Johns, D.
+Johnson, Betty           (last name in Specify)
+Johnson, Bruce           (declared primary; in James' list; last name in Specify; not in data)
+- Johnson, B.            (declared variant; in Specify)
+  [Johnson B.]           (lexically altered name)
+  [Johnson, J.]          (declared name correction)
+Johnson, Homer           (declared primary; in James' list; last name in Specify; not in data)
+- Johnson, H.            (last name in Specify)
+Johnson, Russ            (declared primary; in James' list; last name in Specify)
+Johnson, Shelia          (declared primary; last name in Specify; not in data)
+- Johnson, S.            (declared variant; last name in Specify)
+Johnson, Tracy           (last name in Specify)
+Johnston, Jennifer       (declared primary; last name in Specify; not in data)
+- Johnston, J.           (last name in Specify)
+Johnston, Mark           (declared primary; last name in Specify; not in data)
+- Johnston, M.           (in Specify)
+Jones, Marco A.          (declared primary; in James' list except M.I.; last name in Specify)
+- Jones, M.              (last name in Specify)
+- Jones, Marco           (last name in Specify)
+Jones, Ryan              (last name in Specify)
+Jones, Tim               (declared primary; last name in Specify; not in data)
+- Jones, T.              (declared variant; last name in Specify)
+Joost, Jeanette          (declared primary; in James' list; last name in Specify; not in data)
+- Joost, J.              (declared variant; in Specify)
+  [J. Joost]             (lexically altered name)
+Jordan, C.               (declared primary; in James' list)
+Jordan, J.
+Jordon, C.
+Jordon, J.               (declared primary)
+Jost, Lou                (declared primary; in James' list)
+Kane, Jay                (declared primary; in James' list)
+Karnei, Henry            (declared primary; in James' list; not in data)
+- Karnei, H.
+Kastning, Ernst          (declared primary; in James' list)
+  [Kastnsing, Ernst]     (declared name correction)
+- Kastning, E.
+Kavanaugh, David
+Kawakatsu, Masaharu      (declared primary; not in data)
+- Kawakatsu, M.
+Keeley, Brian            (declared primary; in James' list)
+  [Kelley, Brian]        (declared name correction)
+- Keeley
+Keirans, James E.        (declared primary; not in data)
+- Keirans, J. E.
+Kempwerth, David
+Kennedy, Cat             (declared primary; in James' list; last name in Specify)
+- Kennedy, C.            (last name in Specify)
+Kennedy, Jim             (declared primary; in James' list; last name in Specify)
+  [Kennecy, Jim]         (declared name correction)
+  [Kennday, Jim]         (declared name correction)
+  [Kenendy, Jim]         (declared name correction)
+- Kennedy, J.            (declared variant; in Specify)
+  [J. Kennedy]           (lexically altered name)
+  [Kennecy, J.]          (declared name correction)
+  [Kennedy J.]           (lexically altered name)
+Kern, Dottie             (declared primary; in James' list)
+  [Kern, Dotti]          (declared name correction)
+- Kern, D.
+Kerr, Chris
+Keys, Peter              (declared primary)
+- Keys, P.
+Killian, James           (declared primary; in James' list; last name in Specify)
+- Killian, J.            (in Specify)
+- Killian, Jim           (declared variant; last name in Specify)
+Kingsley, Ken            (declared primary; not in data)
+- Kingsley, K.           (declared variant)
+  [Kinsley, K.]          (declared name correction)
+Kinsolver, John M.       (declared primary)
+  [Kingsolver, J. M.]    (declared name correction)
+Kirkpatrick, Mark        (declared primary; in James' list)
+Kiser, David W.          (declared primary; not in data)
+- Kiser
+  [Kisar]                (phonetically autocorrected last name)
+  [Kyser]                (phonetically autocorrected last name)
+- Kiser, D.
+  [Kisar, D.]            (phonetically autocorrected last name)
+  [Kyser, D.]            (phonetically autocorrected last name)
+Knapp, Justin Troy       (declared primary; in James' list)
+- Knapp, J. T.
+Knoll, Philip            (declared primary; in James' list)
+- Knoll, P.
+Knox, Orion              (declared primary; in James' list)
+- Knox, O.
+Koenig, Kurt
+- Koenig
+Koepke, H. Marvin        (declared primary; in James' list; not in data)
+- Koepke, H. M.
+Kolb, Joe                (declared primary; in James' list)
+Kramer, James P.         (declared primary; not in data)
+- Kramer, J. P.
+Krejca, Chris            (last name in Specify)
+- Krejca, C.             (last name in Specify)
+Krejca, Jean K.          (declared primary; in James' list except M.I.; last name in Specify)
+- KreJca, J.             (in Specify; last name in Specify)
+- Krejca, J.             (in Specify)
+  [J. Krejca]            (lexically altered name)
+  [Kejca, J.]            (declared name correction)
+  [Krejca J.]            (lexically altered name)
+  [Krejca, J]            (lexically altered name)
+  [Krejcqa, j.]          (lexically altered name)
+- Krejca, J. K.          (declared variant; last name in Specify)
+  [Krejca]               (declared name correction)
+- Krejca, Jean           (last name in Specify)
+Kukal, Olga
+- Kukal, O.
+Kunath, Carl E.          (declared primary; in James' list except M.I.)
+- Kunath, C.
+  [Kunath C.]            (lexically altered name)
+- Kunath, Carl
+Kweskin, Matthew         (declared primary; in James' list; not in data)
+- Kweskin, M.
+Ladd, Cliff              (declared primary; in James' list; not in data)
+- Ladd, C.
+Lafferty, Chris          (declared primary; in James' list)
+Lake, Nikki              (declared primary; not in data)
+- Lake, N.               (declared variant)
+  [Lake, Nl]             (declared name correction)
+  [Lane, N.]             (declared name correction)
+Lakner, T.
+Larason, Sheri           (declared primary; not in data)
+- Larason, S.
+Larsen, Jeanette         (declared primary; in James' list; last name in Specify)
+  [Larsen, Jeannette]    (declared name correction)
+- Larsen, J.             (in Specify)
+- Larsen, Jet            (declared variant; in James' list; last name in Specify)
+Larsen, William          (declared primary; in James' list; last name in Specify)
+- Larsen, B.             (last name in Specify)
+  [B. Larsen]            (lexically altered name)
+- Larsen, Bill           (declared variant; in James' list; last name in Specify)
+- Larsen, W.             (last name in Specify)
+  [W. Larsen]            (lexically altered name)
+Larson, David            (declared primary; in James' list; not in data)
+- Larson, D.
+Lasko, Susan             (declared primary; in James' list)
+- Lasko, S.              (declared variant)
+  [Lasko, J.]            (declared name correction)
+- Lasko, Susie           (declared variant)
+Law, D.                  (declared primary; in James' list)
+Lawrence, John F.        (declared primary; not in data)
+- Lawrence, J. F.
+Lebouef, Crystal         (declared primary; in James' list)
+  [Leboeuf, Crystal]     (phonetically autocorrected last name)
+- Lebouef, C.            (declared variant)
+  [Leboeuf, C.]          (phonetically autocorrected last name)
+  [Lefouef, C.]          (declared name correction)
+LeBrun, Edward           (declared primary; last name in Specify)
+- LeBrun, Ed.            (declared variant; last name in Specify)
+LeCourvesier, Eleonore
+Ledford, Joel
+- Ledford, J.
+Lee, Chris               (last name in Specify)
+Lee, Cynthia             (declared primary; in James' list; last name in Specify)
+- Lee, C.                (declared variant; in Specify)
+Lee, G.                  (last name in Specify)
+Lee, Jodie               (declared primary; last name in Specify)
+  [Lee, Joeie]           (declared name correction)
+  [Lee Jodie]            (lexically altered name)
+- Lee, J.                (in Specify)
+Lee, K.                  (last name in Specify)
+Lee, Mason               (declared primary; in James' list; last name in Specify; not in data)
+- Lee, M.                (last name in Specify)
+Leonard, W.
+Levy, Heather            (declared primary; not in data)
+- Levy, H.
+Lewis, Jan               (declared primary; not in data)
+- Lewis, J.              (declared variant)
+Lewis, Julian J.         (declared primary)
+  [Lewis, Jelrry]        (declared name correction)
+- Lewis, J. J.           (declared variant)
+Lewis, Mike              (declared primary; in James' list)
+Liebertz, B.             (declared primary)
+  [Libertz, B.]          (declared name correction)
+Lieberz, Joseph          (declared primary)
+- Lieberz, J.            (declared variant)
+  [Liebertz, J.]         (declared name correction)
+  [Liebertz, Joseph]     (declared name correction)
+Liebman, Bill
+- Liebman, B.
+Lindblom, Claire F.      (declared primary; in James' list except M.I.; not in data)
+- Lindblom, C. F.
+- Lindblom, Claire
+Liner, E. A.
+Lingold, Bradley         (declared primary; not in data)
+- Lingold, B.
+Lisawoski, Ed            (declared primary; in James' list; not in data)
+- Lisawoski, E.
+  [Lisowski, E.]         (phonetically autocorrected last name)
+- Lisawoski, E. A.       (declared variant)
+  [Lisowski, E. A.]      (phonetically autocorrected last name)
+Lloyd, Dewi
+Locasio, Jim             (declared primary; not in data)
+- Locasio, J.            (declared variant)
+  [Locase, J.]           (phonetically autocorrected last name)
+  [Locasio, D.]          (declared name correction)
+Loftin, James            (declared primary; in James' list; last name in Specify)
+- Loftin, J.             (declared variant; last name in Specify)
+  [Loftin, J]            (lexically altered name)
+Loftin, Lacey            (declared primary; in James' list; last name in Specify)
+- Loftin, L.             (last name in Specify)
+Loftin, Vivian           (declared primary; in James' list; last name in Specify)
+- Loftin, V.             (declared variant; in Specify)
+  [Loftin, A.]           (declared name correction)
+Long, Melissa            (declared primary; in James' list; last name in Specify; not in data)
+- Long, M.               (last name in Specify)
+Longley, Glenn           (declared primary; in James' list)
+- Longley
+- Longley, G.
+Loubie, Eric             (declared primary)
+  [Lougie, Eric]         (declared name correction)
+Louton, Jerry A.         (declared primary; not in data)
+- Louton, J. A.          (declared variant)
+Love, Dan                (declared primary; in James' list; last name in Specify; not in data)
+- Love, D.               (last name in Specify)
+Lowery, Dino             (declared primary)
+- Lowery, D.             (declared variant)
+Lowery, S.
+Luke, Barbara
+- Luke, B.
+Lynn, Pam                (declared primary; in James' list)
+- Lynn, P.
+Mabe, Jeff               (declared primary; in James' list; not in data)
+- Mabe, J.
+MacMillan, Jimmy         (declared primary; in James' list; last name in Specify; not in data)
+- MacMillan              (last name in Specify)
+- MacMillan, J.          (in Specify)
+Maggens, Kurt            (declared primary; in James' list; not in data)
+- Maggens, K.            (declared variant)
+  [Magens, K.]           (declared name correction)
+Maguire, Bassett, Jr.    (declared primary; in James' list)
+Mahann, Sheree           (declared primary)
+Maikoetter, Jeremy       (declared primary; in James' list; not in data)
+- Maikoetter, J.
+  [J. Maikoetter]        (lexically altered name)
+  [J. Maitkoetter]       (lexically altered name)
+  [Maitkoetter, J.]      (declared name correction)
+  [Maitkotter, J.]       (declared name correction)
+  [Malkoetter, J.]       (declared name correction)
+Malone, Patricia
+Manire, Larry            (declared primary; in James' list; not in data)
+- Manire, L.
+Manning, Mary Kay        (declared primary; in James' list)
+Mantooth, Jeremy         (declared primary; in James' list; last name in Specify; not in data)
+- Mantooth, J.           (in Specify)
+Manuel, Adolfo
+Markette, Karen          (declared primary)
+  [Mazrkette, Karen]     (declared name correction)
+- Markette, K.
+Marsh, P. M.             (last name in Specify)
+Marsh, Terry             (declared primary; last name in Specify; not in data)
+- Marsh, T.              (last name in Specify)
+Martin, Barbara          (declared primary; last name in Specify; not in data)
+- Martin, B.             (declared variant; last name in Specify)
+  [Martin, Bl]           (declared name correction)
+  [Martom. B.]           (lexically altered name)
+Martin, R.               (last name in Specify)
+Martin, Robert F.        (declared primary; in James' list except M.I.; last name in Specify; not in data)
+- Martin, R. F.          (in Specify)
+- Martin, Robert         (last name in Specify)
+Mathis, Wayne N.         (declared primary; not in data)
+- Mathis, W. N.
+Matos, Jennifer A.       (declared primary; not in data)
+- Matos, J.
+- Matos, J. A.
+  [J. A. Matos]          (lexically altered name)
+Matthews, Raymond C., Jr. (declared primary; in James' list; last name in Specify)
+  [Mathews, Raymond C., Jr.] (phonetically autocorrected last name)
+Mauldin, Mark            (declared primary; in James' list; last name in Specify)
+  [Mauldron, Mark]       (declared name correction)
+Mayeux, Mallory
+  [Mayoux, Mallory]      (phonetically autocorrected last name)
+Mazjoub, Adam
+- Mazjoub, A.
+Mazur, R.                (declared primary)
+  [Mozur, R.]            (phonetically autocorrected last name)
+  [Mosur, R.]            (declared name correction)
+  [Mazur, R]             (lexically altered name)
+McAllister, C. T.        (declared primary; in James' list)
+McAllister, William H.   (declared primary; in James' list)
+  [McAlister]            (declared name correction)
+- McAllister, W.         (declared variant)
+  [McAlister, W.]        (declared name correction)
+- McAllister, W. H.      (declared variant)
+  [McAlister, W. H.]     (declared name correction)
+McArthur, Martha         (declared primary; in James' list)
+McBee, David             (declared primary; in James' list; last name in Specify; not in data)
+- McBee, D.              (in Specify)
+  [D. McBee]             (lexically altered name)
+McCann, Cait
+- McCann, C.
+  [C. McCann]            (lexically altered name)
+McConnell, C.
+McConnell, Libby
+McDaniel, Gary           (declared primary; in James' list)
+- McDaniel, G.
+McDermid, Krista         (declared primary; in James' list; last name in Specify)
+- McDermid, K.           (declared variant; in Specify)
+  [K. McDermid]          (lexically altered name)
+  [McDermiad, K.]        (phonetically autocorrected last name)
+  [McDermid]             (declared name correction)
+  [McDermid, JK.]        (lexically altered name)
+  [McDermid, K]          (lexically altered name)
+  [McDermit, K.]         (phonetically autocorrected last name)
+McDonald, Zack           (declared primary; in James' list; last name in Specify; not in data)
+- McDonald, Z.           (last name in Specify)
+McDowell, John           (declared primary; in James' list; not in data)
+- McDowell, J.
+McEachern, Mike          (declared primary)
+- McEachern, M.          (declared variant)
+  [McEachern, R.]        (declared name correction)
+  [McMeachern, M.]       (declared name correction)
+McGinnis, Shelley R.     (declared primary; not in data)
+- McGinnis
+- McGinnis, Shelley      (declared variant)
+  [McGinnis, Shelly]     (declared name correction)
+McKee, Mike              (declared primary; in James' list; not in data)
+- McKee, M.
+McKenzie, David W.       (declared primary; in James' list except M.I.)
+- McKenzie, D.
+  [D. McKenzie]          (lexically altered name)
+  [McKEnzie, D.]         (declared name correction)
+  [McKenze, D.]          (phonetically autocorrected last name)
+  [McKeznie, D.]         (declared name correction)
+  [McKznzie, D.]         (declared name correction)
+- McKenzie, D. W.        (declared variant)
+  [McKenzie]             (declared name correction)
+- McKenzie, David        (declared variant; in James' list)
+  [McKenzie, Davdi]      (declared name correction)
+  [McKenzie, Davide]     (declared name correction)
+  [Mckenzie, David]      (declared name correction)
+McKenzie, Martha Helen   (declared primary; in James' list; not in data)
+- McKenzie, M.
+  [McKEnzie, M.]         (declared name correction)
+  [McKenzie, M]          (lexically altered name)
+  [Mckenzie, M.]         (declared name correction)
+- McKenzie, M. H.
+- McKenzie, Martha
+McKenzie, Suzanne Wiley  (declared primary; not in data)
+- McKenzie, S. Wiley
+McMillan, James          (declared primary; last name in Specify; not in data)
+- McMillan, J.           (last name in Specify)
+  [McMillian, J.]        (phonetically autocorrected last name)
+  [Mcmillian, J.]        (declared name correction)
+McNatt, Logan            (declared primary; in James' list; last name in Specify)
+- McNatt, L.             (in Specify)
+McNeilus, V. E.
+- McNeilus, V.
+McVey, Steve             (declared primary; in James' list; not in data)
+- McVey, S.
+McWhirter, Mike          (declared primary; in James' list)
+Mead, J. G.
+Meador, Tom              (declared primary; in James' list)
+- Meador, T.
+Meadows, Martin          (declared primary)
+  [Meadcows, Martin]     (declared name correction)
+Mecum, M.                (declared primary)
+Mejia, Hector
+Menke, A. S.
+Menking, Kurt            (declared primary; in James' list)
+  [Menkin, Kurt]         (declared name correction)
+- Menking, K.
+  [Menking K.]           (lexically altered name)
+Meredith, David          (declared primary; in James' list)
+Miller                   (last name in Specify)
+Miller, Amanda           (declared primary; in James' list; last name in Specify; not in data)
+- Miller, A.             (last name in Specify)
+Miller, Jeffrey          (last name in Specify)
+- Miller, J.             (last name in Specify)
+Miller, Marvin           (declared primary; in James' list; last name in Specify)
+- Miller, M.             (in Specify)
+  [Miller, M]            (lexically altered name)
+Miller, Tom              (declared primary; last name in Specify; not in data)
+- Miller, T.             (last name in Specify)
+Mills, Tom               (declared primary; in James' list; not in data)
+- Mills, T.
+Minton, Mark             (declared primary; in James' list)
+- Minton, M.
+Mis, Jose                (last name in Specify)
+- Mis, J.                (in Specify)
+Mitchell                 (last name in Specify)
+Mitchell, B.             (in Specify)
+Mitchell, Joe            (declared primary; in James' list; last name in Specify; not in data)
+- Mitchell, J.           (last name in Specify)
+Mitchell, Robert W.      (declared primary; in James' list; last name in Specify)
+- Mitchell, R.           (last name in Specify)
+- Mitchell, R. W.        (last name in Specify)
+Mitchell, Robert W., Jr. (declared primary; last name in Specify; not in data)
+- Mitchell, R. W., Jr.   (last name in Specify)
+- Mitchell, R., Jr.      (last name in Specify)
+- Mitchell, Robert, Jr.  (last name in Specify)
+Mitchell, Scott R.       (declared primary; last name in Specify; not in data)
+- Mitchell, S. R.        (last name in Specify)
+  [S. R. Mitchell]       (lexically altered name)
+Mitchell, Sharon A.      (declared primary; last name in Specify; not in data)
+- Mitchell, S. A.        (last name in Specify)
+  [S. A. Mitchell]       (lexically altered name)
+Mockford, Edward L.      (declared primary; not in data)
+- Mockford
+- Mockford, E. L.        (declared variant)
+  [Mockford, D. L.]      (declared name correction)
+Mojaras, Ryan
+Mollhagen, T.
+- Mollhagen
+Mollhagen, Tony R.       (declared primary; in James' list except M.I.; not in data)
+- Mollhagen, T. R.
+- Mollhagen, Tony        (declared variant)
+  [Mollhgen, Tony]       (declared name correction)
+Monahan, Katie           (declared primary; in James' list; not in data)
+- Monahan, K.            (declared variant)
+  [Monahans, K.]         (declared name correction)
+Moni, Gerald             (declared primary; not in data)
+- Moni, G.
+Monjaras, Ryan           (declared primary; in James' list)
+Montanari, S.
+Montgomery, Dick         (declared primary; in James' list; not in data)
+- Montgomery, D.
+Moore, Ann               (declared primary; in James' list; last name in Specify; not in data)
+- Moore, A.              (last name in Specify)
+Moore, Mike              (declared primary; in James' list; last name in Specify)
+- Moore, M.              (last name in Specify)
+Moreno, Jaime            (declared primary; in James' list; last name in Specify)
+Morman, Randy
+  [Mormon, Randy]        (phonetically autocorrected last name)
+Morton, Amy              (declared primary)
+- Morton, A.             (declared variant)
+  [A. Morton]            (lexically altered name)
+Morton, K.
+Moss, Philip             (declared primary; in James' list; not in data)
+- Moss, P.
+Mothes, Patty            (declared primary)
+- Jameson, P. Mothes
+  [Mothes Jameson, P.]   (lexically altered name)
+- Jameson, Patty Mothes  (declared variant)
+- Mothes, P.
+Muchmore, William B.     (declared primary; not in data)
+- Muchmore, W. B.
+Mullinex, Carolyn        (declared primary; not in data)
+- Mullinex, C.
+Mullinex-Tibbetts, Carolyn (declared primary)
+  [Mullinex Tibbetts, C.] (lexically altered name)
+  [Mullinex Tibbett, C.] (lexically altered name)
+Muntrie, J.
+Murphy, Stuart           (declared primary; last name in Specify)
+  [Murphy, Stuart.]      (declared name correction)
+- Murphy, S.             (declared variant; last name in Specify)
+  [Murphy S.]            (lexically altered name)
+Murray, Chris            (declared primary; in James' list; last name in Specify; not in data)
+- Murray, C.             (last name in Specify)
+Myers, David Allen       (declared primary; last name in Specify; not in data)
+- Myers, D.              (last name in Specify)
+Myers, Rob               (declared primary; in James' list; last name in Specify)
+  [Myers, Rob.]          (declared name correction)
+  [Meyers, Rob]          (phonetically autocorrected last name)
+- Myers, R.              (declared variant; in Specify)
+  [Meyers, R.]           (phonetically autocorrected last name)
+  [Myers R.]             (lexically altered name)
+  [R. Myers]             (lexically altered name)
+Nader-Olenick, Rae
+Naedringhaus, Erin
+Nash, Derek              (declared primary)
+Nasvacil, Kelly          (declared primary; in James' list)
+  [Navacil, Kelly]       (declared name correction)
+Nepstad, Greg
+Newman, Oscar            (declared primary; in James' list)
+Nickle, David A.         (declared primary; last name in Specify; not in data)
+- Nickle, D. A.          (in Specify)
+Nipper, Stacey           (declared primary; not in data)
+- Nipper, S.
+Nissen, Brad             (declared primary; in James' list; not in data)
+- Nissen, B.
+  [Nissan, B.]           (phonetically autocorrected last name)
+Norris, Chad             (declared primary; not in data)
+- Norris, C.
+Northup, Diana           (declared primary; in James' list; not in data)
+- Northup, D.
+Norton, K.               (declared primary; in James' list)
+Norton, Russel M.        (declared primary)
+  [Norton]               (declared name correction)
+- Norton, R.
+- Norton, R. M.
+- Norton, Rusty          (declared variant)
+O'Connor, Kathleen       (declared primary)
+  [O'connor, Kathleen]   (declared name correction)
+- O'Connor, K.           (declared variant)
+  [O''Connor, K.]        (declared name correction)
+  [O'Connor, K]          (lexically altered name)
+  [O'connor, K]          (lexically altered name)
+  [O'connor, K.]         (declared name correction)
+  [O., K.]               (declared name correction)
+  [Oconnor, K.]          (declared name correction)
+O'Leary, Rachel          (declared primary; last name in Specify; not in data)
+- O'Leary, R.            (in Specify)
+Oakley, Robert           (declared primary; not in data)
+- Oakley, B.
+- Oakley, R.
+Oberg, Erik              (declared primary; not in data)
+- Oberg, E.              (declared variant)
+  [Olberg E.]            (lexically altered name)
+  [Olberg, E.]           (declared name correction)
+Ochel, David             (declared primary)
+  [Ochtel, David]        (declared name correction)
+- Ochel, D.              (declared variant)
+  [Ochtel, D.]           (declared name correction)
+Oczkowski, Pam           (declared primary; in James' list)
+Ohms                     (declared primary)
+Olenick, Walter
+Olmbeck, E.
+  [Llmbeck, E.]          (declared name correction)
+Oost, Barry              (declared primary; last name in Specify; not in data)
+- Oost, B.               (in Specify)
+Orndorff, Will           (declared primary; not in data)
+- Orndorff, W.
+  [W. Orndorff]          (lexically altered name)
+Owen, Jacob              (declared primary; not in data)
+- Owen, J.
+  [J. Owen]              (lexically altered name)
+Padgett, Mike            (declared primary; not in data)
+- Padgett, M.
+Palacios-Vargas, Jose    (declared primary; not in data)
+- Palacios-Vargas, J.    (declared variant)
+  [Palacios, J.]         (declared name correction)
+Palit, Linda K.          (declared primary; in James' list except M.I.; not in data)
+- Palit, L.
+  [Palir, L.]            (declared name correction)
+- Palit, L. K.
+- Palit, Linda
+Palmer, Tim              (last name in Specify)
+Pape-Dawson Engineers    (declared primary)
+  [Pape-Dawson]          (declared name correction)
+Paquin, Pierre           (declared primary; in James' list; last name in Specify)
+- Paquin, A.             (declared variant; last name in Specify)
+  [Paquin, P.]           (declared name correction)
+Parker, F. D.
+Parker, Joseph           (declared primary; not in data)
+- Parker, J.
+Parker, Nathan           (declared primary; in James' list)
+- Parker, N.
+Pate, Dale L.            (declared primary; in James' list except M.I.; last name in Specify)
+  [Pate]                 (declared name correction)
+- Pate, D.               (last name in Specify)
+- Pate, D. L.            (last name in Specify)
+- Pate, Dale             (last name in Specify)
+Pearce, Philip           (declared primary; in James' list; not in data)
+- Pearce, P.
+  [Pearse, P.]           (phonetically autocorrected last name)
+Pearson, David           (declared primary; in James' list)
+- Pearson, D.
+Peck                     (last name in Specify)
+Peck, James              (declared primary; last name in Specify)
+- Peck, J.               (in Specify)
+  [Peck, S. & J.]        (lexically altered name)
+Peck, Stewart B.         (declared primary; in James' list except M.I.; last name in Specify)
+- Peck, S.               (in Specify)
+  [Peck, S. & J.]        (lexically altered name)
+- Peck, S. B.            (last name in Specify)
+- Peck, Stewart          (last name in Specify)
+Peck, William B.         (declared primary; last name in Specify; not in data)
+- Peck, W. B.            (last name in Specify)
+Pecos, James E.          (declared primary; not in data)
+- Pecos, J. E.           (declared variant)
+  [Pecor, J.]            (declared name correction)
+Pedin, Colin             (declared primary; in James' list)
+  [Peden, Colin]         (phonetically autocorrected last name)
+Pekins, Charles L.       (declared primary; in James' list except M.I.; last name in Specify; not in data)
+- Pekins, C.             (in Specify)
+- Pekins, C. L.          (last name in Specify)
+  [Pekins, C. l]         (lexically altered name)
+- Pekins, Charles        (last name in Specify)
+Pendergast, Denise       (declared primary; in James' list; not in data)
+- Pendergast, D.
+  [Pendergrast, D.]      (declared name correction)
+Perez, Fidencio
+- Perez, F.
+Perrinne, E.             (declared primary)
+  [Perriunne, E.]        (declared name correction)
+Persha, David            (declared primary; not in data)
+- Persha, D.
+Peters, William L.       (declared primary; not in data)
+- Peters, W. L.
+Peterson, Brian          (declared primary)
+- Peterson, B.
+Peterson, Kandi          (declared primary; not in data)
+- Peterson, K.
+Peterson, R. V.
+  [Paterson, R. V.]      (phonetically autocorrected last name)
+Phillips, Catherine      (declared primary; in James' list; last name in Specify; not in data)
+- Phillips, C.           (last name in Specify)
+Phillips, Tom            (declared primary; last name in Specify; not in data)
+- Phillips, T.           (declared variant; last name in Specify)
+Pickett, Walter
+Pierce, Dessie           (declared primary; in James' list; last name in Specify)
+Pisarowicz, Jim          (declared primary)
+  [Psarowicz, Jim]       (declared name correction)
+  [Pisariwocz, Jim]      (phonetically autocorrected last name)
+- Pisarowicz, J.
+Pistole, Nancy
+Platnick, Norman I.      (declared primary; not in data)
+- Platnick
+- Platnick, N. I.
+Plowes, Rob              (in Specify)
+Poer, Freddy             (declared primary; not in data)
+- Poer, F.
+Pokluda, Rebecca
+Polowski, Meghan         (declared primary; not in data)
+- Polowski, M.
+Polyak, Victor J.        (declared primary; last name in Specify; not in data)
+- Polyak, V.             (last name in Specify)
+- Polyak, V. J.          (declared variant; in Specify)
+  [Polyak, V. P.]        (declared name correction)
+Ponce, Monica
+Poole, Gary A.           (declared primary; in James' list except M.I.)
+- Poole, Gary
+Porter, John             (declared primary; in James' list; last name in Specify)
+  [Porter]               (declared name correction)
+- Porter, J.             (last name in Specify)
+Posso, Kara              (declared primary)
+  [Poss, K.]             (declared name correction)
+- Posso, K.
+  [K. Posso]             (lexically altered name)
+  [Passo, K.]            (phonetically autocorrected last name)
+Potter, Kathy            (declared primary; in James' list; not in data)
+- Potter, K.
+Poulson, Tom             (declared primary; in James' list; not in data)
+- Poulson, T.            (declared variant)
+Prasil
+Prentice, John           (declared primary; in James' list)
+- Prentice, J.
+Price, Rodney            (declared primary; in James' list; last name in Specify)
+- Price, R.              (last name in Specify)
+Provin, Guy
+Pugliese, Michael
+- Pugliese, M.
+Pursley, Justin          (declared primary)
+  [Justin]               (declared name correction)
+Pustka, Lucas            (declared primary; not in data)
+- Pustka, L.             (declared variant)
+  [L. Pustka]            (lexically altered name)
+  [L. Putska]            (lexically altered name)
+  [Putska, L.]           (declared name correction)
+Quast, William           (declared primary; in James' list)
+Quigley, Ian             (declared primary; in James' list)
+Quinn, Mike              (declared primary; in James' list; last name in Specify)
+Rachel?                  (declared primary)
+Raines, Susan
+- Raines, S.
+Raines, Terry            (declared primary; in James' list)
+- Raines, T.             (declared variant)
+Ralph, Jack              (declared primary; in James' list)
+Ralph, Ron               (declared primary; in James' list)
+- Ralph, R.
+Ramber
+Ramberg, Kevin           (declared primary; in James' list)
+- Ramberg, K.
+Ramirez, Jorge
+Reaka, Marjorie          (declared primary; in James' list; last name in Specify)
+- Reaka, M.              (last name in Specify)
+Reavely, Paul            (declared primary; in James' list; not in data)
+- Reavely, P.
+Reddell, James R.        (declared primary; in James' list except M.I.; last name in Specify)
+  [Reddell, Jl]          (declared name correction)
+  [Reddell, Jamers]      (declared name correction)
+  [Reddell, J. C.]       (declared name correction)
+  [Reddell, J.]          (declared name correction)
+  [Reddell, J,.]         (lexically altered name)
+  [Reddell, J]           (lexically altered name)
+  [Reddell]              (declared name correction)
+- Reddell, J. R.         (last name in Specify)
+  [J. R. Reddell]        (lexically altered name)
+- Reddell, James         (in Specify)
+Reddell, Jane            (declared primary; in James' list; last name in Specify)
+Redman, Ron
+Reed, J. T.              (last name in Specify)
+Reeder, William G.       (declared primary; not in data)
+- Reeder, W. G.
+Reeves, W.
+Reinhardt, Klaus         (declared primary; in James' list)
+  [Klaus Reinhardt]      (lexically altered name)
+- Reinhardt, K.
+Remick, T.
+  [T. Remick]            (lexically altered name)
+Remington, Erik E.       (declared primary; in James' list except M.I.; not in data)
+- Remington, E.          (declared variant)
+  [Remington, R.]        (declared name correction)
+- Remington, E. E.
+Resendiz, Homero         (declared primary; not in data)
+- Resendiz, H.
+  [H. Resendiz]          (lexically altered name)
+Reyes, Marcelino         (declared primary; in James' list; in Specify)
+- Reyes, M.              (last name in Specify)
+  [Reyes M.]             (lexically altered name)
+Rhoades, Douglas W.
+  [Rhodes, Douglas W.]   (phonetically autocorrected last name)
+Rhoades, Patrick
+Richards, Bob            (declared primary; last name in Specify; not in data)
+- Richards, B.           (last name in Specify)
+  [Richards B.]          (lexically altered name)
+Richards, Christopher    (declared primary; last name in Specify; not in data)
+- Richards, C.           (last name in Specify)
+Richards, Jason          (last name in Specify)
+Rickman, G.-P.
+  [Rickman, G. -P.]      (lexically altered name)
+Riechert, Susan E.       (declared primary; not in data)
+- Riechert, S. E.        (declared variant)
+  [Riechert]             (declared name correction)
+Rieseler, R.
+Riley, Edward G.         (declared primary; last name in Specify; not in data)
+- Riley, E. G.           (in Specify)
+Rivaldi, Chissa-Louise   (declared primary; not in data)
+- Rivaldi
+  [Rvialdi]              (declared name correction)
+Robertson, Lori          (declared primary; last name in Specify)
+Robertson, Stephen       (declared primary; last name in Specify)
+  [Robertson, Steven]    (declared name correction)
+  [Robertson, Stephen.]  (declared name correction)
+  [Robertson, Stephe]    (declared name correction)
+  [Robertson, Sephen]    (declared name correction)
+- Robertson, S.          (declared variant; in Specify)
+- Robertson, Steve       (declared variant; in James' list; last name in Specify)
+Robertson, Stirling      (declared primary; in James' list; last name in Specify)
+  [Robertson, Stirline]  (declared name correction)
+Robinson, R.             (last name in Specify)
+Rodemaker, Jim           (declared primary; in James' list; not in data)
+- Rodemaker, J.
+Rodriguez, G. A.         (last name in Specify)
+Rodriguez, Mariano       (last name in Specify)
+Rogers, Charlotte        (declared primary; in James' list; not in data)
+- Rogers, C.
+Rogers, Tom
+- Rogers, T.
+  [T. Rogers]            (lexically altered name)
+Rohr, Rich               (declared primary)
+  [Rohrer, R.]           (declared name correction)
+Rojo, Roberto            (declared primary; not in data)
+- Rojo, R.
+  [R. Rojo]              (lexically altered name)
+Roland, Donny            (declared primary; in James' list; not in data)
+- Roland, D.
+Rosaire, Courtney
+Rosales, Laura
+Rose, Frances            (declared primary; last name in Specify)
+  [Rose, Frances.]       (declared name correction)
+Ross, Christopher        (declared primary; last name in Specify; not in data)
+- Ross, C.               (last name in Specify)
+Rosson, Tom              (declared primary)
+  [Rossen, Tom]          (declared name correction)
+- Rosson, T.
+  [Rossen, T.]           (phonetically autocorrected last name)
+Roth, Steffen            (declared primary; in James' list)
+- Roth, S.               (declared variant)
+  [Roth, St.]            (declared name correction)
+Roth, Vincent D.         (declared primary)
+  [Roth]                 (declared name correction)
+- Roth, V.
+Rouillon, Genevieve
+Rowland, J. Mark         (last name in Specify)
+- Rowland, J. M.         (last name in Specify)
+Rudolph, D. Craig        (declared primary; in James' list except M.I.)
+- Rudolph, C.
+- Rudolph, Craig         (declared variant)
+- Rudolph, D. C.
+  [Rudlolph, D. C.]      (declared name correction)
+Ruiz, R. G.              (declared primary; in James' list)
+Rumer, Randy             (declared primary)
+- Rumer, R.
+Ruplinger, Peter
+Russell                  (last name in Specify)
+Russell, Carol           (declared primary; in James' list; last name in Specify; not in data)
+- Russell, C.            (last name in Specify)
+Russell, Philip          (last name in Specify)
+- Russell, P.            (last name in Specify)
+Russell, Wayne           (declared primary; in James' list; last name in Specify)
+Russell, William H.      (declared primary; in James' list except M.I.; last name in Specify; not in data)
+- Russell, B.            (declared variant; last name in Specify)
+  [Russell, D.]          (declared name correction)
+- Russell, Bill          (declared variant; last name in Specify)
+- Russell, W.            (declared variant; in Specify)
+  [Ruissell, W.]         (phonetically autocorrected last name)
+  [Russelol, W.]         (declared name correction)
+- Russell, W. H.         (declared variant; last name in Specify)
+  [Russell, W. R.]       (declared name correction)
+- Russell, William       (last name in Specify)
+- Russell, Wm.           (declared variant; last name in Specify)
+Rutherford, Ron          (declared primary; in James' list)
+  [Rutherford, Rod]      (declared name correction)
+- Rutherford, R.
+  [R. Rutherford]        (lexically altered name)
+Rutland, Rick
+Ryckwalder, Philip       (declared primary; in James' list)
+  [Rylkwalder, Philip]   (declared name correction)
+  [Rykwalkder, Philip]   (declared name correction)
+  [Rykwalder, Philip]    (declared name correction)
+- Ryckwalder
+Saker, Rachel            (declared primary; in James' list)
+  [Salcer, Rachel]       (declared name correction)
+Saldivar, Matt           (last name in Specify)
+Sanders, George          (declared primary; in James' list; last name in Specify)
+Sanders, Mark            (declared primary; in James' list; last name in Specify)
+  [Sanders, Makr]        (declared name correction)
+  [Sanders, Mak]         (declared name correction)
+  [Sanders]              (declared name correction)
+  [Mark Sanders]         (lexically altered name)
+- Sanders, M.            (in Specify)
+Sanders, Ottys           (last name in Specify)
+Sarkar, Sahotra          (declared primary; not in data)
+- Sarkar
+  [Sarker]               (phonetically autocorrected last name)
+Sas, Robert              (declared primary; not in data)
+- Sas, Bob               (declared variant)
+- Sas, Rob               (declared variant)
+Saususs, Francoise       (declared primary)
+  [Saususs, Francois]    (declared name correction)
+  [Saussus, Francoise]   (phonetically autocorrected last name)
+Savary, William          (declared primary; not in data)
+- Savary, W.
+Savvas, Charley          (declared primary; in James' list; last name in Specify)
+  [Savvas]               (declared name correction)
+- Savvas, C.             (declared variant; in Specify)
+  [C. Savvas]            (lexically altered name)
+  [Savvas C.]            (lexically altered name)
+  [Savvas, C..]          (lexically altered name)
+- Savvas, Charles        (declared variant; last name in Specify)
+- Savvas, Charlie        (declared variant; last name in Specify)
+  [Savvasi, Charlie]     (declared name correction)
+Savvas, Rachel           (last name in Specify)
+Sawyer, Bill             (declared primary; in James' list; not in data)
+- Sawyer, B.
+Sayther, Terry           (declared primary; in James' list; not in data)
+- Sayther, T.
+  [Sather, T.]           (phonetically autocorrected last name)
+Sbordoni, Valerio
+Scalise, Jonathan        (declared primary; last name in Specify)
+  [Scalese, Jonathan]    (phonetically autocorrected last name)
+- Scalise, J.            (in Specify)
+- Scalise, Jonny         (declared variant; in James' list; last name in Specify)
+  [Scalise, Jomy]        (declared name correction)
+Scanlon, Kathy           (declared primary; in James' list)
+- Scanlon, K.            (declared variant)
+  [Scanlon, K]           (lexically altered name)
+Scheiber, Scott          (last name in Specify)
+  [Schieber, Scott]      (declared name correction)
+  [Scheibner, Scott]     (declared name correction)
+Schindel, Geary          (declared primary; in James' list)
+- Schindel, G.
+Schmidt-Rhaesa, Andreas  (declared primary; not in data)
+- Schmidt-Rhaesa
+Schneider, L.            (declared primary; in James' list)
+Schramm, Matt
+  [Schram, Matt]         (phonetically autocorrected last name)
+Schroeder, Richard C.    (declared primary; not in data)
+- Schroeder, R. C.
+Schumann, Tim            (declared primary; in James' list; not in data)
+- Schumann, T.
+Schwartz, Benjamin       (declared primary; in James' list)
+- Schwartz, B.
+Schwartz, Cori           (declared primary; in James' list)
+Schwartz, Zachary        (declared primary; in James' list)
+Scott, Amanda            (declared primary; in James' list)
+Scott, Ann               (declared primary; in James' list)
+- Scott, A.              (declared variant)
+Scott, Travis            (declared primary; in James' list)
+- Scott, T.
+Seafel, R.               (declared primary; in James' list)
+Serface, R.
+Sexton, Chuck            (declared primary; in James' list; last name in Specify; not in data)
+- Sexton, C.             (in Specify)
+Shackelford, Nancy       (declared primary; in James' list)
+Shade, Beverley          (declared primary; in James' list; last name in Specify)
+  [Shade, Bevn]          (declared name correction)
+  [Shade, Bev]           (declared name correction)
+- Shade, B.              (declared variant; in Specify)
+  [Sahde, B.]            (phonetically autocorrected last name)
+  [Shade B.]             (lexically altered name)
+  [Shade, V.]            (declared name correction)
+Shaw, Justin             (declared primary; in James' list)
+- Shaw, J.
+Shaw, Pat
+Shawcross, Mike          (declared primary; not in data)
+- Shawcross, M.
+Shear, William A.        (declared primary)
+  [Shear]                (declared name correction)
+- Shear, W. A.
+Shelley
+Shelley, Rowland M.      (declared primary; not in data)
+- Shelley, R.
+  [Shelly, R.]           (phonetically autocorrected last name)
+- Shelley, R. M.
+Shepperd, Jim
+  [Shepherd, Jim]        (phonetically autocorrected last name)
+- Shepperd, J.
+Shepperd, Rex            (declared primary; not in data)
+- Shepperd, R.
+  [Sheppard, R.]         (phonetically autocorrected last name)
+Sherrod, Greg            (declared primary; in James' list; last name in Specify)
+- Sherrod, G.            (declared variant; in Specify)
+  [Sherrod, J.]          (declared name correction)
+Sherrod, Lee             (declared primary; in James' list; last name in Specify)
+  [Sherrod]              (declared name correction)
+- Sherrod, L.            (last name in Specify)
+Shimojana, Matsuei       (declared primary; not in data)
+- Shimojana, M.
+Shirk, Tina              (declared primary; not in data)
+- Shirk, T.              (declared variant)
+  [Thirk, T.]            (declared name correction)
+Short, Eric              (declared primary; in James' list)
+  [Short, Erik]          (declared name correction)
+- Short, E.
+Shumate, Mark            (declared primary; in James' list)
+- Shumate, M.            (declared variant)
+Siegel, Victoria         (declared primary)
+- Siegel, V.
+- Siegel, Vickie         (declared variant)
+  [Siegal, Vickie]       (phonetically autocorrected last name)
+Sigmond, Jennifer        (declared primary; in James' list; not in data)
+- Sigmond, J.
+Silva-Jothy, Mike
+Simmons, Ron.            (last name in Specify)
+Sissel, Blake            (declared primary; not in data)
+- Sissel
+Sissom, Mike
+  [Sisson, Mike]         (phonetically autocorrected last name)
+Sissom, W. David
+- Sissom, W. D.
+Siva-Jothy, Mike         (declared primary; in James' list)
+Skoruppa, Scott          (declared primary; in James' list)
+Slater, Jane             (declared primary; in James' list)
+- Slater, J.
+Slay, Mike
+Smart, William Robert    (declared primary; not in data)
+- Smart, Wm. Robert      (declared variant)
+Smith, A. Richard        (declared primary; in James' list; last name in Specify)
+- Smith, A. R.           (last name in Specify)
+Smith, Bryan             (last name in Specify)
+Smith, Bryce             (last name in Specify)
+Smith, D. R.             (declared primary; in Specify)
+- Smith, D.              (declared variant; last name in Specify)
+Smith, James H.          (declared primary; last name in Specify)
+  [Smith, James H..]     (lexically altered name)
+Smith, Marion O.         (declared primary; last name in Specify)
+- Smith, M. O.           (last name in Specify)
+Smith, Richard M.        (declared primary; in James' list except M.I.; last name in Specify; not in data)
+- Smith, R.              (declared variant; last name in Specify)
+  [Smith, R,.]           (lexically altered name)
+Smith, Sara              (last name in Specify)
+- Smith, S.              (last name in Specify)
+Smith, Tolly             (declared primary; in James' list; last name in Specify)
+Snider, J.               (declared primary)
+Snider, W.               (declared primary)
+Snow, Abby               (declared primary; last name in Specify; not in data)
+- Snow, A.               (in Specify)
+Snow, J.                 (in Specify)
+Soberanes, Jose Luis     (declared primary; not in data)
+- Soberanes, J. L.
+Soileau, Carmen          (last name in Specify)
+- Soileau, C.            (in Specify)
+Solglad, Michael E.      (declared primary; not in data)
+- Solglad, M. E.
+  [Soleglad, M. E.]      (declared name correction)
+Solis, Reynaldo
+- Solis, R.
+Spangler, Paul J.        (declared primary; not in data)
+- Spangler, P. J.
+Sparks, Kenneth          (declared primary; not in data)
+- Sparks, K.             (declared variant)
+  [K. Sparks]            (lexically altered name)
+Spence, Jon              (declared primary; in James' list; not in data)
+- Spence, J.
+Spilman, Seth
+  [Spelman, Seth]        (phonetically autocorrected last name)
+Spilman, T. J.
+Spinelli, Tony           (declared primary; in James' list)
+Sprouse, Peter S.        (declared primary; in James' list except M.I.; last name in Specify)
+  [Sprouse, Pl.]         (declared name correction)
+  [Sprouse]              (declared name correction)
+- Sprouse, P.            (in Specify)
+  [P. Sorouse]           (lexically altered name)
+  [P. Sprouse]           (lexically altered name)
+  [Sprosue, P.]          (phonetically autocorrected last name)
+  [Sprouae, P.]          (declared name correction)
+  [Sproue, P.]           (declared name correction)
+  [Sprouse P.]           (lexically altered name)
+  [Sprouse, P]           (lexically altered name)
+  [Sprouse, P,.]         (lexically altered name)
+  [Srouse, P.]           (declared name correction)
+- Sprouse, Peter         (last name in Specify)
+  [Spouse, Peter]        (declared name correction)
+  [Sprouae, Peter]       (declared name correction)
+Sprouse, Terri Treacy    (declared primary; last name in Specify)
+  [Sprouse, Terri Treacey] (declared name correction)
+- Sprouse, T.            (declared variant; last name in Specify)
+- Sprouse, T. T.         (last name in Specify)
+- Sprouse, T. Treacy     (last name in Specify)
+  [Treacy Sprouse, T.]   (lexically altered name)
+- Sprouse, Terri         (last name in Specify)
+- Sprouse, Terri T.      (last name in Specify)
+Squires, David
+- Squires, D.
+Stabinsky, Kenny         (declared primary; in James' list)
+  [Staabinsky, Kenny]    (phonetically autocorrected last name)
+Stafford, Kevin
+- Stafford, K.
+Stamps, Brittany
+Standifer, Mary          (declared primary; in James' list)
+- Standifer, M.
+  [Standifer M.]         (lexically altered name)
+  [Stanidfer, M.]        (declared name correction)
+Stanford, Ruth           (declared primary; last name in Specify)
+  [Stamford, R.]         (declared name correction)
+- Stanford, R.           (in Specify)
+Steadman, David          (declared primary; not in data)
+- Steadman, D.
+Steed, David             (declared primary; not in data)
+- Steed, D.
+Steele, Buntrock
+- Steele, B.
+Steele, C. William       (declared primary; not in data)
+- Steele, Bill           (declared variant; in James' list)
+- Steele, C. W.          (declared variant)
+  [Steele, W.]           (declared name correction)
+  [Steele, W. C.]        (declared name correction)
+Stemble, John            (declared primary; not in data)
+- Stemble, J.
+Stephens, Matt           (declared primary; in James' list; last name in Specify)
+Stich, Tim
+Stidham, John            (last name in Specify)
+- Stidham, J.            (in Specify)
+Stidham, Noble           (declared primary; last name in Specify; not in data)
+- Stidham, N.            (in Specify)
+Stock, Greg
+- Stock, G.
+Stock, Jan H.            (declared primary; not in data)
+- Stock, J. H.
+Stockton, Aaron
+Stoetzel, Manya B.       (declared primary; not in data)
+- Stoetzel, M. B.
+Stone, Fred D.           (declared primary; last name in Specify; not in data)
+- Stone, F. D.           (last name in Specify)
+Storm, Laura             (declared primary; not in data)
+- Storm, L.
+Strickland, Colin        (declared primary; in James' list)
+  [Srickland, Colin]     (declared name correction)
+- Strickland, C.
+Strickland, Peter        (declared primary)
+- Strickland, P.
+  [Srickland, P.]        (declared name correction)
+  [Stirckland, P.]       (declared name correction)
+  [Strickland P.]        (lexically altered name)
+  [Stsrickland, P.]      (declared name correction)
+Strong, Tom
+Stuart, Alan             (declared primary; last name in Specify; not in data)
+- Stuart, A.             (last name in Specify)
+Stubbs, Lee              (declared primary; not in data)
+- Stubbs, L.
+Stumpf, C.
+Sturdevant, Ann          (declared primary; not in data)
+- Sturdevant, A.
+Sucus, E.                (declared primary; in James' list)
+Sullivan, Brother G. Nicholas (declared primary; not in data)
+- Sullivan, B. G. Nicholas (declared variant)
+  [Nicholas, B. C.]      (declared name correction)
+Sumbera, Joe             (declared primary; not in data)
+- Sumbera, J.
+Summers, Jay
+Summers, Shannon         (declared primary; in James' list)
+- Summers, S.
+Sunby, Paul              (declared primary; in James' list; not in data)
+- Sunby, P.
+SWCA Environmental Consultants (declared primary)
+Sweet, Samuel S.         (declared primary; in James' list)
+- Sweet, S.
+  [Sweet S.]             (lexically altered name)
+- Sweet, S. S.
+- Sweet, Sam             (declared variant)
+  [Sweet Sam]            (lexically altered name)
+- Sweet, Sam S.          (declared variant)
+Swink, Aaron
+Syme, Ron                (declared primary; not in data)
+- Syme, R.
+Szergs, C. R.
+  [Szergs (?), C. R.]    (lexically altered name)
+Szerlip, Sigurd L.       (declared primary)
+  [Szertip, S. L.]       (declared name correction)
+  [Szerlip, Sigured]     (declared name correction)
+  [Szerlip, S. C.]       (declared name correction)
+- Szerlip
+Tamiera
+Tandy, Mills             (declared primary; in James' list)
+- Tandy, M.
+Tangestani, Moe          (declared primary; in James' list; not in data)
+- Tangestani, M.
+Taylor, Steven J.        (declared primary; in James' list; last name in Specify; not in data)
+- Taylor, S.             (last name in Specify)
+- Taylor, S. J.          (last name in Specify)
+- Taylor, Steve          (declared variant; last name in Specify)
+Terry, Jim               (declared primary)
+Thibodaux, Chris         (declared primary; in James' list)
+  [T., C.]               (declared name correction)
+- Thibodaux
+  [Thibodoux]            (declared name correction)
+- Thibodaux, C.
+  [Chibodaux, C.]        (declared name correction)
+  [Thibeadaux, C.]       (declared name correction)
+  [Thibideaux, C.]       (declared name correction)
+  [Thibidoux, C.]        (declared name correction)
+  [Thibodeaux, C.]       (declared name correction)
+  [Thibodoux, C.]        (declared name correction)
+Thom, J.                 (declared primary)
+Thomas, George           (declared primary; in James' list; last name in Specify)
+Thomas, Meri             (declared primary; last name in Specify; not in data)
+- Thomas, M.             (last name in Specify)
+Thompson, Drew           (declared primary)
+- Thompson, D.           (declared variant)
+  [Tompson, D.]          (phonetically autocorrected last name)
+Thompson, Sloan          (declared primary; in James' list)
+  [Thompso, Sloan]       (declared name correction)
+Thorn, Larry
+Thornhill, D.            (declared primary; in James' list)
+Thuesen, Kevin           (declared primary)
+  [Truesen, Kevin]       (declared name correction)
+- Thuesen, K.
+Tinkle, Karen
+Tipps, Bruce             (declared primary; in James' list; not in data)
+- Tipps, B.
+Tipton, Virginia         (declared primary)
+- Tipton, V.             (declared variant)
+  [Tipton, T.]           (declared name correction)
+Tobin, Ben               (declared primary; in James' list)
+- Tobin, B.
+Todd, David
+Tomsett, Suzi            (declared primary; in James' list)
+- Tomsett, S.
+  [tomsett, S.]          (lexically altered name)
+Tovar, Ruben
+Town, Liam               (declared primary)
+Trainey, Jody            (declared primary; in James' list; not in data)
+- Trainey, J.            (declared variant)
+  [Traienr, J.]          (declared name correction)
+Travy, C.
+Treacy, Terri            (declared primary; in James' list; in Specify)
+- Treacy, T.             (declared variant; last name in Specify)
+  [Treacey, T.]          (phonetically autocorrected last name)
+  [Treacy, P.]           (declared name correction)
+Trepanier, Luc
+Treviño, Javier          (declared primary; in James' list)
+  [Trevino, Javier]      (declared name correction)
+- Treviño, J.
+  [Trevino, J.]          (declared name correction)
+Triplehorn, Charles A.   (declared primary; last name in Specify; not in data)
+- Triplehorn, C. A.      (last name in Specify)
+Tucek, Heather           (declared primary; in James' list)
+- Tucek, H.              (declared variant)
+  [Hucek, H.]            (declared name correction)
+Tucker, C.
+Tucker, William          (declared primary)
+- Tucker, B.
+- Tucker, Bill           (declared variant; in James' list)
+- Tucker, W.
+Turner, Matt             (declared primary; in James' list)
+- Turner, M.
+  [M. Turner]            (lexically altered name)
+Turpin, Leslie           (declared primary; not in data)
+- Turpin, L.
+Turpin, Solveig          (declared primary; in James' list)
+  [Turpin]               (declared name correction)
+- Turpin, S.
+Tuttle, Merlin           (declared primary; in James' list; not in data)
+- Tuttle, M.
+Ubick, Darrell           (declared primary; last name in Specify; not in data)
+- Ubick                  (last name in Specify)
+- Ubick, D.              (in Specify)
+Ulmer, Mark              (declared primary; in James' list; not in data)
+- Ulmer, M.
+Valdez-Mondragon, Alejandro (declared primary; not in data)
+- Valdez-Mondragon
+- Valdez-Mondragon, A.   (declared variant)
+  [Valdez, A.]           (declared name correction)
+  [Valdez-Mandragon, A.] (phonetically autocorrected last name)
+van Engen, Bert          (declared primary; not in data)
+- van Engen, B.          (declared variant)
+  [Van Engen, E.]        (declared name correction)
+  [Van Ingen, B.]        (declared name correction)
+  [Van Ingen, E.]        (declared name correction)
+  [van Ingen, B.]        (declared name correction)
+  [van Ingen, E.]        (declared name correction)
+  [vanIngen, B.]         (declared name correction)
+Vanoye, Fernando
+Varga, Fernando          (last name in Specify)
+Varnado, Daniel
+Vaughter, Brian          (declared primary; not in data)
+- Vaughter, B.
+Velez, Christina         (declared primary; not in data)
+- Velez, C.
+Veni, George             (declared primary; in James' list)
+- Veni, G.               (declared variant)
+Veni, Karen              (declared primary; not in data)
+- Veni, K.
+Veseley, Carol
+Villagomez, A.
+Vinson, Barbara          (declared primary; in James' list)
+- Vinson, B.
+Vivier, F.
+Vogel, Beatrice R.       (declared primary; last name in Specify; not in data)
+- Vogel, B.              (last name in Specify)
+Vomero, Vincenzo
+- Vomero, V.
+Vreeland, Chris          (declared primary; in James' list)
+  [Vreeland, Christ]     (declared name correction)
+- Vreeland, C.
+Waddington, Andy         (declared primary; not in data)
+- Waddington, A.
+Wade, Gordon             (declared primary; in James' list; not in data)
+- Wade, G.               (declared variant)
+  [Waid, C.]             (declared name correction)
+  [Waid, G.]             (declared name correction)
+Wade, Scott              (declared primary; in James' list; not in data)
+- Wade, S.
+Wahl, C. W.
+Wahl, Rex                (declared primary; in James' list)
+Wake, David B.           (declared primary; in James' list; not in data)
+- Wake, D. B.
+Walck, Cyndie            (last name in Specify)
+- Walck, C.              (in Specify)
+Walker, Greg             (declared primary; not in data)
+- Walker, G.             (declared variant)
+Walker, Kate             (declared primary; in James' list)
+- Walker, K.             (declared variant)
+  [Walter, K.]           (declared name correction)
+Walsh, John Mike         (declared primary; not in data)
+- Walsh, J. M.
+  [J. M. Walsh]          (lexically altered name)
+- Walsh, M.
+Walz, Jason              (declared primary)
+- Walz, J.               (declared variant)
+  [Watz, J.]             (declared name correction)
+Ward, J.                 (last name in Specify)
+Warner, R. E.
+Warren, G. I.            (last name in Specify)
+Warren, G. J.            (last name in Specify)
+Warton, Mike             (declared primary; in James' list; last name in Specify)
+  [Warton, Mark]         (declared name correction)
+  [Mike Warton]          (lexically altered name)
+- Warton, M.             (declared variant; in Specify)
+  [Wartoh, Mike]         (declared name correction)
+  [Warton, M,.]          (lexically altered name)
+  [Warton, Ml]           (declared name correction)
+Waters, Randy M.         (declared primary; in James' list except M.I.)
+- Waters, R.
+  [Waters., R.]          (phonetically autocorrected last name)
+- Waters, R. M.          (declared variant)
+  [W., R.]               (declared name correction)
+- Waters, Randy
+Watkins, Faith           (declared primary; in James' list; last name in Specify; not in data)
+- Watkins, F.            (last name in Specify)
+  [Watkins F.]           (lexically altered name)
+Watson, Cyndee           (declared primary; in James' list; last name in Specify)
+Watson, Ellie            (declared primary; in James' list; last name in Specify)
+  [Watson, Ewe]          (declared name correction)
+  [Watson, Eve]          (declared name correction)
+  [Watson, Elie]         (declared name correction)
+  [Waton, Ellie]         (declared name correction)
+- Watson, E.             (in Specify)
+Watson, Jeffrey          (declared primary; last name in Specify; not in data)
+- Watson, J.             (last name in Specify)
+  [J. Watson]            (lexically altered name)
+Weaver, A. A.
+- Weaver, A.
+Weaver, Nancy            (declared primary; not in data)
+- Weaver, N.
+Webb, James P.           (declared primary; last name in Specify; not in data)
+- Webb, J. P.            (last name in Specify)
+Weirich, Kayla
+Weisman, D. M.
+Weissling, Blake         (declared primary; not in data)
+- Weissling, B.
+Welborn, Brett           (declared primary; in James' list)
+  [Welbourn, Brett]      (declared name correction)
+- Welborn, B.            (declared variant)
+  [Welbourn, B.]         (declared name correction)
+Welbourn, W. Calvin      (declared primary; not in data)
+- Welbourn, C.           (declared variant)
+- Welbourn, Cal          (declared variant)
+- Welbourn, W. C.
+Westbrook, Cynthia       (declared primary; in James' list)
+Westmoreland, Carol      (declared primary; not in data)
+- Westmoreland, C.
+White, Jack              (last name in Specify)
+White, Kemble            (declared primary; in James' list; last name in Specify)
+  [White, Kimble]        (declared name correction)
+  [Kemble White]         (lexically altered name)
+- White, K.              (in Specify)
+  [White, K]             (lexically altered name)
+White, Richard E.        (declared primary; last name in Specify; not in data)
+- White, R.              (last name in Specify)
+- White, R. E.           (last name in Specify)
+Whitehead, Donald R.     (declared primary; not in data)
+- Whitehead, D. R.
+Whitfield, Terri         (declared primary; in James' list)
+- Whitfield
+- Whitfield, T.
+Whitis, Duane            (declared primary; last name in Specify; not in data)
+- Whitis, D.             (last name in Specify)
+Whitney, Cat             (declared primary; not in data)
+- Whitney, C.
+Whitwell, Olivia         (declared primary)
+- Whitwell, O.
+Wild, Alex               (in Specify; not in data)
+- Wild, A.               (last name in Specify)
+Wiley, Suzanne           (declared primary; in James' list; in Specify)
+  [Wiley, Sizamme]       (declared name correction)
+- Wiley, S.              (last name in Specify)
+  [Wiley, S]             (lexically altered name)
+  [Wyley, S.]            (phonetically autocorrected last name)
+  [wiley, S.]            (lexically altered name)
+Wilk, Lisa               (declared primary; in James' list)
+- Wilk, L.               (declared variant)
+  [W., L.]               (declared name correction)
+Williams, James          (last name in Specify)
+Williams, Jeanne         (declared primary; last name in Specify)
+  [Willimas, Jeanne]     (declared name correction)
+- Williams, J.           (declared variant; last name in Specify)
+  [Willimas, J.]         (declared name correction)
+Wilson, Brad             (declared primary; not in data)
+- Wilson, B.             (declared variant)
+Wilson, Jonathan
+Winterath, Steven A.     (declared primary)
+  [Winterath, A.]        (declared name correction)
+- Winterath, S.
+  [Winterath S.]         (lexically altered name)
+  [Winterath, S]         (lexically altered name)
+  [Wintrath, S.]         (declared name correction)
+- Winterath, S. A.
+Wirth, Willis W.         (declared primary; last name in Specify; not in data)
+- Wirth, W. W.           (in Specify)
+Wolf, Barbara            (declared primary; in James' list; not in data)
+- Wolf, B.
+Wolff, Jim               (declared primary; in James' list; last name in Specify)
+- Wolff, J.              (declared variant; in Specify)
+  [Wolf, J.]             (declared name correction)
+  [Wollf, J.]            (declared name correction)
+Woods, Spencer           (declared primary; in James' list)
+- Woods, S.
+Woolsey, Sharon          (declared primary; in James' list; not in data)
+- Woolsey, S.
+Yates, Charley           (declared primary; in James' list; not in data)
+- Yates, C.
+Yode
+Young, Amanda            (declared primary; in James' list; last name in Specify; not in data)
+- Young, A.              (in Specify)
+  [A. Young]             (lexically altered name)
+Young, Diane             (declared primary; in James' list; last name in Specify; not in data)
+- Young, D.              (last name in Specify)
+Young, Katrina           (declared primary; last name in Specify)
+  [Katrina]              (declared name correction)
+Zaldivar, Matt           (declared primary; in James' list)
+  [Matt Zaldivar]        (lexically altered name)
+Zappitello, Matt         (declared primary; in James' list)
+Zappitello, Saj          (declared primary; in James' list)
+- Zappitello, S.
+  [S. Zapitello]         (lexically altered name)
+  [S. Zappitello]        (lexically altered name)
+  [Zapitello, S.]        (declared name correction)
+  [Zapittello, S.]       (phonetically autocorrected last name)
+  [Zappittello, S.]      (declared name correction)
+Zara Environmental       (declared primary)
+Zarria, Rich             (declared primary; not in data)
+- Zarria, R.
+  [R. Zarria]            (lexically altered name)
+Zeman, Steve
+- Zeman, S.
+  [Zeaman, S.]           (phonetically autocorrected last name)
+Zenker, Andy             (declared primary; in James' list)
+  [Zenker, Andy.]        (declared name correction)
+  [Z., Andy]             (declared name correction)
+- Zenker, A.
+Zimmerman, R.
+Zough, Lee May
+
+- indictates a synonymous variant of the primary name
+[name] indicates raw source text, though shown space-normalized
+
+==== Errors Parsing Names in Cave Collection ====
+
+* ID/Cat No. 96317/95313: Name 'M.' consists only of an initial in collector; Name 'R.' consists only of an initial in collector
+
+  Found name parsing errors in 1 records
+
+==== Warnings Parsing Names in Cave Collection ====
+
+* ID/Cat No. 95736/73012: extraneous name delimiter in collector
+* ID/Cat No. 95737/73011: extraneous name delimiter in collector
+* ID/Cat No. 95741/75321: extraneous name delimiter in determiner
+* ID/Cat No. 96549/95427: extraneous name delimiter in determiner
+
+  Found name parsing warnings in 4 records
+
+---- Names from Specify that failed to parse ----
+
+1 Curator             | 2012 Field           
+2012 Field Ent. Class | 2001 Field           
