@@ -21,6 +21,8 @@ All reports require that you name a source CSV file, which is a CSV export of Ja
 
 Reports may require the presence of a file called `declared-names.txt`, which maps ambiguous or incomplete agent names to the names that are to appear in reports.
 
+The tool is not expected to have value once all of James' data has been imported into the DB and printed to specimen labels.
+
 ## Installation
 
 ```
