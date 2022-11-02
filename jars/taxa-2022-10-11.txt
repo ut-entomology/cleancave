@@ -1,0 +1,31 @@
+Arthropoda | Arachnida | - | Scorpiones | - | - | - | - | --
+
+Arthropoda | Malacostraca | - | Isopoda | Oniscoidea | - | - | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Carabidae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | - | - | --
+
+Arthropoda | Diplopoda | - | Julida | - | - | Parajulidae | - | --
+
+Arthropoda | Arachnida | Acari | - | - | - | - | - | --
+
+Arthropoda | .Malacostraca | - | Isopoda | - | - | Trichoniscidae | - | --
+
+Arthropoda | Symphyla | - | - | - | - | Scutigerellidae | - | --
+
+Annelida | Oligochaeta | - | Haplotaxida | - | - | Lumbricidae | - | --
+
+Arthropoda | Insecta | - | Orthoptera | - | - | Rhaphidophoridae | - | --
+
+Arthropoda | Insecta | - | Coleoptera | - | - | Scraptiidae | - | --
+
+Annelida | Hirudinea | - | Arynchobdellida | - | - | - | - | --
+
+Annelida | Hirudinea | - | Arynchobdellida | - | - | Erpobdellidae | - | --
+
+-14750,(3174),(16359),(74706),60187,(45194),(45198),(52409)
+-(52410),(52411),(52413),(52414),(52415),(52416),(52417)
+-(52481),(52784),(53744),(58819),(58820),(58821),(58877)
+-(60053),(58819),(96282),(86279),(66282),(60990),(93278)
+-(95073),(95580),(96529)
