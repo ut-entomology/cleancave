@@ -80,7 +80,7 @@ If the change is clearly a newly introduced name, nothing needs to be done.
 Labels can be generated for all of the data at once, but they're usually generated for each set of jars that James has completed verifying. This command generates them for a particular set of jars:
 
 ```
-python3 src/reporter/main.py path/to/csv-file.csv -rL -p -xjars/jars-2022-05-07.txt > labels.txt
+python3 src/reporter/main.py path/to/csv-file.csv -rL -p -c -xjars/jars-2022-05-07.txt > labels.txt
 ```
 
 The `-p` says to produce a printable version other labels. You can leave that out if you want a more readable version that also reports problems.

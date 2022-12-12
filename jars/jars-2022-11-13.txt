@@ -1,0 +1,145 @@
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Leiobunum flavum
+
+Arthropoda | Insecta | - | Diptera | - | - | Anthyomiidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Bibionidae | - | --
+
+
+Arthropoda | Insecta | - | Diptera | - | - | Cecidomyiidae | - | --
+
+Arthropoda | Insecta | - | Diptera | - | - | Ceratopogonidae | - | Forcipomyia sp.
+
+Arthropoda | Insecta | - | Diptera | - | - | Chironomidae | - | --
+
+Arthropoda | Insecta | - | Diptera | - | - | Chironomidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Chironomidae | Orthocladiinae | --
+Arthropoda | Insecta | - | Diptera | - | - | Chironomidae | - | Chironomus sp.
+
+Arthropoda | Insecta | - | Diptera | - | - | Chloropidae | - | --
+
+Arthropoda | Insecta | - | Diptera | - | - | Culicidae | - | --
+Arthropoda | Insecta | - | Diptera | - | - | Culicidae | - | Culiseta sp.
+
+Arthropoda | Insecta | - | Diptera | - | - | Dolichopodidae | - | --
+
+Arthropoda | Insecta | - | Diptera | - | - | Drosophilidae | - | --
+
+Arthropoda | Insecta | - | Diptera | - | - | Hwlomyzise | - |sp. 
+Arthropoda | Insecta | - | Diptera | - | - | Helomyzidae | - | Amoeblaria sabroskyi
+
+Arthropoda | Concastraca | - | | - | - | - | - | --
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | - | - | --
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Bogidiellidae | - | Artesia subterranea
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Crangonyctidae | - | Stygobromus balconis
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Crangonyctidae | - | Stygobromus dejectus
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Crangonyctidae | - | Stygobromus flagellatus
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Crangonyctidae | - | Stygobromus longipes
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Crangonyctidae | - | Stygobromus pecki
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Crangonyctidae | - | Stygobromus bifurcatus
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Crangonyctidae | - | Stygobromus russelli
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Paraholsingerius smaragdinus
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Paramexieckelia ruffoi
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Texiweckelia texensis
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Texiweckeliopsis insolita
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hyalellidae | - | Hyalella azteca
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hyalellidae | - | Hyalella sp.
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hyalellidae | - | Hyalella texana
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Allotexiweckelia hirsuta
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Holsingerius samacos
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Holsingerius sp.
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Mexiweckelia colei
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Mayaweckelia cenoticola
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Hadziidae | - | Mayaweckelia yucatanensis
+
+Arthropoda | Malacostraca | - | Amphipoda | - | - | Sebidae | - | Seborgia relicta
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | --
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Caecidotea bicrenata
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Caecidotea sp.
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Caecidotea reddelli
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Lirceolus bisetus
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Lirceolus cocytus
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellida | - | Lirceolus hardeni/bisetus
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Lirceolus new species
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Lirceolus pilus
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Lirceolus sp.
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Asellidae | - | Lirceolus hardeni
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Cirolanidae | - | Creaseriella anops
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Cirolanidae | - | Mexilana saluposi
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Cirolanidae | - | Speocirolana bolivari
+Arthropoda | Malacostraca | - | Isopoda | - | - | Cirolanidae | - | Speocirolana guerrai
+Arthropoda | Malacostraca | - | Isopoda | - | - | Cirolanidae | - | Speocirolana hardeni
+Arthropoda | Malacostraca | - | Isopoda | - | - | Cirolanidae | - | Speocirolana sp.
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Cirolanidae | - | Speocirolana pelaezi
+
+Arthropoda | Malacostraca | - | Isopoda | - | - | Stenasellidae | - | Mexistenasellus coahuila
+Arthropoda | Malacostraca | - | Isopoda | - | - | Stenasellidae | - | Mexistenasellus colei
+Arthropoda | Malacostraca | - | Isopoda | - | - | Stenasellidae | - | Mexistenasellus parzefalli
+Arthropoda | Malacostraca | - | Isopoda | - | - | Stenasellidae | - | Mexistenasellus sp.
+
+Arthropoda | Malacostraca | - | Isopoda | Onoiscoidea | - | - | - | [Country: MEXICO]
+
+Arthropoda | Malacostraca | - | Decapoda | Natantia | - | - | - | --
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Alpheidae | - | Alpheopsis stygicola
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Atyidae | - | Typhlatya campecheae
+Arthropoda | Malacostraca | - | Decapoda | - | - | Atyidae | - | Typhlatya mitchelli
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Atyidae | - | Typhlatya pearsei
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | --
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus mirandai
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus oaxacae oaxacae
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus oaxacae reddelli
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus hamulatus
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Cambarus tenebrosus
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus simulans
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus simulans simulans
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus toltecae
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus xilitlae
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus cuetzalanae
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus xochitlanae
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Cambaridae | - | Procambarus clarkii
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Palaemonidae | - | Calathaemon holthuisi
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Palaemonidae | - | Creaseria morleyi
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Palaemonidae | - | Neopalaemon nahuatlus
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Palaemonidae | - | Macrobrachium villalobosi
+Arthropoda | Malacostraca | - | Decapoda | - | - | Palaemonidae | - | Neopalaemon nahuatlus
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Palaemonidae | - | Palaemon antrorum
+
+Arthropoda | Malacostraca | - | Decapoda | - | - | Pseudothelphyusa | - | Pseudothelphusa grantensis
+
+- 91961,91962,91963,91964,(60535),91966,91967,91968,(68528),(60522),(68526)
+- (60554),(60555),(60556),(60577),95648
