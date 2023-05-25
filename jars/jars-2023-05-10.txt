@@ -1,0 +1,190 @@
+Arthropoda | Arachnida | - | Araneae | - | - | Agelenidae | - | --
+
+Arthropoda | Arachnida | - | Araneae | - | - | Agelenidae | - | Agelenopsis aperta
+Arthropoda | Arachnida | - | Araneae | - | - | Agelenidae | - | Agelenopsis sp.
+
+Arthropoda | Arachnida | - | Araneae | - | - | Amaurobiidae | - | --
+
+Arthropoda | Arachnida | - | Araneae | - | - | Amphinectidae | - | Metaltella simoni
+
+Arthropoda | Arachnida | - | Araneae | - | - | Anyphaenidae | - | --
+Arthropoda | Arachnida | - | Araneae | - | - | Anyphaenidae | - | Anyphaena fraterna
+Arthropoda | Arachnida | - | Araneae | - | - | Anyphaenidae | - | Anyphaena sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Anyphaenidae | - | Hibana sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Anyphaenidae | - | Wulfila sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Anyphaenidae | - | Wulfila tantillus
+
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | --
+
+Arthropoda | Arachnida | - | Araneae | -| - | Araneidae | - | Araneus sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Argiope aurantia
+
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Alpaida sp.
+Arthropoda | Arachnida | - | Araneae | -| - | Araneidae | - | Araneus sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Cyclosa sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Hypsosinga funebris
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Mangora placida
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Mangora sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Micrathena sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Neoscona oaxacensis
+Arthropoda | Arachnida | - | Araneae | - | - | Araneidae | - | Ocrepeira sp.
+
+Arthropoda | Arachnida | - | Araneae | - | - | Barychelidae | - | --
+
+Arthropoda | Arachnida | - | Araneae | - | - | Caponiidae | - | Orthonops sp.
+
+Arthropoda | Arachnida | - | Araneae | - | - | Clubionidae | - | --
+Arthropoda | Arachnida | - | Araneae | - | - | Clubionidae | - | Clubiona sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Clubionidae | - | Elaver excepta
+
+Arthropoda | Arachnida | - | Araneae | - | - | Corinnidae | - | --
+Arthropoda | Arachnida | - | Araneae | - | - | Corinnidae | - | Castianeira amoena
+Arthropoda | Arachnida | - | Araneae | - | - | Corinnidae | - | Castianeira sp.
+Arthropoda | Arachnida | - | Araneae | - | - | Corinnidae | - | Falconina gracilis
+
+Arthropoda | Arachnida | - | Araneae | - | - | Corinnidae | - | Corinna sp.
+
+Arthropoda | Arachnida | - | Araneae | - | - | Ctenidae | - | --
+
+Arthropoda | Arachnida | - | Araneae | - | - | Ctenidae | - | Ctenus mitchelli
+
+Arthropoda | Arachnida | - | Araneae | - | - | Ctenidae | - | Ctenus sp.
+
+Arthropoda | Arachnida | - | Araneae | - | - | Ctenidae | - | Ctenus valverdiensis
+
+Arthropoda | Arachnida | - | Araneae | - | - | Ctenidae | - | Leptoctenus byrrhus
+Arthropoda | Arachnida | - | Araneae | - | - | Ctenidae | - | Leptoctenus sp.
+
+Arthropoda| Arachnida | - | Araneae | - | - | Dictynidae | - | --
+
+Arthropoda | Arachnida | - | Opilionida  | - | - | - | --
+
+Arthropoda | Arachnida | - | Opilionida | Laniatores | - | - | - | --
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | --
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Cynorta formosa
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Cynorta jamesoni
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Cynorta sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Cynorta jamesoni 
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Erginulus bimaculate 
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Erginulus bimaculata
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Erginulus roeweri
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Vonones sandersoni
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Vonones sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Vonones sayi
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Nemastomatidae | - | Trilasma sbordonii
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Cosmetidae | - | Paecilaema sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | --
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella n. sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella cokendolpheri
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella renkesae
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella spinoperca
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella tuberculata
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella whitei
+
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella brevistyla
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella cokendolpheri
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella diplospina
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella fendi
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella grubbsi
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella hardeni
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella hilgerensis
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella longistyla
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella spinoperca
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella tuberculata
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella whitei
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella fendi
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella grubbsi
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella mulaiki
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella reddelli
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella reyesi
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Phalangodidae | - | Texella reyesi 
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sabaconidae | - | Sabacon cavicolens
+.Arthropoda | Arachnida | - | Opilionida | - | - | Sabaconidae | - | Sabacon sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Dalquestia formosa
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Geaya belizensis
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Geaya sp.
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Geaya yucatana
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Leiobunum sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Leiobunum (?) n. sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Leiobunum viridorsum
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | new genus
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | New genus near Paranelima n. sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Parageaya n. sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | - | Trachyrhinus dicropalpus 
+
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | Gagrellinae | --
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Sclerosomatidae | Leiobuninae | --
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnommatidae | - | --
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | --
+
+# PARATYPES
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Hoplobunus apoalensis
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Hoplobunus inops
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Hoplobunus oaxacensis
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Hoplobunus robustus
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Hoplobunus spinooculorum
+
+# PARATYPES
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Pellobunus mexicanus
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Hoplobunus sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Hoplobunus n.spp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Chinquipellobunus mexicanus
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Chinquipellobunus osorioi
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Chinquipellobunus sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Chinquipellobunus madlae
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Mictlana inops
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Mictlana n. sp. nr. inops
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Mictlana n. sp. nr. planus
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Mictlana planus
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Serrobunus boneti
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Paramitraceras granulatus
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Serrobunus sp.
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Stygnopsis n.sp. nr. Robustus
+
+Arthropoda | Arachnida | - | Opilionida | - | - | Stygnopsidae | - | Serrobunus robustus
+
+
+
+

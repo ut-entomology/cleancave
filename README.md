@@ -31,6 +31,7 @@ cd cleancave
 # set PYTHONPATH to the current directory (e.g. source ./exec/setpath)
 source ./bin/activate
 ./exec/install-pips
+export PYTHONPATH="${PYTHONPATH}:/path/to/project"
 ```
 
 ## Usage
