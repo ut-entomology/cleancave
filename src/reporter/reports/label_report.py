@@ -362,10 +362,13 @@ class LabelReport(Report):
                 if record.county is None and record.country == "USA":
                     notes.append("missing county")
 
-        if self._exceeds_label_width(label):
-            label = label.replace("Galapagos Islands", "Galapagos")
-            # label = label.replace("Mun.", "M.")
-        label += " "  # space after the country line colon
+        try:
+            if self._exceeds_label_width(label):
+                label = label.replace("Galapagos Islands", "Galapagos")
+                # label = label.replace("Mun.", "M.")
+            label += " "  # space after the country line colon
+        except:
+            raise Exception("Error with record ID %d, cat no. %d" % (record.id, record.catalog_number));
 
         # Add the locality, if there is any.
 
