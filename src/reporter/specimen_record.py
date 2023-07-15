@@ -48,6 +48,7 @@ class SpecimenRecord(LatLongRecord):
         lat_longs: Optional[LatLongTable],
         declared_names_table: DeclaredNamesTable,
         raw_id: str,
+        raw_proofed: str,
         raw_catalog_number: str,
         raw_phylum: str,
         raw_class: str,
@@ -105,6 +106,7 @@ class SpecimenRecord(LatLongRecord):
 
         # Load from raw data.
 
+        self.proofed: str = raw_proofed
         self.det_descriptors: list[str] = []
         self.phylum = self._parse_non_empty("phylum", raw_phylum)
         self.class_ = self._parse_taxon(raw_class)

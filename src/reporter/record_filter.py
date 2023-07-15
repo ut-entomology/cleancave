@@ -57,6 +57,15 @@ class CompoundRecordFilter(RecordFilter):
         return True
 
 
+class ProofedFilter(RecordFilter):
+    def __init__(self, value: str):
+        super().__init__("Designated Proofed Records")
+        self._value: str = value
+
+    def test(self, record: "SpecimenRecord") -> bool:
+        return record.proofed == self._value
+
+
 class StrictlyTexasCaveRecordFilter(RecordFilter):
     def __init__(self):
         super().__init__("Strictly Texas Cave Records")

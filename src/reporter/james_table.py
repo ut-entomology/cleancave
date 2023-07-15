@@ -227,6 +227,7 @@ class JamesTable:
             self._lat_longs,
             self.declared_names_table,
             row["ID"].strip(),
+            row["Proofed-JR"].strip(),
             raw_catalog_number,
             row["Phylum"].strip(),
             row["Class"].strip(),

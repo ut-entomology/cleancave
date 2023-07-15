@@ -62,6 +62,7 @@ class Norm:
                 "0=0 specimen counts by taxa, AC=collectors, DC=localities per county\n"
             "-t restrict report to just Texas cave data\n"
             "-x=<taxa-file> restrict report to just the taxa in this file\n"
+            "-y=<proofed-tag> restrict report to just records with this proofed tag\n"
             "<specimen_csv> is the path to a CSV file of specimens. 'reference-lat-longs.csv'\n"
             "  is expected to be in the same directory, providing lat/long accuracy info.\n"
             "\n"
@@ -78,6 +79,7 @@ class Norm:
             "-r": self._parse_report_type,
             "-t": self._parse_texas_cave_report,
             "-x": self._parse_taxa_filter,
+            "-y": self._parse_proofed_filter,
             0: self._parse_specimen_csv,
             None: self._parse_no_arguments,
         }
@@ -209,6 +211,9 @@ class Norm:
     def _parse_taxa_filter(self, arg: str) -> None:
         self._jar_group_uniques = _load_file(args.expand_filename(arg))
         self._record_filters.append(TaxaFilter(self._jar_group_uniques))
+
+    def _parse_proofed_filter(self, arg: str) -> None:
+        self._record_filters.append(ProofedFilter(arg))
 
     def _parse_no_arguments(self, _arg: str) -> None:
         raise args.ArgException()
